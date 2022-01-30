@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A devs guide to...</title>
+    <link>https://eriolhugotest.github.io/devs-guide-to/</link>
+    <description>Recent content on A devs guide to...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Dev&#39;s guide to synthesis at Mozfest22</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - workshop</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis at FOSDEM22</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - Resource #3</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Developer and Design Collaboration in open source</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</guid>
+      <description>Explainer text goes here
+https://sosdesign.sustainoss.org/18</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;https://sosdesign.sustainoss.org/18&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Resource #2 of our user testing series</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</guid>
+      <description>What is this guide? This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+Who is it for? We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!</description>
+      <content>&lt;h4 id=&#34;what-is-this-guide&#34;&gt;What is this guide?&lt;/h4&gt;
+&lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
+&lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Find the full guide here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Imakefoss twitter take over</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</guid>
+      <description>Play the guide on itch.io here
+USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
+&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun - poster version</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</guid>
+      <description>Play the guide on itch.io here
+USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
+&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/about/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/about/</guid>
+      <description>Welcome to the Adoptable resources for Usable.tools Hello there, we&amp;rsquo;re the team over at Simply Secure&amp;hellip;
+We did x research&amp;hellip;
+to leanr x info&amp;hellip;
+Where we decided to focus on&amp;hellip;
+Created these resources   Resource #1
+  Resource #2
+  Resource #3
+  Resource #4
+  Future resources #?
+  We have lots of great ideas based in the intervew research to develop further so watch this space.</description>
+      <content>&lt;h1 id=&#34;welcome-to-the-adoptable-resources-for-usabletools&#34;&gt;Welcome to the Adoptable resources for Usable.tools&lt;/h1&gt;
+&lt;p&gt;Hello there, we&amp;rsquo;re the team over at Simply Secure&amp;hellip;&lt;/p&gt;
+&lt;p&gt;We did x research&amp;hellip;&lt;/p&gt;
+&lt;p&gt;to leanr x info&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Where we decided to focus on&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;created-these-resources&#34;&gt;Created these resources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Resource #1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resource #2&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resource #3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resource #4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Future resources #?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have lots of great ideas based in the intervew research to develop further so watch this space.&lt;/p&gt;
+&lt;h3 id=&#34;created-these-engagements&#34;&gt;Created these engagements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Engagement #1&lt;/li&gt;
+&lt;li&gt;Engagement #2&lt;/li&gt;
+&lt;li&gt;Engagement #3&lt;/li&gt;
+&lt;li&gt;Engagement #4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More enagements to come!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/showcase/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+      <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* PostCSS code */&lt;/span&gt;
+
+&lt;span style=&#34;color:#f92672&#34;&gt;pre&lt;/span&gt; {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#1a1a1d&lt;/span&gt;;
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;border-radius&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;rem&lt;/span&gt;;
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;overflow&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+
+  &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;@media&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;(--phone)&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;white-space&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;pre-wrap&lt;/span&gt;;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;word-wrap&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;break-word&lt;/span&gt;;
+  }
+
+  &lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt; {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;!important&lt;/span&gt;;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#ccc&lt;/span&gt;;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inherit&lt;/span&gt;;
+  }
+&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// JS code
+&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu-trigger&amp;#39;&lt;/span&gt;)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu&amp;#39;&lt;/span&gt;)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getComputedStyle&lt;/span&gt;(document.&lt;span style=&#34;color:#a6e22e&#34;&gt;body&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;getPropertyValue&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;--phoneWidth&amp;#39;&lt;/span&gt;)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; window.&lt;span style=&#34;color:#a6e22e&#34;&gt;matchMedia&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;matches&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; {
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+}
+
+&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;()
+
+&lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;, () =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;))
+
+window.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;resize&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- HTML code --&amp;gt;&lt;/span&gt;
+
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&amp;gt;
+  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+   &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+    {{ range .Pages }}
+      {{ .Render &amp;#34;summary&amp;#34;}}
+    {{ end }}
+  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
+&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
+&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
+&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
+&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
+&lt;ul&gt;
+&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
+&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A developers guide to user testing</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/</guid>
+      <description>Phase 0: A roadmap for open source teams 🗺️  What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind.</description>
+      <content>&lt;h1 id=&#34;phase-0-a-roadmap-for-open-source-teams-&#34;&gt;Phase 0: A roadmap for open source teams 🗺️&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;what-is-this-guide-&#34;&gt;What is this guide? 🏗️&lt;/h4&gt;
+&lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-it-for-&#34;&gt;Who is it for? 🖇️&lt;/h4&gt;
+&lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
+&lt;h3 id=&#34;what-is-user-testing-&#34;&gt;What is user testing? 👥&lt;/h3&gt;
+&lt;p&gt;User testing is a pillar of UX design. You watch someone use your software or prototype, ask them to “think aloud”, and ask them probing questions when necessary. The aim of user testing is to identify problems and gather information you will need to find solutions. During user testing, you can discover usability issues and bugs, but also learn about your users’ motivations. When you know your user better, you can make better software. User testing takes energy, but it’s worth it because you’ll feel more confident in your code, know your users better, and hopefully save time and energy in the future. You may think you’ve thought of everything, but during a user test you’re likely to have a few “mind blowing” moments that reveal your blindspots. That’s because you’re so close to your work - every once and a while you need someone to look at your software with a fresh perspective to see what you can’t.&lt;/p&gt;
+&lt;p&gt;User testing doesn’t have to be a big task. Any type of feedback from your users is valuable. If you’re already listening to and collecting feedback from your users - that’s great! Keep doing what you’re doing and when you feel you’re ready, come back to this guide - we’ll still be here!&lt;/p&gt;
+&lt;p&gt;We compiled user testing FAQs in our interactive companion resource &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;“User testing can be fun”&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-use-this-guide-&#34;&gt;How to use this guide 🦮&lt;/h3&gt;
+&lt;p&gt;This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, &lt;a href=&#34;#&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/number-plan.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-you-need-&#34;&gt;What You Need 📝&lt;/h3&gt;
+&lt;p&gt;You don’t need a lot of resources to do user testing. Support from your team is helpful, but at first you may need to conduct user tests by yourself in order to convince others of the benefits. Openness, humility, and curiosity are important qualities to embrace.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifically, it’s good to have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time to prepare, conduct, and reflect on the tests (the amount of time depends on the length and numbers of users tests but we recommend 10-15 hrs of time to plan, conduct, and reflect)&lt;/li&gt;
+&lt;li&gt;A place to plan the user tests and take notes, like EtherPad/Riseup Pad Google Docs, or Notion&lt;/li&gt;
+&lt;li&gt;Something to test, like your current software, a prototype, or a sketch&lt;/li&gt;
+&lt;li&gt;(If possible) Another person to take notes during the test&lt;/li&gt;
+&lt;li&gt;(If you’re working remote) A video/audio conferencing tool, like Jitsi or Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;get-in-to-the-user-testing-mindset-&#34;&gt;Get in to the user testing mindset 🧠&lt;/h3&gt;
+&lt;p&gt;You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the Five Whys, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Move on to Planning and operations&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Conducting a user test</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/conducting-a-user-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/conducting-a-user-test/</guid>
+      <description>Phase 3: Conducting a user test 🎛️  The Structure 🧱 A prepared script can help you remember everything and be your guide if your mind goes blank.
+  Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.</description>
+      <content>&lt;h1 id=&#34;phase-3-conducting-a-user-test-&#34;&gt;Phase 3: Conducting a user test 🎛️&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-structure-&#34;&gt;The Structure 🧱&lt;/h3&gt;
+&lt;p&gt;A prepared script can help you remember everything and be your guide if your mind goes blank.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Warmup: To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Testing: Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset. Example:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ask your user to do a task you prepared.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up an account to receive files from your source.&lt;/li&gt;
+&lt;li&gt;Turn off the VPN. Is it clear what is happening?&lt;/li&gt;
+&lt;li&gt;How would you customise which types of script to block?&lt;/li&gt;
+&lt;li&gt;Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;#&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are you thinking?&lt;/li&gt;
+&lt;li&gt;What are you looking for?&lt;/li&gt;
+&lt;li&gt;Why do you think this happened?&lt;/li&gt;
+&lt;li&gt;Can you give me more detail as to why you think that?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Closing: At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;interviewing-style-&#34;&gt;Interviewing Style 🎤&lt;/h3&gt;
+&lt;p&gt;You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt;. You can also use the ‘Five Whys’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.&lt;/p&gt;
+&lt;p&gt;Resist the urge to explain your software, correct their mistakes, or defend your choices. Instead, try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did correctly. Finally, give them plenty of time to answer. Don’t be afraid of silence or gaps in conversation, sometimes testers need time to think and respond (let them know that’s okay). This is especially important if you’re testing with someone who is speaking in their second or third language.&lt;/p&gt;
+&lt;h3 id=&#34;direct-recommendations-&#34;&gt;Direct Recommendations 🚦&lt;/h3&gt;
+&lt;p&gt;Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘Five Whys’ process to arrive at a root cause.&lt;/p&gt;
+&lt;h3 id=&#34;improvisation-&#34;&gt;Improvisation 🧑‍🎤&lt;/h3&gt;
+&lt;p&gt;Draft a script so that you can remember important points, but don’t feel the need to read it verbatim. Allowing the conversation to meander can be a good thing - you might learn something completely new about your users and software. Keep the focus related to the software and feel free to go back to a point in the script if the user takes you way off topic.&lt;/p&gt;
+&lt;h3 id=&#34;screen-sharing-&#34;&gt;Screen Sharing 📺&lt;/h3&gt;
+&lt;p&gt;It’s important that you can see what the tester is seeing so that you’re sure you know what they’re talking about. To do this, you can screen share while the tester gives you commands, or the tester can screen share (as long as you get their prior consent).&lt;/p&gt;
+&lt;h3 id=&#34;recording-&#34;&gt;Recording 📼&lt;/h3&gt;
+&lt;p&gt;If you want to record the session, it could be a good way to reference and analyze the tests. However, a dedicated note-taker can be sufficient - and the synthesis process (where you make sense of the information you’ve collected in testing) will be a lot faster. Working with a note-taker allows the interviewer to be present during the test and give their full attention to the tester. Just make sure to get the tester’s consent for any recording, whether it be video, voice, screen, or handwritten.&lt;/p&gt;
+&lt;h3 id=&#34;practice-&#34;&gt;Practice 🧗&lt;/h3&gt;
+&lt;p&gt;Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. The only way to get better is practice, practice, practice!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example script:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hello! We are [name] and [name] from [organization]. We are both developers trying to make our software better. We want your help to understand how you currently use, or don&amp;rsquo;t use, [software], and what would be better. I would love to hear your thoughts, so please think aloud. Feel free to speak your mind. We are not testing you, we are testing the prototype. We’re still working on it, so it might not work as you expect. We wanted to get your feedback early in the process.&lt;/p&gt;
+&lt;p&gt;This will take about 30 minutes. We won’t be recording but we will be taking handwritten notes, without identifying you. Is that ok with you?&lt;/p&gt;
+&lt;p&gt;Remember, you have the right to stop the test at any time. Do you have any questions before we begin?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warm Up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;How do you normally transfer sensitive files?&lt;/p&gt;
+&lt;p&gt;Approximately how many times have you transferred sensitive files in the past week?&lt;/p&gt;
+&lt;p&gt;Now we are going to look at a prototype. It has limited capability. If there are any interactions that are confusing, or any language you do not understand, please let me know.&lt;/p&gt;
+&lt;p&gt;This is the scenario: You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
+&lt;p&gt;Your task is to set up an account to receive files from your source. Can you show me how you would do that?&lt;/p&gt;
+&lt;p&gt;Remember to ask open-ended questions throughout, see &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt; and the &lt;a href=&#34;#&#34;&gt;Five Whys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Repeat for other tasks, if you planned any]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for your time. You’ve helped a lot and this is exactly what we needed. That&amp;rsquo;s all the questions we have. We really appreciate all your insights and learned a lot from your experience. Is there anything else you would like to share?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;next-steps-&#34;&gt;Next steps 👣&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, &lt;a href=&#34;#&#34;&gt;Synthesis for open source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Five whys</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/five-whys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/five-whys/</guid>
+      <description>Interview tactic: The Five Whys 🪜 The ‘Five Whys’ (also know as conversation laddering) is a tactic to help interviewers discover the root motivation or cause of a problem and come to an actionable statement the team can pursue to solve it. During an interview or user testing you may hear a statement about a user action or problem.
+Statement from a Jo Doe, a typical user of a made-up file sharing service called ‘AwesomeDocuments’: I [the user] do not password protect my shared files.</description>
+      <content>&lt;h1 id=&#34;interview-tactic-the-five-whys-&#34;&gt;Interview tactic: The Five Whys 🪜&lt;/h1&gt;
+&lt;p&gt;The ‘Five Whys’ (also know as conversation laddering) is a tactic to help interviewers discover the root motivation or cause of a problem and come to an actionable statement the team can pursue to solve it. During an interview or user testing you may hear a statement about a user action or problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Statement from a Jo Doe, a typical user of a made-up file sharing service called ‘AwesomeDocuments’:&lt;/strong&gt; I [the user] do not password protect my shared files.&lt;/p&gt;
+&lt;p&gt;This is your opportunity to expand on that statement to get more information because this is vital information for finding solutions. If you assume Jo’s problem without asking “why”, you could eventually build a solution that doesn’t help. Asking “why” can help you arrive at the root cause. If you ask “why” several times, you journey deeper into the problem space and collect more details. “Five” is just an example - it could take less than five “why” questions, or it may take a few more. And you may discover that you have more than one root motivation, like in the example below.&lt;/p&gt;
+&lt;p&gt;Example of the a conversation that employs the Five Whys technique:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;The why&amp;rsquo;s&lt;/th&gt;
+&lt;th&gt;Interviewer question&lt;/th&gt;
+&lt;th&gt;User answer&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;1st ‘why’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Interviewer:&lt;/strong&gt; &lt;code&gt;Why&lt;/code&gt; don’t you password protect your files when you want to share them?&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Jo Doe:&lt;/strong&gt; Well, it’s because files need to be shared quickly with my colleagues in the field when they’re out on a critical task.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;2nd ‘why’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Interviewer:&lt;/strong&gt; &lt;code&gt;Why&lt;/code&gt; is it important that these files are shared quickly?&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Jo Doe:&lt;/strong&gt; Because it’s often critical information that is time sensitive.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;3rd ‘why’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Interviewer:&lt;/strong&gt; &lt;code&gt;Why?&lt;/code&gt; Can you tell me more about this time sensitive information?&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Jo Doe:&lt;/strong&gt; Other people need this information quickly to make decisions on how to help. The extra seconds it takes to add a secure password is less important than getting the information to headquarters in time for them to take action.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;4th ‘why’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Interviewer:&lt;/strong&gt; I can see why time is critical now, but can you tell me &lt;code&gt;why&lt;/code&gt; it doesn’t work as well when you add a password to the documents?&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Jo Doe:&lt;/strong&gt; Because sometimes the password doesn’t come through or they type it wrong on the other end. It’s so frustrating so I stopped doing it and nobody has complained yet!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;5th ‘why’&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Interviewer:&lt;/strong&gt; &lt;code&gt;Why&lt;/code&gt; do you think the people at headquarters are typing passwords wrong or a password doesn’t come through to them?&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Jo Doe:&lt;/strong&gt; Because they are also in a hurry to take action on an emergency and it’s just not important to them to take the extra seconds to wait for a password and make sure it’s correct.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It can sometimes feel odd to keep asking your tester ‘why’ so we suggest a few different ways of phrasing the ‘why’:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you explain why that’s the case?&lt;/li&gt;
+&lt;li&gt;Can you give me more detail as to why you think that?&lt;/li&gt;
+&lt;li&gt;Why do you think this happened?&lt;/li&gt;
+&lt;li&gt;Is there another aspect of what you described that you want to expand on? (Notice how there’s no ‘why’ word in this statement but it still asks ‘why’ in another way!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There is a certain amount of ‘clarifying’ that can be done with user motivations. A follow-up clarification can look like:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It sounds like in your circumstances &lt;strong&gt;you don’t have&lt;/strong&gt; &lt;strong&gt;time to make a secure password&lt;/strong&gt; for a file and also your colleague &lt;strong&gt;does not have time to enter a password&lt;/strong&gt; to view the file. Furthermore, it also sounds like &lt;strong&gt;the room for errors in secure password creation and entry&lt;/strong&gt; is a reason you don’t password protect files. Does that sound right?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If the user tester agrees then you have two root motivations, one is &lt;strong&gt;time taken&lt;/strong&gt; and the other is &lt;strong&gt;accuracy trust&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As a tool creator, you now have an understanding of two root motivations that you need to address in order to help users achieve their goal. One motivation comes from the user you spoke with and another motivation comes from the user at headquarters (you can investigate this further if you want to). Now work with your team to consider all the ways you can improve time taken and accuracy trust.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Move on to Synthesis for open-source&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Planning and operations</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/</guid>
+      <description>Phase 1: Getting ready for user testing 🪞  Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.
+What 🔎 Deciding what to test depends on your team’s agreed upon roadmap. If a user testing phase is already built-in to your development process, you can skip this step.</description>
+      <content>&lt;h1 id=&#34;phase-1-getting-ready-for-user-testing-&#34;&gt;Phase 1: Getting ready for user testing 🪞&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.&lt;/p&gt;
+&lt;h3 id=&#34;what-&#34;&gt;What 🔎&lt;/h3&gt;
+&lt;p&gt;Deciding what to test depends on your team’s agreed upon roadmap. If a user testing phase is already built-in to your development process, you can skip this step. But if you’d like to do a user test and you don’t know what to test (kudos to you!), there are a number of options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ideas for what to test with users:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;New features&lt;/li&gt;
+&lt;li&gt;Known pain-points or bugs&lt;/li&gt;
+&lt;li&gt;Something you’re curious about&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Feeling anxious?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typically features or parts of a tool that are in development are a great choice because they’re already the focus. However, your team may be apprehensive because user testing might uncover critical errors or misunderstandings. If testing reveals that something can be done better, that doesn’t mean you have to stall development. It means that you now have more information for future improvements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about or that isn’t working so well.&lt;/p&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can the user add a new entry?&lt;/li&gt;
+&lt;li&gt;Can the user sign up?&lt;/li&gt;
+&lt;li&gt;Can the user send a message?&lt;/li&gt;
+&lt;li&gt;Can the user upload their first document?&lt;/li&gt;
+&lt;li&gt;Can the user fill out their profile?&lt;/li&gt;
+&lt;li&gt;Does the user understand the message?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-&#34;&gt;Why 🏷️&lt;/h3&gt;
+&lt;p&gt;What is your goal? What do you hope to learn? This helps the team remember why you are testing.
+Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We want to know if the messaging is clear before we commit.&lt;/li&gt;
+&lt;li&gt;We get a lot of questions about the signup process so we want to know what to change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-&#34;&gt;How 🤖&lt;/h3&gt;
+&lt;p&gt;Depending on what you decided to test, you may share a prototype with your tester, a beta version, or your current version. Keep in mind that it can be challenging for users to install software that they don’t already have. Is it possible to share a staging version of the tool? Or a live web version if what you want to test is functional? You can also create a simple prototype. To mimic real software, you can simply put a sketch on Google Slides or a PDF. You and your tester just need a common frame of reference.&lt;/p&gt;
+&lt;h3 id=&#34;who-testers-&#34;&gt;Who (Testers) 👋&lt;/h3&gt;
+&lt;p&gt;Who are you going to recruit to be a tester? It’s best to find people who are similar to your target users, but if that’s not possible, you can still test for usability with almost anyone (except people on your team - they know too much!). Inviting the same testers who participated in a previous session won’t produce the best results - you want people with a fresh perspective. Try to get different types of testers so that you’re learning from and about a wide range of users and being inclusive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;power users&lt;/strong&gt;&lt;/em&gt;. These are users that know every aspect of your tool and have been using it or something similar for years.&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;new users&lt;/strong&gt;&lt;/em&gt; of your tool or have never used the feature or part of the tool you&amp;rsquo;re testing.&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;high risk users&lt;/strong&gt;&lt;/em&gt;. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: &lt;a href=&#34;https://simplysecure.org/blog/design-spot-high-risk-research/&#34;&gt;link&lt;/a&gt;, &lt;a href=&#34;https://usable.tools/personas/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;People who consider themselves &lt;em&gt;&lt;strong&gt;‘techy’&lt;/strong&gt;&lt;/em&gt; and people who consider themselves &lt;em&gt;&lt;strong&gt;‘not techy’&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;People with &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://simplysecure.org/designunderpressure/#stress-cases&#34;&gt;malicious intentions&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; (or people that can pretend to have malicious intentions).&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;distracted&lt;/strong&gt;&lt;/em&gt; as they use the tool. Think about people with children, jobs where they are ‘on call’, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A note on compensation: In an ideal world, you’d &lt;a href=&#34;https://medium.com/mixed-methods/guidelines-for-paying-ux-research-participants-f6eca2dc9cc3&#34;&gt;compensate people&lt;/a&gt; for their time, expertise, and feedback. However, we understand that this is a lean user testing process. Can you offer them something other than money, such as swag, account upgrades, etc? If you can’t offer anything, try to keep the tests on the shorter side and of course, offer your thanks.&lt;/p&gt;
+&lt;h3 id=&#34;who-facilitators-&#34;&gt;Who (Facilitators) 🧑‍✈️&lt;/h3&gt;
+&lt;p&gt;Depending on your personality, setting up and conducting tests can be tiring. One to two people can lead the task, but others should jump in to help with notes or observation. Decide how to split up the task in the beginning, keeping in mind everyone’s availability. Consider who in your team feels the most comfortable talking to new people and ‘building rapport’ with users as sometimes the interactions can feel awkward until you get into the testing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing organizer (emails with testers, sends calendar events, etc): Malek&lt;/li&gt;
+&lt;li&gt;Test 1 interviewer: Joon&lt;/li&gt;
+&lt;li&gt;Test 1 note-taker: Trina&lt;/li&gt;
+&lt;li&gt;Test 2 interviewer: Trina&lt;/li&gt;
+&lt;li&gt;Test 2 note-taker: Malek&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-many-&#34;&gt;How Many 🧺&lt;/h3&gt;
+&lt;p&gt;How many tests will you do? We recommend two to four tests if you’re just getting started. One test is also good (and better than none). Most UX professionals agree that five tests are sufficient in order to gain information that trends a direction, although this can be challenging for small teams without a dedicated designer.&lt;/p&gt;
+&lt;h3 id=&#34;how-long-&#34;&gt;How Long 🧵&lt;/h3&gt;
+&lt;p&gt;Deciding the duration of each test helps the team and your participants manage expectations. We like to do 20-minute, 30-minute, or 45-minute tests, depending on the size of the task. Remember to give yourself some buffer time and end the test promptly at the time limit to respect the participant’s time. Don’t feel the need to schedule test sessions back to back - give your team a break between sessions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Test duration: 30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;where-&#34;&gt;Where 🏢&lt;/h3&gt;
+&lt;p&gt;Testing can be done in-person and remotely. We recommend that everyone’s face is visible (unless anonymity is crucial) and you all can see what’s being tested. If you give a phone or a laptop to the user, sit next to them (if culturally appropriate) so that you can watch the process. If the testing is remote, you can share your screen (the participant verbally gives commands while you perform the operations) or ask them to share their screen (making sure to get their consent in advance).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Jitsi video call with participant screen sharing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lookback.io (not open source sadly!)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Full Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WHAT: Can the user upload their first document to the “my notes” section?&lt;/li&gt;
+&lt;li&gt;WHY: To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&amp;rsquo;s not. Find UX improvements to propose for the next sprint.&lt;/li&gt;
+&lt;li&gt;HOW: Prototype in Google Slides&lt;/li&gt;
+&lt;li&gt;WHO (Testers): 2 users who already use our software, 2 users who routinely make digital notes but not in our tool&lt;/li&gt;
+&lt;li&gt;WHO (Facilitators): Samir and Frank&lt;/li&gt;
+&lt;li&gt;HOW MANY: 4 tests (if possible)&lt;/li&gt;
+&lt;li&gt;HOW LONG: 45 minutes&lt;/li&gt;
+&lt;li&gt;WHERE: Zoom with participant screen sharing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Recruiting testers</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/recruiting-testers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/recruiting-testers/</guid>
+      <description>Phase 2: Gathering your users for testing 🎣  Once you have your intentions documented, you can translate that information to recruit testers.
+Make a list of possible outreach channels where your community gathers, such as: your email list, Twitter followers, bug reports, related communities on Reddit or Discord, your website, or your forum. You could also attend relevant conferences or events related to OSS or your tool and perform user testing during the event.</description>
+      <content>&lt;h1 id=&#34;phase-2-gathering-your-users-for-testing-&#34;&gt;Phase 2: Gathering your users for testing 🎣&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Once you have your intentions documented, you can translate that information to recruit testers.&lt;/p&gt;
+&lt;p&gt;Make a list of possible outreach channels where your community gathers, such as: your email list, Twitter followers, bug reports, related communities on Reddit or Discord, your website, or your forum. You could also attend relevant conferences or events related to OSS or your tool and perform user testing during the event.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Craft a screener (a short outreach message) that includes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who you are looking for, what kinds of ‘behaviours’ do you want from testers e.g. ‘We want people who use mobile banking daily’&lt;/li&gt;
+&lt;li&gt;How much time they need to commit&lt;/li&gt;
+&lt;li&gt;How they can contact you&lt;/li&gt;
+&lt;li&gt;When you expect to conduct testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Do you have 15 minutes and use [software]?&lt;/p&gt;
+&lt;p&gt;We’d like your help!&lt;/p&gt;
+&lt;p&gt;We are about to release a new version of [our tool/software] and want to hear from you. To help us understand your needs and how to improve [our tool/software], we&amp;rsquo;d like to hear about your experiences with the tool (whether you&amp;rsquo;ve used it for a long time or just recently started using it!).&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re booking 15 minute conversations to better understand how to improve [our tool/software] for everyone. If you&amp;rsquo;re able to participate, please fill out this simple form [add a link to a form].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Are you familiar with [topic to test]?&lt;/p&gt;
+&lt;p&gt;We want to talk to you.&lt;/p&gt;
+&lt;p&gt;I’m [tool team member name], part of the team at [our tool/software]. We are working on a new feature and we&amp;rsquo;d like your help to test it out. We&amp;rsquo;d like to speak with you for 10-20min and have you try it. Thank you!&lt;/p&gt;
+&lt;p&gt;If you are interested and able to help, send me an email: [tool team member email address].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More info:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who can be a tester?&lt;/strong&gt;
+People who use [tool/software] and/or are familiar with [particular technology].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is [tool/software]?&lt;/strong&gt;
+[One sentence about your tool/software]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do I need to prepare?&lt;/strong&gt;
+Nope! Come as you are.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is it private?&lt;/strong&gt;
+Of course. We will not be recording voice or video. We will be taking brief notes about what works and what doesn&amp;rsquo;t in the design so that we can make improvements. We will not share your identity with anyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hello everybody! Have you ever [activity/feature you are targeting]? If you want to help improve [tool/software], read on!&lt;/p&gt;
+&lt;p&gt;My colleagues and I at [tool/project] want to speak for 30 minutes with a few people who have [experience you want to target].&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested please fill out this short form: [add a link to a form]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible &lt;a href=&#34;#&#34;&gt;See “Phase 2 - Who”&lt;/a&gt;. This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.&lt;/p&gt;
+&lt;p&gt;Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi [participant name],&lt;/p&gt;
+&lt;p&gt;You filled out our interest form “[name of form]”. Thank you so much for your interest in speaking to us. Please choose a time here: [link to a time/date picker]&amp;hellip;&lt;/p&gt;
+&lt;p&gt;If you have any questions, please let me know. Looking forward to speaking with you.&lt;/p&gt;
+&lt;p&gt;Best,
+[your name]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #2:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi [participant name],&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m [your name] from [tool/project]. Thank you for your interest in being a tester for [tool/software].&lt;/p&gt;
+&lt;p&gt;Could you please choose a time for our chat here: [link to a time/date picker]&amp;hellip;&lt;/p&gt;
+&lt;p&gt;(If none of the times work for you, please let me know)&lt;/p&gt;
+&lt;p&gt;Looking forward to hearing from you.&lt;/p&gt;
+&lt;p&gt;Best,
+[your name]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Move on to Conducting a user test&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Synthesis for open-source</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/</guid>
+      <description>Getting the team and community on the same page 📑  What is synthesis? 🤔 Synthesis is a stage of research in which you reorganize information to make sense of what you observed and heard.
+Why do synthesis? 🤷 Synthesis helps teams and individuals understand what users experience when they use the tool, including their challenges and successes. This can then help OSS maintainers, developers, designers, product managers, and researchers arrive at user-informed conclusions about the product, and from there, make decisions based on the lived experience of the users.</description>
+      <content>&lt;h1 id=&#34;getting-the-team-and-community-on-the-same-page-&#34;&gt;Getting the team and community on the same page 📑&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;what-is-synthesis-&#34;&gt;What is synthesis? 🤔&lt;/h3&gt;
+&lt;p&gt;Synthesis is a stage of research in which you reorganize information to make sense of what you observed and heard.&lt;/p&gt;
+&lt;h3 id=&#34;why-do-synthesis-&#34;&gt;Why do synthesis? 🤷&lt;/h3&gt;
+&lt;p&gt;Synthesis helps teams and individuals understand what users experience when they use the tool, including their challenges and successes. This can then help OSS maintainers, developers, designers, product managers, and researchers arrive at user-informed conclusions about the product, and from there, make decisions based on the lived experience of the users.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-the-outcome-&#34;&gt;What is the outcome? 🖼️&lt;/h3&gt;
+&lt;p&gt;The information you’ll be working with is raw user ‘data’ (typically qualitative but sometimes quantitative) and making it understandable within the context of your product to produce ‘insights’.&lt;/p&gt;
+&lt;h3 id=&#34;what-about-open-source-specifically-&#34;&gt;What about open source specifically? 🐧&lt;/h3&gt;
+&lt;p&gt;Synthesis can be applied similarly to both Open Source Software and non-open source software. Being open with your process, understanding, discussion and findings is at the heart of OSS. The ability for OSS to include a variety of stakeholders in synthesis is one of OSS’s superpowers - just be clear with your limitations on time and facilitation. Before testing and synthesis, it’s worth clarifying &lt;code&gt;who your user is.&lt;/code&gt; Are you focusing on ‘end users’ (e.g. users that don’t modify or contribute back)? Or are your users also contributors?&lt;/p&gt;
+&lt;h3 id=&#34;keep-in-mind-&#34;&gt;Keep in mind… 🧠&lt;/h3&gt;
+&lt;p&gt;Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;‘User testing can be fun’!&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-is-synthesis-not-&#34;&gt;What is ‘synthesis’ not? 🙅‍♀️&lt;/h3&gt;
+&lt;p&gt;There’s an idea that user testing means putting an individual user (or group of users) in charge of your decision making - but it doesn’t! During a test, if a user says, “Oh you should have functionality that does exactly this thing I’ll explain” it doesn’t mean that you are bound to build it. Instead, you just learned that the user is looking for a solution that your tool doesn’t offer or in the way they expect. It’s less about the exact requested specifications and more about analyzing their problem (alongside other users’ problems) to land on an achievable, inclusive solution. Remember, synthesis is an opportunity to hear your users’ voices and experiences, understand their needs, and use that insight to inform the design and development process and ‘back up’ choices.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A story from working on user research on OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;p&gt;I once was a designer/researcher on an open source tool that helps sellers manage inventory. During a user test, one user said, “What I really want is to speak into my mobile phone and have the inventory update immediately - oh and I don’t get internet connection in my stock room so it has to work offline”.&lt;/p&gt;
+&lt;p&gt;Oh no! The team was thinking: “We now have to build an intelligent system to automatically reduce stock based on voice commands and save those via a recording system and&amp;hellip;”&lt;/p&gt;
+&lt;p&gt;Before the team went too far down this onerous (and perhaps unnecessary) path, I asked them: “What basic-level concern is the user expressing when they speak about a magical automated inventory voice command system?” We thought about this during several more user tests and discussions.&lt;/p&gt;
+&lt;p&gt;As we learned more about our users, we discovered that a huge concern for them was inventory errors and the negative impact on customers. That meant our team focused on the basic issues of accurate stock checking and verification systems, and not ‘offline voice AI’. As a result, everytime we worked on the tool’s inventory admin area, we remembered how important error prevention was and worked to make small, achievable (non-magical) improvements to make our users happy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;summary-&#34;&gt;Summary 📍&lt;/h3&gt;
+&lt;p&gt;Through a synthesis process, you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learn&lt;/strong&gt;: Gain understanding and clarity by hearing users’ voices and experiences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share&lt;/strong&gt;: Turn individual knowledge into group knowledge through storytelling and conversation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus&lt;/strong&gt;: Move in a direction that is informed by user data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apply&lt;/strong&gt;: Use the findings to make the software/tool better.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, the goal is &lt;strong&gt;not&lt;/strong&gt; to act on what any single user requests, but to use that information to discover root-level problems and achievable solutions.&lt;/p&gt;
+&lt;h1 id=&#34;logistics-&#34;&gt;Logistics 🗂️&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;start-asap-&#34;&gt;Start ASAP ⌛&lt;/h3&gt;
+&lt;p&gt;So that all the important stories, actions, and comments are still fresh in your mind, it’s best to do some synthesis as soon as possible. We recommend that you briefly capture and organize notes right after the test (if not immediately, hopefully within 48 hours). Then work on the cumulative synthesis once all user tests are completed (within 2 weeks).&lt;/p&gt;
+&lt;p&gt;After each test, the facilitators and observers can fill out a &lt;a href=&#34;https://docs.google.com/document/d/1Lw8Bu0mjSWn5ej1fSyDFXi-xnDMixUfYt-1Ddbm1siA/edit&#34;&gt;debrief template&lt;/a&gt; (individually or through group discussion). This helps everyone think about all aspects of the user test, not just about what the users said and did, but any body language, inferred meaning and interpretations.&lt;/p&gt;
+&lt;h3 id=&#34;make-it-a-party-&#34;&gt;Make it a party 🎉&lt;/h3&gt;
+&lt;p&gt;Ideally, 2-4 people with diverse roles and experiences participate in synthesis. This helps speed up the process, collect different perspectives, and get buy-in for decisions. Here’s a short, non-exhaustive list of stakeholders you might want to include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As many of the people that were present during the user testing or research as available.&lt;/li&gt;
+&lt;li&gt;A few additional people who are familiar with the goals and aims of the research.&lt;/li&gt;
+&lt;li&gt;1-2 people who have no context of the research but are affected by or interested in the outcomes.&lt;/li&gt;
+&lt;li&gt;People responsible for the OSS technical aspects as well as the community, product, design and wider roles.&lt;/li&gt;
+&lt;li&gt;A facilitator to guide the discussion and ensure processes are followed and time is not spent on diversion topics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;If you have more than 4 people be sure to give clear and specific roles and guidance for participation. With more than 10 people synthesis becomes difficult and actually takes longer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;If there are people participating in synthesis that were not present during the user tests, ask them to read any notes, watch, or listen to any recordings and review the goals of the user testing/research and synthesis ahead of time.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-about-open-source-specifically--1&#34;&gt;What about open source specifically? 🐧&lt;/h3&gt;
+&lt;p&gt;When including diverse OSS stakeholders, the group can easily become quite large. Alternatively, you can appoint a single ‘representative’ of each part of your OSS. People will have different time capacities and access to a synthesis process, so it’s important to make realistic requests of volunteer contributors and be aware that some may need help understanding the purpose of synthesis. Be clear about your expectations for their role, e.g. “You should watch or listen to a recording or read the user testing notes if you haven’t attended a user test session. Keep your comments on insights about users.”&lt;/p&gt;
+&lt;h3 id=&#34;setting-up-the-collaborative-workspace-&#34;&gt;Setting up the collaborative workspace 🤝🏿&lt;/h3&gt;
+&lt;p&gt;It’s important to work synchronously, either together in a room or an online call. As always, without seeing your collaborators&#39; faces it can be hard to communicate complex and inferred information. In addition to video/audio, you will need a space where you’ll write together and then read together is vitally important. If you’re working face to face, you can write on sticky notes and stick them on a wall. If you’re working virtually, there are whiteboard tools like Miro.com, Mural.com, Google Jamboard, or even Google Sheets. There are also open source virtual whiteboards, but they are less user friendly than the commercial proprietary tools. PenPot is the most user friendly OSS tool that we currently know of. Whichever tool you use, each person’s sticky notes should be visible to and moveable by everyone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;In-line text tools like Google Docs and collaborative writing programs don’t offer a good way to move notes freely on a canvas, and therefore we don’t recommend using those for synthesis (though it can be done if you are persistent!).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here’s how you might set up your in-person or virtual space:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A story from working on user research in OSS&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;p&gt;We thought we had set up everything to make our synthesis session quick and easy. We had the sticky notes, the space, the time, and the people. The one thing we overlooked was setting up our people for success.&lt;/p&gt;
+&lt;p&gt;Our group was diverse, not only in terms of background, but also role: developer, designer, product manager, community manager, and CEO. Our conversation was based on instinct and it became contentious, confusing, and frustrating. The team had fiercely-held opinions and their agenda and reasoning wasn’t always clear - we lacked the context and thought process of everyone’s ideas. For the next synthesis session, we decided to establish rules for framing “I like” statements.&lt;/p&gt;
+&lt;p&gt;Participants would need to add context: “From a business perspective, I like X.” Or give more reasoning: “I like X because it gives the user the most freedom.” Or reference the goals: “I think X achieves our goal of making the process simpler.” When we clearly defined how we wanted people to participate in a synthesis discussion it went a lot smoother!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;how-to-do-synthesis-&#34;&gt;How to do ‘synthesis’ 🤹&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;There are a few ways to do synthesis, but for this resource we’re going to focus on a simple method that we use regularly.&lt;/p&gt;
+&lt;h3 id=&#34;introduce-the-process-&#34;&gt;Introduce the process 🧑‍🏫&lt;/h3&gt;
+&lt;p&gt;Remind the group of the goal for user testing. This goal statement could be in a format like: ‘We want to find out how users do X with Y in order to understand how Z is done.’
+&lt;strong&gt;Example:&lt;/strong&gt; ‘&lt;em&gt;We want to find out how users deploy a new instance of our OSS using limited technical infrastructure in order to understand how users create work-arounds and read documentation’.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Establish any communication guidelines. A hard part of synthesis can be simply having time and space to hear everyone&amp;rsquo;s understanding of the research data. We recommend assigning roles in the discussion. One person can have multiple roles if need be.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A facilitator ensures you’re following the synthesis process broadly, guiding conversation, and referring to the goals of the synthesis and user research.&lt;/li&gt;
+&lt;li&gt;A time-keeper ensures you’re moving along and sets timers if necessary.&lt;/li&gt;
+&lt;li&gt;A documentarian ensures that whatever is being said is being documented either by the individual speaking or themselves. They should keep asking themselves, “Is this being written down?”&lt;/li&gt;
+&lt;li&gt;An advocate pays attention to who is and is not speaking and ensures that no one person is taking up a majority of the time so that everyone has a chance to speak.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;write-down-raw-user-data-&#34;&gt;Write down raw user data ✍️&lt;/h3&gt;
+&lt;p&gt;The synthesis process starts by getting all the user data together. Put each problem, comment, insight or observation a separate sticky note. The data will be rearranged, so it’s important that each statement has its own sticky note. Statements should be a maximum of 10 words if possible.&lt;/p&gt;
+&lt;p&gt;You can:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Copy/paste short statements from longer notes documents (such as a debrief worksheet).&lt;/li&gt;
+&lt;li&gt;Rewrite statements from notes documents.&lt;/li&gt;
+&lt;li&gt;Recall statements from memory and write them down.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Optional:&lt;/strong&gt; &lt;em&gt;Tag your sticky notes with relevant criteria such as participant number, geographical location, device type, or anything else that’s important to your OSS tool. This is helpful to see if any patterns emerge based on specific attributes. E.g. Every Mac user wasn’t able to complete the checkout process.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A story from working on user research in OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;p&gt;For one project, we did qualitative (interviews) and quantitative research (survey) with various types of users. Unfortunately, after the synthesis was done we realized that we made a critical error in our survey - one question was not specific to the part of the tool we were focusing on.&lt;/p&gt;
+&lt;p&gt;This meant that some of our sticky notes were giving us a false impression. We’d have to go back to the raw data and analyze which product the respondents were referring to. Luckily we had tagged each sticky note with the source and alias of the person. This made it easy to target the data points in question and remove the ones that were not part of our research goal.&lt;/p&gt;
+&lt;p&gt;While we still kept that data, it was important to keep the focus targeted - we couldn’t synthesize both parts at the same time! We needed to keep it manageable for our sanity and time constraints. Another thing we did on this project was to color code the sticky notes: green for positive insights, yellow for neutral insights, and red for negative insights.&lt;/p&gt;
+&lt;p&gt;At the end it was helpful to see the hotspots of positive and negative areas to get a vision of what areas needed the most improvement.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;affinity-diagramming-or-clustering-&#34;&gt;Affinity diagramming or ‘clustering’ 🧩&lt;/h3&gt;
+&lt;p&gt;All the sticky notes should be on the collaborative whiteboard where you’re working. It looks pretty chaotic and messy, but don’t worry, that’s completely normal. By organizing and grouping data together, we can start to see the structure of a problem or insight.&lt;/p&gt;
+&lt;p&gt;You are going to look for commonalities between the problems, comments, insights and observations. Every person will read a sticky note and move it close to other related sticky notes. It doesn’t matter where you start as long as you don’t spend too much time in detailed discussion about a single sticky note. You can always move sticky notes if you find later there’s a better grouping.&lt;/p&gt;
+&lt;p&gt;Label each theme cluster to make it easier to identify. These can be a description of the users’ actions, like ‘sign-up registration’, or a more abstract theme such as ‘Fairness’ and ‘Equality’. By the end, you’ll have a collection of sticky notes arranged in a hub and spoke pattern, with the hubs being your theme labels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/cluster-nodes.png&#34; alt=&#34;an illustration of how synthesis clustering can look like &amp;lsquo;hub and spoke&amp;rsquo; nodes&#34; title=&#34;an illustration of how synthesis clustering can look like &#39;hub and spoke&#39; nodes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After you’ve moved each sticky note into a cluster, you can start a slower and more detailed second round of review. Pay attention to any big cluster groups. Can these be broken down into smaller clusters by being more specific with how you name the theme? Similarly, review very small groups of 1-3 sticky notes - they might fit into other groups. It can be difficult to not expand into thinking of solutions or implementation when synthesising but this is not (yet) the time for that.&lt;/p&gt;
+&lt;p&gt;You can also change the theme title to a descriptive statement. This is part of storytelling and important for communicating back to the wider OSS community and also can inform how you write issues or tasks from a user point of view.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;Remember to be careful when factual information collected from user research becomes your own interpretation. You want to avoid making any assumptions. If you find yourself making a lot of assumptions, that&amp;rsquo;s a sign you need to re-test these elements with users to get clarification.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;look-at-the-big-picture-&#34;&gt;Look at the big picture 🖼️&lt;/h3&gt;
+&lt;p&gt;Take a step back (or zoom out) to see all your data, themes, and rationale. Areas with lots of insights and clear descriptive statements are good areas for opportunity. This process brings together insights in a way that you can also see the gaps. Did many participants mention a specific feature, but not another? Was there a path that no one took?&lt;/p&gt;
+&lt;p&gt;That’s it - you’ve just completed synthesis!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A story from working on user research in OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;p&gt;I was on a team of designers, developers, community managers, and product managers that was working on a prototype MVP for an OSS tool that helped community members connect during a crisis. We had done 15 user interviews and were looking at hundreds of sticky notes clustered into themes such as ‘feels good to connect’, ‘bonding with others online’, ‘mitigating risk’, ‘security’, and ‘safe location sharing’.&lt;/p&gt;
+&lt;p&gt;We began to understand that we needed to ensure from start to finish that the users could feel connected with others while simultaneously feeling secure and protected while using our tool. The tool contained location information, names, interests, and other information which could put people at risk. However, our users also wanted to connect with their community.&lt;/p&gt;
+&lt;p&gt;This led to us creating user stories such as ‘Allowing users to skip filling out profile information but inform them that other users might not feel connected to a blank profile.’ By understanding the point of view of ‘a cautious user’ and ‘a suspicious user’ we were able to help people use the tool better.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;prioritization-&#34;&gt;Prioritization 🏆&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;The next phase is the process of prioritising the synthesis findings in the context of your OSS tool improvements and roadmap. We’ll save the in-depth process for a future resource and go over some of the basics.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Rank the themes in order of importance by asking each person to vote on the most important changes/findings.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tips:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use your best collective judgment to select which data you will focus on. You can’t focus on everything and there will likely be disagreements, especially around scope and technical feasibility.&lt;/li&gt;
+&lt;li&gt;This isn’t just about what the team working on the OSS think is important, but &lt;strong&gt;what the users from your research think are important.&lt;/strong&gt; Each time you select a theme as important, be sure to ask yourselves “Do the users think this is important as well as the OSS tool team?”&lt;/li&gt;
+&lt;li&gt;Focus now on the themes rather than the technical implications. For example, by selecting ‘Onboarding’ it doesn’t mean you have to do complex technical improvements. It’s just acknowledging the importance of the topic and how it should be considered in the future to align with user expectation and need.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluate the top important themes with the &lt;a href=&#34;https://en.wikipedia.org/wiki/SMART_criteria&#34;&gt;SMART method&lt;/a&gt;: &lt;strong&gt;S&lt;/strong&gt;pecific, &lt;strong&gt;M&lt;/strong&gt;easurable, &lt;strong&gt;A&lt;/strong&gt;chievable (&lt;strong&gt;A&lt;/strong&gt;ssignable), &lt;strong&gt;R&lt;/strong&gt;ealistic (&lt;strong&gt;R&lt;/strong&gt;elevant), &lt;strong&gt;T&lt;/strong&gt;ime-bound.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Then order the options:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do now - High scores on SMART.&lt;/li&gt;
+&lt;li&gt;Do soon - Lower SMART scores but there is still a clear positive impact on users.&lt;/li&gt;
+&lt;li&gt;Idea for the future - Lower SMART scores and hard to see the impact without further user research.&lt;/li&gt;
+&lt;li&gt;Blue sky thinking - Lowest SMART scores and lacks some critical knowledge or infrastructure to even discuss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A story from working on user research on OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;p&gt;After a two-week user research period, our OSS team had so much user feedback and insight that we were especially eager to start the process of understanding it all. At that time, our prioritization process was based on scoring the technical difficulty of implementing user needs. As we were prioritising what aspects of the tool were important to users, like ‘security’, ‘safety’ and ‘having a good onboarding experience’, we were getting more and more stuck trying to figure out how these themes translated into technical changes.&lt;/p&gt;
+&lt;p&gt;It became clear that we weren’t ready to break down the technical complexity yet - every option had an exceptionally high score in the agile metric (21+ or even infinite!). We instead needed to use the themes as criteria for knowing if we were moving in the right directions and meeting users expectations. Only when we agreed on statements like, “We’re going to prioritise safety methods throughout this OSS tool given how important it was during user research”, could we feel comfortable moving to the next statements about technical interventions.&lt;/p&gt;
+&lt;p&gt;From there, we evaluated specific sections of the OSS tool by asking, “Is this the safest way that a user can do this process?” and “What would make the user feel safer?” and “Do we have user research evidence to help us design and develop a way of doing that better?”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;sharing-out-&#34;&gt;Sharing out 💁&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;As you move from a synthesis process to a prioritisation process it&amp;rsquo;s important to remember that sharing openly is a foundational aspect of OSS, as well as user research.&lt;/p&gt;
+&lt;h3 id=&#34;why-share-&#34;&gt;Why share? 🦸&lt;/h3&gt;
+&lt;p&gt;You worked hard on the user tests and you want people to use this information. Without the context or results, your team won’t be able to act on the findings. You yourself might need a reminder in six month’s time when you finally get to implementing a lower priority task. Sharing out allows your OSS community to get inspired and do research based on your findings. User research in OSS is exciting when it self-replicates, so consider how the community might continue where you left off!&lt;/p&gt;
+&lt;h3 id=&#34;what-should-be-shared-ℹ&#34;&gt;What should be shared? ℹ️&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic information: date, goals, methodology, who conducted the research (refer back to your research plan for this information)&lt;/li&gt;
+&lt;li&gt;What you tested, e.g. “the onboarding experience” or “add a new contact”&lt;/li&gt;
+&lt;li&gt;A list of the tasks you asked the user to do&lt;/li&gt;
+&lt;li&gt;Problems and findings that the team observed. You can use the sentences that describe each theme from the clustering process. It’s great if you have some quotes from your participants to exemplify your points but be sure to gain consent and have an anonymization process.&lt;/li&gt;
+&lt;li&gt;Immediate implications&lt;/li&gt;
+&lt;li&gt;Future ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;keep-it-simple-&#34;&gt;Keep it simple! 🌱&lt;/h3&gt;
+&lt;p&gt;Cut as much information as you possibly can to allow someone to read through your summary in under 3 minutes. You can offer time to go into details for anyone who is interested in learning more.&lt;/p&gt;
+&lt;p&gt;Make it interesting by telling a story for your audience. Make it easy for them to get aligned. What was most inspiring for you? Any ah-ha moments?&lt;/p&gt;
+&lt;h3 id=&#34;share-with-the-community-too-&#34;&gt;Share with the community too 🍄&lt;/h3&gt;
+&lt;p&gt;It’s just as important to get community buy-in as it is to get your team onboard. OSS communities can often feel not included in user research because doing these tasks in large groups becomes difficult. Ensuring the wider community is included will help your future implementations. Write a summary and release it in whatever format you’re accustomed to, whether it be a mailing list, wiki page, or open document. Remember to have a plan for their critique though!&lt;/p&gt;
+&lt;h1 id=&#34;faq-&#34;&gt;FAQ 🙋&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;during-clustering-what-if-i-dont-know-where-to-put-a-data-point-&#34;&gt;During clustering, what if I don’t know where to put a data point? 😵‍💫&lt;/h3&gt;
+&lt;p&gt;Synthesis isn’t a clearcut process. There are many right ways to organize your data. Here are some ways to gain clarity:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask a teammate what their gut says.&lt;/li&gt;
+&lt;li&gt;Duplicate it into multiple themes if it’s something that could have multiple meanings.&lt;/li&gt;
+&lt;li&gt;Wait to the end, it might make sense later after other synthesis has been completed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the end, there might be some ‘anomalies’ - this happens all the time! They might be hard to place because they’re not that important. If they feel important, document them to remember them, then move on.&lt;/p&gt;
+&lt;h3 id=&#34;how-can-i-not-be-biased-when-i-interpret-data-&#34;&gt;How can I not be biased when I interpret data? 🔮&lt;/h3&gt;
+&lt;p&gt;We all will bring perspectives and biases into the work we do. We can always work to have awareness of biases and try to subvert them. Remember to bring in perspectives that are not widely represented in your OSS tool. Liberatory design has great prompts and methods for you and your community for subverting biases: &lt;a href=&#34;https://www.liberatorydesign.com/&#34;&gt;https://www.liberatorydesign.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;further-reading-&#34;&gt;Further reading 📚&lt;/h1&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Video about synthesis from Okthanks: &lt;a href=&#34;https://www.youtube.com/watch?v=DUt8gdglxEQ&#34;&gt;https://www.youtube.com/watch?v=DUt8gdglxEQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Open Design &amp;amp; Ushahidi’s report back synthesis process: &lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1&#34;&gt;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1&lt;/a&gt; &lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2&#34;&gt;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&#34;&gt;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/blog/collaboration-on-design-research/&#34;&gt;https://miro.com/blog/collaboration-on-design-research/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
