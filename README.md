@@ -1,2 +1,2 @@
 # devs-guide-to
-testing hugo on gh pages
+Test for the Terminal theme
