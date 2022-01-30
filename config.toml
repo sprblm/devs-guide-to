@@ -25,7 +25,7 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "A devs guide to..."
-      logoHomeLink = "https://eriolhugotest.github.io/devs-guide-to/"
+      logoHomeLink = "/devs-guide-to/"
        [languages.en.menu]
 	  [[languages.en.menu.main]]
         identifier = "a-dev-guide-to-usertesting"
