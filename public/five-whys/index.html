@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Five whys :: A devs guide to...</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Interview tactic: The Five Whys 🪜 The ‘Five Whys’ (also know as conversation laddering) is a tactic to help interviewers discover the root motivation or cause of a problem and come to an actionable statement the team can pursue to solve it. During an interview or user testing you may hear a statement about a user action or problem.
+Statement from a Jo Doe, a typical user of a made-up file sharing service called ‘AwesomeDocuments’: I [the user] do not password protect my shared files." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://eriolhugotest.github.io/devs-guide-to/five-whys/" />
+
+
+
+
+<link rel="stylesheet" href="https://eriolhugotest.github.io/devs-guide-to/assets/style.css">
+
+  <link rel="stylesheet" href="https://eriolhugotest.github.io/devs-guide-to/assets/pink.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://eriolhugotest.github.io/devs-guide-to/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://eriolhugotest.github.io/devs-guide-to/favicon.ico">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Five whys">
+<meta property="og:description" content="Interview tactic: The Five Whys 🪜 The ‘Five Whys’ (also know as conversation laddering) is a tactic to help interviewers discover the root motivation or cause of a problem and come to an actionable statement the team can pursue to solve it. During an interview or user testing you may hear a statement about a user action or problem.
+Statement from a Jo Doe, a typical user of a made-up file sharing service called ‘AwesomeDocuments’: I [the user] do not password protect my shared files." />
+<meta property="og:url" content="https://eriolhugotest.github.io/devs-guide-to/five-whys/" />
+<meta property="og:site_name" content="A devs guide to..." />
+
+  
+    <meta property="og:image" content="https://eriolhugotest.github.io/devs-guide-to/favicon.ico">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="pink">
+
+
+<div class="container headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    A devs guide to...
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/devs-guide-to/a-dev-guide-to-usertesting">Dev&#39;s guide to user testing</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/planning-and-operations">Planning and operations</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/recruiting-testers">Recruiting testers</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/conducting-a-user-test">Conducting a user test</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/five-whys">Five whys</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/synthesis-for-open-source">Synthesis for open-source</a></li>
+        
+      
+        
+          <li><a href="/devs-guide-to/about">About</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/devs-guide-to/a-dev-guide-to-usertesting">Dev&#39;s guide to user testing</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/planning-and-operations">Planning and operations</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/recruiting-testers">Recruiting testers</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/conducting-a-user-test">Conducting a user test</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/five-whys">Five whys</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/synthesis-for-open-source">Synthesis for open-source</a></li>
+      
+    
+      
+        <li><a href="/devs-guide-to/about">About</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://eriolhugotest.github.io/devs-guide-to/five-whys/">Five whys</a></h1>
+  <div class="post-meta">
+    
+    
+    
+  </div>
+
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h1 id="interview-tactic-the-five-whys-">Interview tactic: The Five Whys 🪜<a href="#interview-tactic-the-five-whys-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
+<p>The ‘Five Whys’ (also know as conversation laddering) is a tactic to help interviewers discover the root motivation or cause of a problem and come to an actionable statement the team can pursue to solve it. During an interview or user testing you may hear a statement about a user action or problem.</p>
+<p><strong>Statement from a Jo Doe, a typical user of a made-up file sharing service called ‘AwesomeDocuments’:</strong> I [the user] do not password protect my shared files.</p>
+<p>This is your opportunity to expand on that statement to get more information because this is vital information for finding solutions. If you assume Jo’s problem without asking “why”, you could eventually build a solution that doesn’t help. Asking “why” can help you arrive at the root cause. If you ask “why” several times, you journey deeper into the problem space and collect more details. “Five” is just an example - it could take less than five “why” questions, or it may take a few more. And you may discover that you have more than one root motivation, like in the example below.</p>
+<p>Example of the a conversation that employs the Five Whys technique:</p>
+<table>
+<thead>
+<tr>
+<th>The why&rsquo;s</th>
+<th>Interviewer question</th>
+<th>User answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>1st ‘why’</em></td>
+<td><strong>Interviewer:</strong> <code>Why</code> don’t you password protect your files when you want to share them?</td>
+<td><strong>Jo Doe:</strong> Well, it’s because files need to be shared quickly with my colleagues in the field when they’re out on a critical task.</td>
+</tr>
+<tr>
+<td><em>2nd ‘why’</em></td>
+<td><strong>Interviewer:</strong> <code>Why</code> is it important that these files are shared quickly?</td>
+<td><strong>Jo Doe:</strong> Because it’s often critical information that is time sensitive.</td>
+</tr>
+<tr>
+<td><em>3rd ‘why’</em></td>
+<td><strong>Interviewer:</strong> <code>Why?</code> Can you tell me more about this time sensitive information?</td>
+<td><strong>Jo Doe:</strong> Other people need this information quickly to make decisions on how to help. The extra seconds it takes to add a secure password is less important than getting the information to headquarters in time for them to take action.</td>
+</tr>
+<tr>
+<td><em>4th ‘why’</em></td>
+<td><strong>Interviewer:</strong> I can see why time is critical now, but can you tell me <code>why</code> it doesn’t work as well when you add a password to the documents?</td>
+<td><strong>Jo Doe:</strong> Because sometimes the password doesn’t come through or they type it wrong on the other end. It’s so frustrating so I stopped doing it and nobody has complained yet!</td>
+</tr>
+<tr>
+<td><em>5th ‘why’</em></td>
+<td><strong>Interviewer:</strong> <code>Why</code> do you think the people at headquarters are typing passwords wrong or a password doesn’t come through to them?</td>
+<td><strong>Jo Doe:</strong> Because they are also in a hurry to take action on an emergency and it’s just not important to them to take the extra seconds to wait for a password and make sure it’s correct.</td>
+</tr>
+</tbody>
+</table>
+<p>It can sometimes feel odd to keep asking your tester ‘why’ so we suggest a few different ways of phrasing the ‘why’:</p>
+<ul>
+<li>Can you explain why that’s the case?</li>
+<li>Can you give me more detail as to why you think that?</li>
+<li>Why do you think this happened?</li>
+<li>Is there another aspect of what you described that you want to expand on? (Notice how there’s no ‘why’ word in this statement but it still asks ‘why’ in another way!)</li>
+</ul>
+<p>There is a certain amount of ‘clarifying’ that can be done with user motivations. A follow-up clarification can look like:</p>
+<p><em>It sounds like in your circumstances <strong>you don’t have</strong> <strong>time to make a secure password</strong> for a file and also your colleague <strong>does not have time to enter a password</strong> to view the file. Furthermore, it also sounds like <strong>the room for errors in secure password creation and entry</strong> is a reason you don’t password protect files. Does that sound right?</em></p>
+<p>If the user tester agrees then you have two root motivations, one is <strong>time taken</strong> and the other is <strong>accuracy trust</strong>.</p>
+<p>As a tool creator, you now have an understanding of two root motivations that you need to address in order to help users achieve their goal. One motivation comes from the user you spoke with and another motivation comes from the user at headquarters (you can investigate this further if you want to). Now work with your team to consider all the ways you can improve time taken and accuracy trust.</p>
+<p><a href="#">Move on to Synthesis for open-source</a></p>
+
+      </div></div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2022 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://eriolhugotest.github.io/devs-guide-to/assets/main.js"></script>
+<script src="https://eriolhugotest.github.io/devs-guide-to/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A devs guide to...</title>
+    <link>https://eriolhugotest.github.io/devs-guide-to/posts/</link>
+    <description>Recent content in Posts on A devs guide to...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Dev&#39;s guide to synthesis at Mozfest22</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - workshop</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis at FOSDEM22</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - Resource #3</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Developer and Design Collaboration in open source</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</guid>
+      <description>Explainer text goes here
+https://sosdesign.sustainoss.org/18</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;https://sosdesign.sustainoss.org/18&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Resource #2 of our user testing series</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</guid>
+      <description>What is this guide? This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+Who is it for? We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!</description>
+      <content>&lt;h4 id=&#34;what-is-this-guide&#34;&gt;What is this guide?&lt;/h4&gt;
+&lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
+&lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Find the full guide here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Imakefoss twitter take over</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</guid>
+      <description>Play the guide on itch.io here
+USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
+&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun - poster version</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</guid>
+      <description>Explainer text goes here</description>
+      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</guid>
+      <description>Play the guide on itch.io here
+USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
+&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
