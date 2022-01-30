@@ -1,4 +1,4 @@
-baseURL = 'https://erioldoesdesign.github.io/devs-guide-to/'
+baseURL = 'https://eriolhugotest.github.io/devs-guide-to/'
 languageCode = 'en-us'
 title = 'A devs guide to...'
 theme = "terminal"
