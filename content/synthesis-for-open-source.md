@@ -89,9 +89,9 @@ It’s important to work synchronously, either together in a room or an online c
 
 Here’s how you might set up your in-person or virtual space:
 
-![an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.](https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/virtual-whiteboard.png "an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.")
+![an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.](https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/virtual-whiteboard.png "an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.")
 
-![The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.](https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/in-person-whiteboard.png "The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.")
+![The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.](https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/in-person-whiteboard.png "The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.")
 
 
 > **A story from working on user research in OSS** 📖
@@ -150,7 +150,7 @@ You are going to look for commonalities between the problems, comments, insights
 
 Label each theme cluster to make it easier to identify. These can be a description of the users’ actions, like ‘sign-up registration’, or a more abstract theme such as ‘Fairness’ and ‘Equality’. By the end, you’ll have a collection of sticky notes arranged in a hub and spoke pattern, with the hubs being your theme labels.
 
-![an illustration of how synthesis clustering can look like 'hub and spoke' nodes](https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/cluster-nodes.png "an illustration of how synthesis clustering can look like 'hub and spoke' nodes")
+![an illustration of how synthesis clustering can look like 'hub and spoke' nodes](https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/cluster-nodes.png "an illustration of how synthesis clustering can look like 'hub and spoke' nodes")
 
 After you’ve moved each sticky note into a cluster, you can start a slower and more detailed second round of review. Pay attention to any big cluster groups. Can these be broken down into smaller clusters by being more specific with how you name the theme? Similarly, review very small groups of 1-3 sticky notes - they might fit into other groups. It can be difficult to not expand into thinking of solutions or implementation when synthesising but this is not (yet) the time for that.
 
