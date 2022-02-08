@@ -8,7 +8,7 @@ author = "Eriol Fox"
 
 Hello there, we're the team over at [Simply Secure](https://simplysecure.org/) we did the adptable project in partnerhsip with [Internews](https://internews.org/) and [Okthanks](https://okthanks.com/)
 
-We did x research...
+We did x research...testing a branch
 
 to leanr x info...
 
