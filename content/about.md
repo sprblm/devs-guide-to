@@ -23,7 +23,7 @@ Where we decided to focus on...
 
 - Future resources #?
 
-We have lots of great ideas based in the intervew research to develop further so watch this space.
+`We have lots of great ideas based in the intervew research to develop further so watch this space.`
 
 
 ### Created these engagements
