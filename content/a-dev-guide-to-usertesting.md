@@ -22,7 +22,7 @@ User testing is a pillar of UX design. You watch someone use your software or pr
 
 User testing doesn’t have to be a big task. Any type of feedback from your users is valuable. If you’re already listening to and collecting feedback from your users - that’s great! Keep doing what you’re doing and when you feel you’re ready, come back to this guide - we’ll still be here!
 
-We compiled user testing FAQs in our interactive companion resource [“User testing can be fun”](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user). 
+We compiled user testing FAQs in our interactive companion resource <a href="https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user" target="_blank">“User testing can be fun”</a>
 
 ### How to use this guide 🦮
 
