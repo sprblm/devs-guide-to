@@ -6,12 +6,12 @@ cover = "imakefoss.png"
 description = "FILL TEXT HERE"
 +++
 
-[Play the guide on itch.io here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
+From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the [IMakeFOSS Twitter account](https://twitter.com/imakefoss) to share the first USABLE resource ["User testing can be fun"](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user). 
 
-USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+Founded by [Jason Evangelho](https://twitter.com/KillYourFM) and [Jochen Spang](https://twitter.com/josp0001), IMakeFOSS is a [Twitter account](https://twitter.com/imakefoss) and [website](https://imakefoss.org/) that gives a voice to open source projects around the world by letting contributors takeover the Tweeting on a weekly basis. Tweets are archived not only on [Twitter](https://twitter.com/imakefoss), but the well-organized [website](https://imakefoss.org/). 
 
-USABLE is a collaboration between [Simply Secure](https://simplysecure.org/), [Okthanks](https://okthanks.com/) and [nternews](https://internews.org/) looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.
+It was a really great experience interacting with the community and sharing the UX side of OSS development. Behind the scenes, Kelsey and Eriol prepped the [Tweets and images](https://imakefoss.org/tweets/eriolandkelsey/), responded to comments, and overall had a blast!
 
-This guide and FAQ focuses on user testing and how 'user testing can be fun'.  We built this as an interactive clickable 'game' (created in [SugarCube](https://www.motoslave.net/sugarcube/) using [Twine](https://twinery.org/) thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.
+In preparation for the takeover, Eriol and Kelsey (camouflaged as Fox and Skunk) participated in an [interview to introduce](https://imakefoss.org/curators/eriolfoxandkelseysmith/) themselves to the community. 
 
-Want to 'fork' the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this [GitHub repository](https://github.com/simplysecure/usable-user-testing-can-be-fun)
+We're thankful that to UX designers got the chance to share our message about user testing. Thanks, IMakeFOSS!
