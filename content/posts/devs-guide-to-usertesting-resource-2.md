@@ -12,4 +12,6 @@ This guide focuses on informal, DIY, beginner ***user testing*** in a process th
 #### Who is it for?
 We wrote this guide with ***small*** (2-20 active contributors or maintainers), ***open source teams*** in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!). 
 
-[Find the full guide here](#)
+[Find the full guide here on this microsite](https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/)
+
+[Find the repository for this microsite and the page for the guide within here](https://github.com/eriolhugotest/devs-guide-to). The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.

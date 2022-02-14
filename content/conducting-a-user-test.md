@@ -12,29 +12,30 @@ permalink: /conducting-a-user-test/
 
 A prepared script can help you remember everything and be your guide if your mind goes blank.
 
-1. Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.
-2. Warmup: To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.
-3. Testing: Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset. Example:
+**1. Introduction:** To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.
 
-    > You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.
+**2. Warmup:** To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.
 
-    Ask your user to do a task you prepared. 
+**3. Testing:** Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset. 
 
-    > **Examples:**
-    > - Set up an account to receive files from your source.
-    > - Turn off the VPN. Is it clear what is happening?
-    > - How would you customise which types of script to block?
-    > - Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?
+> **Example:**
+> You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.
 
-    While observing what the user did, tried to do, and didn’t do, ask [probing questions](https://eriolhugotest.github.io/devs-guide-to/five-whys/) to get to the root cause of problems or motivations.
+> Ask your user to do a task you prepared. 
+> **Examples:**
+> - Set up an account to receive files from your source.
+> - Turn off the VPN. Is it clear what is happening?
+> - How would you customise which types of script to block?
+> - Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?
 
-    > **Examples:**
-    > - What are you thinking?
-    > - What are you looking for?
-    > - Why do you think this happened?
-    > - Can you give me more detail as to why you think that?
+> While observing what the user did, tried to do, and didn’t do, ask [probing questions](https://eriolhugotest.github.io/devs-guide-to/five-whys/) to get to the root cause of problems or motivations.
+> **Examples:**
+> - What are you thinking?
+> - What are you looking for?
+> - Why do you think this happened?
+> - Can you give me more detail as to why you think that?
 
-4. Closing: At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.
+**4. Closing:** At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.
 
 ### Interviewing Style 🎤
 

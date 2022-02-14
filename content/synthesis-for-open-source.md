@@ -182,16 +182,18 @@ The next phase is the process of prioritising the synthesis findings in the cont
 1. Rank the themes in order of importance by asking each person to vote on the most important changes/findings.
 
 	**Tips:**
-	- Use your best collective judgment to select which data you will focus on. You can’t focus on everything and there will likely be disagreements, especially around scope and technical feasibility.
-	- This isn’t just about what the team working on the OSS think is important, but **what the users from your research think are important.** Each time you select a theme as important, be sure to ask yourselves “Do the users think this is important as well as the OSS tool team?”
-	- Focus now on the themes rather than the technical implications. For example, by selecting ‘Onboarding’ it doesn’t mean you have to do complex technical improvements. It’s just acknowledging the importance of the topic and how it should be considered in the future to align with user expectation and need.
+	1. Use your best collective judgment to select which data you will focus on. You can’t focus on everything and there will likely be disagreements, especially around scope and technical feasibility.
+	1. This isn’t just about what the team working on the OSS think is important, but **what the users from your research think are important.** Each time you select a theme as important, be sure to ask yourselves “Do the users think this is important as well as the OSS tool team?”
+	1. Focus now on the themes rather than the technical implications. For example, by selecting ‘Onboarding’ it doesn’t mean you have to do complex technical improvements. It’s just acknowledging the importance of the topic and how it should be considered in the future to align with user expectation and need.
 
 2. Evaluate the top important themes with the [SMART method](https://en.wikipedia.org/wiki/SMART_criteria): **S**pecific, **M**easurable, **A**chievable (**A**ssignable), **R**ealistic (**R**elevant), **T**ime-bound.
+
 3. Then order the options:
-    - Do now - High scores on SMART.
-    - Do soon - Lower SMART scores but there is still a clear positive impact on users.
-    - Idea for the future - Lower SMART scores and hard to see the impact without further user research.
-    - Blue sky thinking - Lowest SMART scores and lacks some critical knowledge or infrastructure to even discuss.
+
+    3. Do now - High scores on SMART.
+    3. Do soon - Lower SMART scores but there is still a clear positive impact on users.
+    3. Idea for the future - Lower SMART scores and hard to see the impact without further user research.
+    3. Blue sky thinking - Lowest SMART scores and lacks some critical knowledge or infrastructure to even discuss.
 
 > **A story from working on user research on OSS tools** 📖
 >
@@ -253,7 +255,10 @@ We all will bring perspectives and biases into the work we do. We can always wor
 
 ---
 
-- Video about synthesis from Okthanks: [https://www.youtube.com/watch?v=DUt8gdglxEQ](https://www.youtube.com/watch?v=DUt8gdglxEQ)
-- Open Design & Ushahidi’s report back synthesis process: [https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1](https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1) [https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2](https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2)
-- [https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01](https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01)
-- [https://miro.com/blog/collaboration-on-design-research/](https://miro.com/blog/collaboration-on-design-research/)
+- [Video about synthesis from Okthanks:](https://www.youtube.com/watch?v=DUt8gdglxEQ)
+- [Open Design & Ushahidi’s report back synthesis process: Example #1](https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1)
+- [Open Design & Ushahidi’s report back synthesis process: Example #2](https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2)
+- [From bootcamp.uxdesign.cc Many Modes of Research Synthesis](https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01)
+- [From the miro.com blog Collaboration on design research](https://miro.com/blog/collaboration-on-design-research/)
+
+[Goabck to the homepage?](https://eriolhugotest.github.io/devs-guide-to/)
