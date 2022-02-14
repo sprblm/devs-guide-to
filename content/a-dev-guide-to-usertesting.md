@@ -26,9 +26,9 @@ We compiled user testing FAQs in our interactive companion resource [“User tes
 
 ### How to use this guide 🦮
 
-This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, [Synthesis for open-source](#), to learn more about research synthesis. 
+This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, [Synthesis for open-source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/), to learn more about research synthesis. 
 
-![The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.](https://raw.githubusercontent.com/Erioldoesdesign/devs-guide-to/main/number-plan.png "The flow of starting user testing")
+[The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.](https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/docs/number-plan.png "The flow of starting user testing")
 
 
 ### What You Need 📝
@@ -42,7 +42,7 @@ You don’t need a lot of resources to do user testing. Support from your team i
 - (If you’re working remote) A video/audio conferencing tool, like Jitsi or Zoom
 
 ### Get in to the user testing mindset 🧠
-You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the Five Whys, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).
+You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the [Five Whys](https://eriolhugotest.github.io/devs-guide-to/five-whys/), where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).
 
 [Move on to Planning and operations](https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/)
 
