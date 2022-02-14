@@ -57,9 +57,9 @@
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</guid>
-      <description>Explainer text goes here
+      <description>One of the important topics that came up in our intial interview reserach was that OSS tools don&amp;rsquo;t understand how collabortion between developers and designs can happen best within their projects.
 https://sosdesign.sustainoss.org/18</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <content>&lt;p&gt;One of the important topics that came up in our intial interview reserach was that OSS tools don&amp;rsquo;t understand how collabortion between developers and designs can happen best within their projects.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;https://sosdesign.sustainoss.org/18&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -86,14 +86,13 @@ Who is it for? We wrote this guide with small (2-20 active contributors or maint
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</guid>
-      <description>Play the guide on itch.io here
-USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
-USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
-      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
-&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
-&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
-&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+      <description>From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the IMakeFOSS Twitter account to share the first USABLE resource &amp;ldquo;User testing can be fun&amp;rdquo;.
+Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and website that gives a voice to open source projects around the world by letting contributors takeover the Tweeting on a weekly basis. Tweets are archived not only on Twitter, but the well-organized website.</description>
+      <content>&lt;p&gt;From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;IMakeFOSS Twitter account&lt;/a&gt; to share the first USABLE resource &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;&amp;ldquo;User testing can be fun&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Founded by &lt;a href=&#34;https://twitter.com/KillYourFM&#34;&gt;Jason Evangelho&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/josp0001&#34;&gt;Jochen Spang&lt;/a&gt;, IMakeFOSS is a &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;Twitter account&lt;/a&gt; and &lt;a href=&#34;https://imakefoss.org/&#34;&gt;website&lt;/a&gt; that gives a voice to open source projects around the world by letting contributors takeover the Tweeting on a weekly basis. Tweets are archived not only on &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;Twitter&lt;/a&gt;, but the well-organized &lt;a href=&#34;https://imakefoss.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was a really great experience interacting with the community and sharing the UX side of OSS development. Behind the scenes, Kelsey and Eriol prepped the &lt;a href=&#34;https://imakefoss.org/tweets/eriolandkelsey/&#34;&gt;Tweets and images&lt;/a&gt;, responded to comments, and overall had a blast!&lt;/p&gt;
+&lt;p&gt;In preparation for the takeover, Eriol and Kelsey (camouflaged as Fox and Skunk) participated in an &lt;a href=&#34;https://imakefoss.org/curators/eriolfoxandkelseysmith/&#34;&gt;interview to introduce&lt;/a&gt; themselves to the community.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re thankful that to UX designers got the chance to share our message about user testing. Thanks, IMakeFOSS!&lt;/p&gt;
 </content>
     </item>
     
