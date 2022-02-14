@@ -44,5 +44,5 @@ You don’t need a lot of resources to do user testing. Support from your team i
 ### Get in to the user testing mindset 🧠
 You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the Five Whys, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).
 
-[Move on to Planning and operations](#)
+[Move on to Planning and operations](https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/)
 
