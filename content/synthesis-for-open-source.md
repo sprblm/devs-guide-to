@@ -179,15 +179,15 @@ That’s it - you’ve just completed synthesis!
 
 The next phase is the process of prioritising the synthesis findings in the context of your OSS tool improvements and roadmap. We’ll save the in-depth process for a future resource and go over some of the basics.
 
-- Rank the themes in order of importance by asking each person to vote on the most important changes/findings.
+1. Rank the themes in order of importance by asking each person to vote on the most important changes/findings.
 
 	**Tips:**
 	- Use your best collective judgment to select which data you will focus on. You can’t focus on everything and there will likely be disagreements, especially around scope and technical feasibility.
 	- This isn’t just about what the team working on the OSS think is important, but **what the users from your research think are important.** Each time you select a theme as important, be sure to ask yourselves “Do the users think this is important as well as the OSS tool team?”
 	- Focus now on the themes rather than the technical implications. For example, by selecting ‘Onboarding’ it doesn’t mean you have to do complex technical improvements. It’s just acknowledging the importance of the topic and how it should be considered in the future to align with user expectation and need.
 
-- Evaluate the top important themes with the [SMART method](https://en.wikipedia.org/wiki/SMART_criteria): **S**pecific, **M**easurable, **A**chievable (**A**ssignable), **R**ealistic (**R**elevant), **T**ime-bound.
-- Then order the options:
+2. Evaluate the top important themes with the [SMART method](https://en.wikipedia.org/wiki/SMART_criteria): **S**pecific, **M**easurable, **A**chievable (**A**ssignable), **R**ealistic (**R**elevant), **T**ime-bound.
+3. Then order the options:
     - Do now - High scores on SMART.
     - Do soon - Lower SMART scores but there is still a clear positive impact on users.
     - Idea for the future - Lower SMART scores and hard to see the impact without further user research.
