@@ -3,7 +3,7 @@ title = "Imakefoss twitter take over"
 date = "2021-12-01"
 author = "Eriol Fox"
 cover = "imakefoss.png"
-description = "FILL TEXT HERE"
+description = "Imakefoss twitter take over for USABLE resource 'Usertesting can be fun: An FAQ"
 +++
 
 From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the [IMakeFOSS Twitter account](https://twitter.com/imakefoss) to share the first USABLE resource ["User testing can be fun"](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user). 
