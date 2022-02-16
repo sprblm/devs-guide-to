@@ -1,18 +1,13 @@
 # Dev's guide to...
 
-Repo for 'A dev's (developer's) guide to...Collaboration with Design, Usertesting, Usability, Synthesis...' resources for the USABLE tools project. This microsite will contain the resources created to help
+This is the repo for 'A dev's (developer's) guide to...', as part of the [USABLE tools project](https://usable.tools/). On this microsite, you can find a series of resources with topics in: design collaboration, user testing, usability, synthesis and more. We decided to make the process of design more accessible and visible by documenting tangible, actionable ways of interacting with users with the goal to unlock the value of design. 
 
-You can visit the github pages website here:[devs-guide-to](https://eriolhugotest.github.io/devs-guide-to/)
+USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams so that they can create more user-centered tools.
 
-USABLE tools resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+There are currently **four** resources for the USABLE project: [User testing can be fun: An FAQ for small open source teams](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user), [A dev's guide to user testing: A roadmap for open source teams](https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/), [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/), and [Developer and Design collaboration in OSS](https://sosdesign.sustainoss.org/18).
 
-There are currently **four** resources for the USABLE tools project: Usertesting can be fun: An FAQ, A dev's guide to usertesting, A dev's guide to synthesis and Developer and Designc collaboration in OSS.
+You can visit the Github Pages website here: [devs-guide-to](https://eriolhugotest.github.io/devs-guide-to/)
 
-USABLE is a collaboration between [Simply Secure](https://simplysecure.org/), [Okthanks](https://okthanks.com/) and [Internews](https://internews.org/) looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between [Simply Secure](https://simplysecure.org/), [Okthanks](https://okthanks.com/), and [Internews](https://internews.org/).
 
-User testing can be fun is the first resource of five created by the team at [Simply Secure](https://simplysecure.org/) for OSS tool teams about design.
-
-
-You can fork this repo and make changes to the game and use any of the images and content here - it's free and open source :)
-
-If you want to contribute a Pull Request to improve the guide or log a bug with the guide you can do that by raising a [Pull Request](https://github.com/eriolhugotest/devs-guide-to/pulls) and [Opening an issue](https://github.com/eriolhugotest/devs-guide-to/issues/new)
+If you want to contribute a Pull Request to improve the resources or log a bug you can do that by raising a [Pull Request](https://github.com/eriolhugotest/devs-guide-to/pulls) and [Opening an issue](https://github.com/eriolhugotest/devs-guide-to/issues/new).
