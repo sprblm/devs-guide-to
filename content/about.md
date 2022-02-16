@@ -4,58 +4,56 @@ date = "2021-10-01"
 author = "Eriol Fox"
 +++
 
-# Welcome to the resources for Usable.tools 🧰
+# Welcome to the resources for USABLE.tools 🧰
 
-[USABLE tools](https://usable.tools/) resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+The USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams to better utilize design practices and create more user-centered tools.
 
-USABLE tools is a collaboration between [Simply Secure](https://simplysecure.org/), [Internews](https://internews.org/) and [Okthanks](https://okthanks.com/) collaborating to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.
+[USABLE.tools](https://usable.tools/) is a collaboration between [Simply Secure](https://simplysecure.org/), [Internews](https://internews.org/), and [Okthanks](https://okthanks.com/).
 
-When we started working on the USABLE tools, we did spoke to several team members of OSS tools in order to better understand what aspects of user/human centred design remains unclear to them and that we could create resources in order to support the OSS tools team to develop their understanding and experience with user/human centred design. We completed 7 interviews with OSS tool team members and discovered insights such as:
+We wanted to make sure that the resources we created were relevant and useful to our audience: OSS tool teams. So, at the start of this resource project we spoke to OSS tool teams so that we could better understand what aspects of user/human-centred design remain unclear to them. We completed seven interviews with OSS tool team members and discovered insights such as:
 
-1. 'Design and designers cost a lot' - Design was percieved as 'expensive'. When we begin to unpick this we find that Design is a less 'understandable and visible' aspects of software creation and development. Especially 'invisible' design work such as User Research, UX insights, facilitation, capacity building to build OSS team's 'common sense' design proficiency are often viewed as not 'outputs' and therefore 'waste of money'. Visual design is much easier to 'see' and therefore valued though visual design is harder to create and less user/human centred when the prior research hasn't been invested in. 
+1. 'Design and designers cost a lot' - Design is perceived as 'expensive'. When unpacking this idea, we find that design is a less 'understandable and visible' aspect of software creation and development. Especially the 'invisible' design work, such as user research, UX insights, facilitation, and capacity building, is not often viewed as an 'output' and therefore a 'waste of money'. Visual design is much easier to 'see' and therefore more valued. Although when prior research hasn't been invested, it is harder to create the visual design and the result is less user/human-centred. 
 
-2. Design tooling is not as fit for purpose as developers tool sets. However, this came down to a mention of designers 'not being on github/gitlab' (or similar code base repository locations) and the difficult circumstances where critiquing designers tools and methods was happening while simultaniously expecting designers to work as proficiently in github/gitlab as most developers do. The key insight here is to invest time in building designers understanding of common OSS practices as well as the OSS tool teams building understanding of design practices. Plan for onboarding and welcoming beyond expecting design 'to read the OSS manual'.
+2. Design tooling is not as fit for purpose as developer tool sets. However, this came down to a mention of designers 'not being on github/gitlab' (or similar code base repository locations). The key insight here is to invest time in building designers' understanding of common OSS practices as well as building OSS tool teams' understanding of design practices. Plan for onboarding and welcoming beyond expecting designers 'to read the OSS manual'.
 
-3. How do OSS tool teams find designers and experts? Designers interested in OSS do exist and there are communities for them to communicate, collaborate and be discovered but the OSS tool teams have to 'go outside' of their sphere of comfort to find them and connect. This is common for a wide variety of diversity and inclusion needs within OSS and best described with the phrase `"You won't meet new kinds of people in your own house!"`
+3. How do OSS tool teams find designers and experts? Designers interested in OSS exist and there are communities for them to communicate, collaborate, and meet OSS teams. Yet, usually the OSS tool teams have to 'go outside' of their sphere of comfort to find and connect with designers. This is true for a wide variety of diversity and inclusion needs within OSS and best described with the phrase `"You won't meet new kinds of people in your own house!"`
 
-4. Working collaboratively with developers as early as possible on design needs was mentioned several times by interviewees as a way to have successful design in OSS happen. However, both designers and developers must invest time and effort in each others day to day processes and build trust for this collaboration to work. Valuing each other's time and skills becomes key here and removing as much constraint and tension within the collaboratiove relationship as possible. The emphasis here beyond how designer design 'what can be done in short time frames' for development and goes beyond to 'build trust and understanding well within the OSS in order to design effectively and specifically for real users'.
+4. We heard that working collaboratively with developers as early as possible is a way to encourage successful design in OSS. For this collaboration to work, both designers and developers must invest time and effort in each others' day-to-day processes to build trust. It's important to remove as much constraint and tension within the collaborative relationship as possible. That means going beyond designing for 'short time frames of development' to 'building trust and understanding widely within the OSS in order to design effectively for real users'.
 
-5. There are common differences in different developers understanding of design therefor not all designers will deliver what every developer needs to understand design e.g. some devs want a high fidelity prototypes super accurate grid some can work with wireframes and a style guide. The best approach here is understanding design terminology and practices and understanding what to ask for and how to enure a designer is set up for sucess to provide that.
+5. There are common differences in developers' understanding of design, and therefore not all designers will know what and how to deliver design to accommodate developers' understanding of design. For example, some developers want high-fidelity prototypes based on a grid, while others are used to implementing with wireframes and a style guide. The best approach here is: growing a common understanding of design terminology/practices, learning what to ask for, and ensuring a designer is set up for success.
 
-6. Volunteer designers in OSS are 'too slow' (no slower than some OSS developers typically). Generally designers do not do all their work 'in the open' on github/gitlab and this can contribute to OSS tool teams not quite understanding how long 'good' design takes. Ensuring there is a plan for onboarding, mentoring and integration into the OSS tool does help with this.
+6. Volunteer designers in OSS are perceived as 'too slow'. Generally designers do their work outside of Github/Gitlab and this can contribute to OSS tool teams not fully understanding how long 'good' design takes. Ensuring there is a plan for onboarding, mentoring and integration into the OSS tool does help with this.
 
-7. Helping designers to 'upskill' and make the most of your community of users for both user/human insights into the OSS tool use beyond the 'developer users scratching their own itches with an OSS tool' means a lot of upfront investment by OSS tool teams and developers in the early design research phases like usertesting, usability research and synthesis and can be frustrating when there are 'already' a backlog of identified issues needing developer attention. Changes the focus here to how user research helps focus on the best problems for user first can go a long way to helping design and development in OSS tools work better together.
+7. In the early design research phases like user testing, usability research and synthesis, there is an upfront investment in helping designers 'upskill' and make the most of the community of users. This is important because user/human insights allow an OSS tool to achieve a new level of maturity beyond the 'itch to scratch' implementation process. Yet, this upfront work can be frustrating when there is already a backlog of identified issues in need of developer attention. Placing focus on user research helps the team identify the high-impact problems and this goes a long way to helping design and development in OSS tools work together.
 
-8. High risk users and human rights centred design for sensitive/safety OSS tools is a complex topic with detailed and careful considerations and needs. Open practices and design methods don't always work well with high risk users OSS tools and they need an understanding from a designer before they can be worked on.
+8. High risk users and human rights centred design for sensitive/safety OSS tools is a complex topic with detailed and careful considerations and needs. Open practices and design methods don't always work well with high risk users OSS tools. This needs to be addressed by designers and the wider team to establish guidelines jumping into the work.
 
-### We decided to focus on 4 themes first 🎢
+### We decided to focus on four themes 🎢
 
-1. Delving deep into usertesting frequently asked questions and tensions from OSS tool teams
-2. A detailed guide for OSS tool teams to better understand usertesting and practice the skills alongside designer/s.
-3. Another detailed guide for OSS tool teams to take real usertesting insights from the usertesting guide and synthesise as a team to come together around an understanding of the users core problems.
-4. An honest and frank discussion between designers and developers working on OSS tools right now about how to collaborate on a complex OSS tool.
-
-
-### Created these resources! ⭐
-
-- Resource #1: [User testing can be fun: An FAQ - Interactive guide](https://github.com/simplysecure/usable-user-testing-can-be-fun) [play the guide here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Resource #1: [User testing can be fun: An FAQ - Poster](https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/)
-- Resource #2: [A developers guide to usertesting](https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/)
-- Resource #3: [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/)
-- Resource #4: [Developer and Design Collaboration in open source](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
-
-- Future #? resources to come! We have so many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem we are excited to continue this work so watch this space.
+1. **Addressing design misconceptions**: delving deep into user testing by considering frequently asked questions and tensions
+2. **Promoting collaboration**: How to guide OSS tool teams to better understand user testing and practice the skills alongside designers
+3. **Focusing on the user**: How to work together in a synthesis process with real user testing insights to converge on core user problems/needs
+4. **Hearing a variety of voices**: Asking the OSS community how they collaborate on complex OSS tools
 
 
-### Completed these engagements! ⭐
+### We created these resources! ⭐
+
+- Resource #1: [User testing can be fun: An FAQ - Interactive guide](https://github.com/simplysecure/usable-user-testing-can-be-fun) ([play the guide here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
+- Resource #2: [User testing can be fun: An FAQ - Poster](https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/)
+- Resource #3: [A dev's guide to user testing](https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/)
+- Resource #4: [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/)
+- Resource #5: [Developer and designer collaboration in open source](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
+
+### And we completed these engagements with the community! ⭐
 
 - Engagement #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Engagement #1: [Interactive guide github and poster github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
-- Engagement #1: [Imakefoss twitter take over](https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/)
-- Engagement #2: [Getting comfortable with usertesting and usertesting roleplay at the UXForm](#)
-- Engagement #3: [A Dev’s guide to synthesis - workshop](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/)
-- Engagement #3: [A Dev’s guide to synthesis at FOSDEM22](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/)
-- Engagement #4: [Developer and Design Collaboration in open source podcast episode](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
-- Engagement #1-#4: [A Dev’s guide... at Mozfest22](https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/) 
+- Engagement #2: [Interactive guide post on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
+- Engagement #3: [Imakefoss Twitter takeover](https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/)
+- Engagement #4: [Developer and designer collaboration in open source podcast episode](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
+- Engagement #5: [A dev’s guide to synthesis - workshop](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/)
+- Engagement #6: [A dev’s guide to synthesis at FOSDEM22](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/)
+- Engagement #7: [A dev’s guide... at Mozfest22](https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/) 
+- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum](#) (scheduled in April 2022)
 
-More enagements to come!
+
+Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
