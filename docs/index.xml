@@ -6,9 +6,20 @@
     <description>Recent content on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Dev&#39;s guide to synthesis at Mozfest22</title>
+      <title>Getting comfortable with usertesting and usertesting roleplay at the UXForum</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</guid>
+      <description>Text TBC!</description>
+      <content>&lt;p&gt;Text TBC!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to resources #1-#4 at Mozfest22</title>
       <link>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -76,12 +87,13 @@ Who is it for? We wrote this guide with small (2-20 active contributors or maint
 &lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
 &lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
 &lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Find the full guide here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eriolhugotest/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>Imakefoss twitter take over</title>
+      <title>Imakefoss Twitter takeover</title>
       <link>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -102,8 +114,13 @@ Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and 
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.
+The poster version doesn&amp;rsquo;t require an internet connection to play (like the &amp;lsquo;User testing can be fun: An FAQ interactive guide&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.</description>
+      <content>&lt;p&gt;We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.&lt;/p&gt;
+&lt;p&gt;The poster version doesn&amp;rsquo;t require an internet connection to play (like the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;User testing can be fun: An FAQ interactive guide&lt;/a&gt;&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;You can download the high res .pdf hosted on our github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whereas you can fork, clone, edit, play and submit improvements via issues and PRs to the game&amp;rsquo;s repository of code (&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;like the interactive guide has here&lt;/a&gt;), the poster version can be iterated on and collaborated on in a similar way using an open &lt;a href=&#34;https://penpot.app/&#34;&gt;&amp;lsquo;PenPot&amp;rsquo;&lt;/a&gt; file. Simply upload a &amp;lsquo;finished&amp;rsquo; version of your remixed poster via a pull request to our &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;repository for the &amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; poster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find our poster in a &lt;a href=&#34;https://design.penpot.app/#/view/5ac34dd0-8da2-11ec-a2fe-9eafb5cb1e0f?page-id=5ac34dd1-8da2-11ec-a2fe-9eafb5cb1e0f&amp;amp;section=interactions&amp;amp;index=0&amp;amp;share-id=7163d870-8da2-11ec-a2fe-9eafb5cb1e0f&#34;&gt;PenPot &amp;lsquo;shared prototype&amp;rsquo; here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -115,12 +132,13 @@ Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and 
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</guid>
       <description>Play the guide on itch.io here
 USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
-USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+USABLE is a collaboration between Simply Secure, Okthanks and Internews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
-&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
 &lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
 &lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also find the &amp;lsquo;static&amp;rsquo; poster version of &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; here&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -130,48 +148,66 @@ USABLE is a collaboration between Simply Secure, Okthanks and nternews looking t
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/about/</guid>
-      <description>Welcome to the Adoptable resources for Usable.tools Hello there, we&amp;rsquo;re the team over at Simply Secure we did the adptable project in partnerhsip with Internews and Okthanks
-We did x research&amp;hellip;
-to leanr x info&amp;hellip;
-Where we decided to focus on&amp;hellip;
-Created these resources   Resource #1
-  Resource #2
-  Resource #3
-  Resource #4
-  Future resources #?
-  We have lots of great ideas based in the intervew research to develop further so watch this space.</description>
-      <content>&lt;h1 id=&#34;welcome-to-the-adoptable-resources-for-usabletools&#34;&gt;Welcome to the Adoptable resources for Usable.tools&lt;/h1&gt;
-&lt;p&gt;Hello there, we&amp;rsquo;re the team over at &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt; we did the adptable project in partnerhsip with &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt; and &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We did x research&amp;hellip;&lt;/p&gt;
-&lt;p&gt;to leanr x info&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Where we decided to focus on&amp;hellip;&lt;/p&gt;
-&lt;h3 id=&#34;created-these-resources&#34;&gt;Created these resources&lt;/h3&gt;
+      <description>Welcome to the resources for USABLE.tools 🧰 The USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams to better utilize design practices and create more user-centered tools.
+USABLE.tools is a collaboration between Simply Secure, Internews, and Okthanks.
+We wanted to make sure that the resources we created were relevant and useful to our audience: OSS tool teams. So, at the start of this resource project we spoke to OSS tool teams so that we could better understand what aspects of user/human-centred design remain unclear to them.</description>
+      <content>&lt;h1 id=&#34;welcome-to-the-resources-for-usabletools-&#34;&gt;Welcome to the resources for USABLE.tools 🧰&lt;/h1&gt;
+&lt;p&gt;The USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams to better utilize design practices and create more user-centered tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://usable.tools/&#34;&gt;USABLE.tools&lt;/a&gt; is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt;, and &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We wanted to make sure that the resources we created were relevant and useful to our audience: OSS tool teams. So, at the start of this resource project we spoke to OSS tool teams so that we could better understand what aspects of user/human-centred design remain unclear to them. We completed seven interviews with OSS tool team members and discovered insights such as:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;lsquo;Design and designers cost a lot&amp;rsquo; - Design is perceived as &amp;lsquo;expensive&amp;rsquo;. When unpacking this idea, we find that design is a less &amp;lsquo;understandable and visible&amp;rsquo; aspect of software creation and development. Especially the &amp;lsquo;invisible&amp;rsquo; design work, such as user research, UX insights, facilitation, and capacity building, is not often viewed as an &amp;lsquo;output&amp;rsquo; and therefore a &amp;lsquo;waste of money&amp;rsquo;. Visual design is much easier to &amp;lsquo;see&amp;rsquo; and therefore more valued. Although when prior research hasn&amp;rsquo;t been invested, it is harder to create the visual design and the result is less user/human-centred.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design tooling is not as fit for purpose as developer tool sets. However, this came down to a mention of designers &amp;lsquo;not being on github/gitlab&amp;rsquo; (or similar code base repository locations). The key insight here is to invest time in building designers&#39; understanding of common OSS practices as well as building OSS tool teams&#39; understanding of design practices. Plan for onboarding and welcoming beyond expecting designers &amp;lsquo;to read the OSS manual&amp;rsquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do OSS tool teams find designers and experts? Designers interested in OSS exist and there are communities for them to communicate, collaborate, and meet OSS teams. Yet, usually the OSS tool teams have to &amp;lsquo;go outside&amp;rsquo; of their sphere of comfort to find and connect with designers. This is true for a wide variety of diversity and inclusion needs within OSS and best described with the phrase &lt;code&gt;&amp;quot;You won&#39;t meet new kinds of people in your own house!&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We heard that working collaboratively with developers as early as possible is a way to encourage successful design in OSS. For this collaboration to work, both designers and developers must invest time and effort in each others&#39; day-to-day processes to build trust. It&amp;rsquo;s important to remove as much constraint and tension within the collaborative relationship as possible. That means going beyond designing for &amp;lsquo;short time frames of development&amp;rsquo; to &amp;lsquo;building trust and understanding widely within the OSS in order to design effectively for real users&amp;rsquo;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are common differences in developers&#39; understanding of design, and therefore not all designers will know what and how to deliver design to accommodate developers&#39; understanding of design. For example, some developers want high-fidelity prototypes based on a grid, while others are used to implementing with wireframes and a style guide. The best approach here is: growing a common understanding of design terminology/practices, learning what to ask for, and ensuring a designer is set up for success.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Volunteer designers in OSS are perceived as &amp;lsquo;too slow&amp;rsquo;. Generally designers do their work outside of Github/Gitlab and this can contribute to OSS tool teams not fully understanding how long &amp;lsquo;good&amp;rsquo; design takes. Ensuring there is a plan for onboarding, mentoring and integration into the OSS tool does help with this.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the early design research phases like user testing, usability research and synthesis, there is an upfront investment in helping designers &amp;lsquo;upskill&amp;rsquo; and make the most of the community of users. This is important because user/human insights allow an OSS tool to achieve a new level of maturity beyond the &amp;lsquo;itch to scratch&amp;rsquo; implementation process. Yet, this upfront work can be frustrating when there is already a backlog of identified issues in need of developer attention. Placing focus on user research helps the team identify the high-impact problems and this goes a long way to helping design and development in OSS tools work together.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;High risk users and human rights centred design for sensitive/safety OSS tools is a complex topic with detailed and careful considerations and needs. Open practices and design methods don&amp;rsquo;t always work well with high risk users OSS tools. This needs to be addressed by designers and the wider team to establish guidelines jumping into the work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;we-decided-to-focus-on-four-themes-&#34;&gt;We decided to focus on four themes 🎢&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Addressing design misconceptions&lt;/strong&gt;: delving deep into user testing by considering frequently asked questions and tensions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promoting collaboration&lt;/strong&gt;: How to guide OSS tool teams to better understand user testing and practice the skills alongside designers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focusing on the user&lt;/strong&gt;: How to work together in a synthesis process with real user testing insights to converge on core user problems/needs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hearing a variety of voices&lt;/strong&gt;: Asking the OSS community how they collaborate on complex OSS tools&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;we-created-these-resources-&#34;&gt;We created these resources! ⭐&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Resource #1&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Resource #2&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Resource #3&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Resource #4&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Future resources #?&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Resource #1: &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;User testing can be fun: An FAQ - Interactive guide&lt;/a&gt; (&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;play the guide here&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Resource #2: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/&#34;&gt;User testing can be fun: An FAQ - Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #3: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;A dev&amp;rsquo;s guide to user testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #4: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #5: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;We have lots of great ideas based in the intervew research to develop further so watch this space.&lt;/p&gt;
-&lt;h3 id=&#34;created-these-engagements&#34;&gt;Created these engagements&lt;/h3&gt;
+&lt;h3 id=&#34;and-we-completed-these-engagements-with-the-community-&#34;&gt;And we completed these engagements with the community! ⭐&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Engagement #1&lt;/li&gt;
-&lt;li&gt;Engagement #2&lt;/li&gt;
-&lt;li&gt;Engagement #3&lt;/li&gt;
-&lt;li&gt;Engagement #4&lt;/li&gt;
+&lt;li&gt;Engagement #1: &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Interactive guide playable on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #2: &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;Interactive guide post on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #3: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/&#34;&gt;Imakefoss Twitter takeover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #4: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source podcast episode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #5: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #6: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #7: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #8: &lt;a href=&#34;#&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;More enagements to come!&lt;/p&gt;
+&lt;p&gt;Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.&lt;/p&gt;
 </content>
     </item>
     
@@ -273,7 +309,8 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;p&gt;We compiled user testing FAQs in our interactive companion resource &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;“User testing can be fun”&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;how-to-use-this-guide-&#34;&gt;How to use this guide 🦮&lt;/h3&gt;
 &lt;p&gt;This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/docs/number-plan.png&#34; title=&#34;The flow of starting user testing&#34;&gt;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/number-plan.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-you-need-&#34;&gt;What You Need 📝&lt;/h3&gt;
 &lt;p&gt;You don’t need a lot of resources to do user testing. Support from your team is helpful, but at first you may need to conduct user tests by yourself in order to convince others of the benefits. Openness, humility, and curiosity are important qualities to embrace.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Specifically, it’s good to have:&lt;/strong&gt;&lt;/p&gt;
@@ -297,26 +334,21 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/conducting-a-user-test/</guid>
       <description>Phase 3: Conducting a user test 🎛️  The Structure 🧱 A prepared script can help you remember everything and be your guide if your mind goes blank.
-  Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.</description>
+1. Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.</description>
       <content>&lt;h1 id=&#34;phase-3-conducting-a-user-test-&#34;&gt;Phase 3: Conducting a user test 🎛️&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;the-structure-&#34;&gt;The Structure 🧱&lt;/h3&gt;
 &lt;p&gt;A prepared script can help you remember everything and be your guide if your mind goes blank.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Warmup: To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Testing: Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset. Example:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Introduction:&lt;/strong&gt; To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Warmup:&lt;/strong&gt; To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Testing:&lt;/strong&gt; Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;
+You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Ask your user to do a task you prepared.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ask your user to do a task you prepared.
+&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Set up an account to receive files from your source.&lt;/li&gt;
 &lt;li&gt;Turn off the VPN. Is it clear what is happening?&lt;/li&gt;
@@ -324,9 +356,9 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;li&gt;Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.
+&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What are you thinking?&lt;/li&gt;
 &lt;li&gt;What are you looking for?&lt;/li&gt;
@@ -334,11 +366,7 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;li&gt;Can you give me more detail as to why you think that?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Closing: At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;4. Closing:&lt;/strong&gt; At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
 &lt;h3 id=&#34;interviewing-style-&#34;&gt;Interviewing Style 🎤&lt;/h3&gt;
 &lt;p&gt;You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt;. You can also use the ‘&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.&lt;/p&gt;
 &lt;p&gt;Resist the urge to explain your software, correct their mistakes, or defend your choices. Instead, try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did correctly. Finally, give them plenty of time to answer. Don’t be afraid of silence or gaps in conversation, sometimes testers need time to think and respond (let them know that’s okay). This is especially important if you’re testing with someone who is speaking in their second or third language.&lt;/p&gt;
@@ -525,14 +553,14 @@ Examples:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Full Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;WHAT: Can the user upload their first document to the “my notes” section?&lt;/li&gt;
-&lt;li&gt;WHY: To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&amp;rsquo;s not. Find UX improvements to propose for the next sprint.&lt;/li&gt;
-&lt;li&gt;HOW: Prototype in Google Slides&lt;/li&gt;
-&lt;li&gt;WHO (Testers): 2 users who already use our software, 2 users who routinely make digital notes but not in our tool&lt;/li&gt;
-&lt;li&gt;WHO (Facilitators): Samir and Frank&lt;/li&gt;
-&lt;li&gt;HOW MANY: 4 tests (if possible)&lt;/li&gt;
-&lt;li&gt;HOW LONG: 45 minutes&lt;/li&gt;
-&lt;li&gt;WHERE: Zoom with participant screen sharing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHAT:&lt;/strong&gt; Can the user upload their first document to the “my notes” section?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHY:&lt;/strong&gt; To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&amp;rsquo;s not. Find UX improvements to propose for the next sprint.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW:&lt;/strong&gt; Prototype in Google Slides&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHO (Testers):&lt;/strong&gt; 2 users who already use our software, 2 users who routinely make digital notes but not in our tool&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHO (Facilitators):&lt;/strong&gt; Samir and Frank&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW MANY:&lt;/strong&gt; 4 tests (if possible)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW LONG:&lt;/strong&gt; 45 minutes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHERE:&lt;/strong&gt; Zoom with participant screen sharing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
@@ -736,23 +764,23 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;li&gt;
 &lt;p&gt;Rank the themes in order of importance by asking each person to vote on the most important changes/findings.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tips:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Use your best collective judgment to select which data you will focus on. You can’t focus on everything and there will likely be disagreements, especially around scope and technical feasibility.&lt;/li&gt;
 &lt;li&gt;This isn’t just about what the team working on the OSS think is important, but &lt;strong&gt;what the users from your research think are important.&lt;/strong&gt; Each time you select a theme as important, be sure to ask yourselves “Do the users think this is important as well as the OSS tool team?”&lt;/li&gt;
 &lt;li&gt;Focus now on the themes rather than the technical implications. For example, by selecting ‘Onboarding’ it doesn’t mean you have to do complex technical improvements. It’s just acknowledging the importance of the topic and how it should be considered in the future to align with user expectation and need.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Evaluate the top important themes with the &lt;a href=&#34;https://en.wikipedia.org/wiki/SMART_criteria&#34;&gt;SMART method&lt;/a&gt;: &lt;strong&gt;S&lt;/strong&gt;pecific, &lt;strong&gt;M&lt;/strong&gt;easurable, &lt;strong&gt;A&lt;/strong&gt;chievable (&lt;strong&gt;A&lt;/strong&gt;ssignable), &lt;strong&gt;R&lt;/strong&gt;ealistic (&lt;strong&gt;R&lt;/strong&gt;elevant), &lt;strong&gt;T&lt;/strong&gt;ime-bound.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Then order the options:&lt;/p&gt;
-&lt;ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Do now - High scores on SMART.&lt;/li&gt;
 &lt;li&gt;Do soon - Lower SMART scores but there is still a clear positive impact on users.&lt;/li&gt;
 &lt;li&gt;Idea for the future - Lower SMART scores and hard to see the impact without further user research.&lt;/li&gt;
 &lt;li&gt;Blue sky thinking - Lowest SMART scores and lacks some critical knowledge or infrastructure to even discuss.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;blockquote&gt;
@@ -795,11 +823,13 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;h1 id=&#34;further-reading-&#34;&gt;Further reading 📚&lt;/h1&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;Video about synthesis from Okthanks: &lt;a href=&#34;https://www.youtube.com/watch?v=DUt8gdglxEQ&#34;&gt;https://www.youtube.com/watch?v=DUt8gdglxEQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Open Design &amp;amp; Ushahidi’s report back synthesis process: &lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1&#34;&gt;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1&lt;/a&gt; &lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2&#34;&gt;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&#34;&gt;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://miro.com/blog/collaboration-on-design-research/&#34;&gt;https://miro.com/blog/collaboration-on-design-research/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DUt8gdglxEQ&#34;&gt;Video about synthesis from Okthanks:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-recommendations-example-1&#34;&gt;Open Design &amp;amp; Ushahidi’s report back synthesis process: Example #1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2&#34;&gt;Open Design &amp;amp; Ushahidi’s report back synthesis process: Example #2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&#34;&gt;From bootcamp.uxdesign.cc Many Modes of Research Synthesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/blog/collaboration-on-design-research/&#34;&gt;From the miro.com blog Collaboration on design research&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/&#34;&gt;Goabck to the homepage?&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

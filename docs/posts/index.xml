@@ -6,9 +6,20 @@
     <description>Recent content in Posts on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eriolhugotest.github.io/devs-guide-to/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Dev&#39;s guide to synthesis at Mozfest22</title>
+      <title>Getting comfortable with usertesting and usertesting roleplay at the UXForum</title>
+      <link>https://eriolhugotest.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eriolhugotest.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</guid>
+      <description>Text TBC!</description>
+      <content>&lt;p&gt;Text TBC!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to resources #1-#4 at Mozfest22</title>
       <link>https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -76,12 +87,13 @@ Who is it for? We wrote this guide with small (2-20 active contributors or maint
 &lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
 &lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
 &lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;#&#34;&gt;Find the full guide here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eriolhugotest/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>Imakefoss twitter take over</title>
+      <title>Imakefoss Twitter takeover</title>
       <link>https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -102,8 +114,13 @@ Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and 
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.
+The poster version doesn&amp;rsquo;t require an internet connection to play (like the &amp;lsquo;User testing can be fun: An FAQ interactive guide&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.</description>
+      <content>&lt;p&gt;We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.&lt;/p&gt;
+&lt;p&gt;The poster version doesn&amp;rsquo;t require an internet connection to play (like the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;User testing can be fun: An FAQ interactive guide&lt;/a&gt;&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#&#34;&gt;You can download the high res .pdf hosted on our github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whereas you can fork, clone, edit, play and submit improvements via issues and PRs to the game&amp;rsquo;s repository of code (&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;like the interactive guide has here&lt;/a&gt;), the poster version can be iterated on and collaborated on in a similar way using an open &lt;a href=&#34;https://penpot.app/&#34;&gt;&amp;lsquo;PenPot&amp;rsquo;&lt;/a&gt; file. Simply upload a &amp;lsquo;finished&amp;rsquo; version of your remixed poster via a pull request to our &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;repository for the &amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; poster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find our poster in a &lt;a href=&#34;https://design.penpot.app/#/view/5ac34dd0-8da2-11ec-a2fe-9eafb5cb1e0f?page-id=5ac34dd1-8da2-11ec-a2fe-9eafb5cb1e0f&amp;amp;section=interactions&amp;amp;index=0&amp;amp;share-id=7163d870-8da2-11ec-a2fe-9eafb5cb1e0f&#34;&gt;PenPot &amp;lsquo;shared prototype&amp;rsquo; here&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
@@ -115,12 +132,13 @@ Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and 
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/</guid>
       <description>Play the guide on itch.io here
 USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
-USABLE is a collaboration between Simply Secure, Okthanks and nternews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+USABLE is a collaboration between Simply Secure, Okthanks and Internews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
-&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;nternews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
 &lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
 &lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also find the &amp;lsquo;static&amp;rsquo; poster version of &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; here&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
