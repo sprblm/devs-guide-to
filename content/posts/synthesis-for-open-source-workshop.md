@@ -6,7 +6,7 @@ cover = "synthesis-for-open-source-workshop.png"
 description = "After creating the third resource in our user testing series all about the synthesis processes, we wanted to understand how well the information on how to run and participate in a synthesis process was to real OSS tool teams."
 +++
 
-After creating the third resource in our user testing series all about the synthesis processes, we wanted to understand how well the information on how to run and participate in a synthesis process was to real OSS tool teams. 
+After creating the [third resource in our user testing series](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/) all about the synthesis processes, we wanted to understand how well the information on how to run and participate in a synthesis process was to real OSS tool teams. 
 
 We piloted the content with sample content from previous OSS tool user research with 3 team members of unrelated OSS tools. The hypothesis was that regardless of your familiarity with the OSS tool or the user research that any OSS tool team member can participate in the synthesis process to gain a better understanding of what was achieved in the user testing/user research and 'get on the same page' as those that did conduct the user testing/user research. 
 
