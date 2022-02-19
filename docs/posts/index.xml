@@ -57,8 +57,16 @@
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>Resource #3: Synthesis for open source
+The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Resource #3: Synthesis for open source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing. It&amp;rsquo;s important to make sense of a user test both on an individual level, and as a team. This synthesis resource specifically helps teams work together to find a common understanding that serves as the foundation of future work.&lt;/p&gt;
+&lt;p&gt;In this resource, we documented the setup process, how to do affinity diagramming, and facilitating synthesis. We had a lot of fun connecting the information to our experiences working in open source, and included several real life examples. After a synthesis process, the next steps for your team are prioritization and sharing out. We mentioned these briefly, but look forward to expanding this content in the future.&lt;/p&gt;
+&lt;p&gt;We highlighted this resource during the engagements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
