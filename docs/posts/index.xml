@@ -35,8 +35,13 @@
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>After creating the third resource in our user testing series all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.
+In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research.</description>
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.&lt;/p&gt;
+&lt;p&gt;In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research. We wanted to convey that synthesis allows everyone to gain a better understanding of the achievements of the user testing/user research and &amp;lsquo;get on the same page&amp;rsquo; as those that conducted/observed the research.&lt;/p&gt;
+&lt;p&gt;We took our OSS tool team participants through the general theory of synthesis of user testing/user research phase. It was important to reiterate the goals of the user testing/user research. We then offered the participants three kinds of user testing/user research outputs (video, long-form notes, short-form notes) and did a preliminary synthesis of each output before doing a wider synthesis and grouping/theming exercise. Due to time constraints, we conducted this session in 90 minutes. This demonstrates what can be achieved in a short amount of time with a dedicated synthesis process.&lt;/p&gt;
+&lt;p&gt;This workshop led to the creation of the resource &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also check out our &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;session at FOSDEM 2022&lt;/a&gt; and watch the 20-minute video about the synthesis resource as well as some clips from the synthesis workshop.&lt;/p&gt;
 </content>
     </item>
     
@@ -46,8 +51,13 @@
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>After creating the third resource in our user testing series about the synthesis process and running a small workshop session to test the content with real OSS tool teams, our talk about research synthesis was accepted by the Open Source Design devroom at FOSDEM 2022.
+During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.</description>
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; about the synthesis process and &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;running a small workshop session&lt;/a&gt; to test the content with real OSS tool teams, our talk about research synthesis was accepted by the &lt;a href=&#34;https://fosdem.org/2022/schedule/track/open_source_design/&#34;&gt;Open Source Design devroom&lt;/a&gt; at &lt;a href=&#34;https://fosdem.org/2022/&#34;&gt;FOSDEM 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.&lt;/p&gt;
+&lt;p&gt;We explained why synthesis is an important phase not only for designers in OSS tool building, but the wider OSS tool team. As we discovered through many of our initial interviews with OSS tool team members, it can be difficult to understand the value design brings to an OSS tool, as well as where design improvements and insights come from. Along with these challenges, an additional challenge of developers in OSS is finding time to participate in user testing. However, a good synthesis session condenses this information. This also gives the designers and developers in OSS tool teams time to collaborate and understand each others&#39; perspectives and roles in making the best OSS tool possible.&lt;/p&gt;
+&lt;p&gt;You can view the &lt;a href=&#34;https://fosdem.org/2022/schedule/event/osd_synthesising_user_testing_insights_with_oss_tool_teams/&#34;&gt;video of the session that is self-hosted by FOSDEM here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you to the team at &lt;a href=&#34;https://opensourcedesign.net/&#34;&gt;Open Source Design&lt;/a&gt; for inviting us to present at FOSDEM 2022!&lt;/p&gt;
 </content>
     </item>
     
@@ -76,10 +86,19 @@ The third resource in our user testing series is all about the synthesis process
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/</guid>
-      <description>One of the important topics that came up in our intial interview reserach was that OSS tools don&amp;rsquo;t understand how collabortion between developers and designs can happen best within their projects.
-https://sosdesign.sustainoss.org/18</description>
-      <content>&lt;p&gt;One of the important topics that came up in our intial interview reserach was that OSS tools don&amp;rsquo;t understand how collabortion between developers and designs can happen best within their projects.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;https://sosdesign.sustainoss.org/18&lt;/a&gt;&lt;/p&gt;
+      <description>Collaboration processes came up in our initial research interviews with tool team members. Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.
+For our fourth resource and engagement with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the Sustaining Open Source Design podcast (SOS Design).</description>
+      <content>&lt;p&gt;Collaboration processes came up in our initial research interviews with tool team members.  Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.&lt;/p&gt;
+&lt;p&gt;For our fourth resource and engagement with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the &lt;a href=&#34;https://sosdesign.sustainoss.org/&#34;&gt;Sustaining Open Source Design podcast (SOS Design)&lt;/a&gt;. This podcast is a sibling podcast to the &lt;a href=&#34;https://podcast.sustainoss.org/&#34;&gt;Sustain OSS podcast&lt;/a&gt; where hosts and guests discuss what it means to keep OSS thriving and sustainable.&lt;/p&gt;
+&lt;p&gt;For the conversation about how designers and developers collaborate on OSS tools, we invited &lt;a href=&#34;https://twitter.com/yrb1rd&#34;&gt;Sadie&lt;/a&gt; and &lt;a href=&#34;https://luwuxu.com/&#34;&gt;Lucie&lt;/a&gt; of &lt;a href=&#34;https://geti2p.net/en/&#34;&gt;I2P (Invisible Internet Project)&lt;/a&gt;, and &lt;a href=&#34;https://saptaks.website/&#34;&gt;Saptak&lt;/a&gt;, a Human Rights Concerned Web Developer, working as a contractor with Freedom of the Press Foundation. We discussed questions like:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Where does the designer-developer handoff (or better yet, collaboration) begin in your opinion?&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;ve used the word &amp;lsquo;hand-off&amp;rsquo; but does that narrative need to change? Should hand-off be more like a &amp;lsquo;hands together&amp;rsquo;?&lt;/li&gt;
+&lt;li&gt;Do you have an example of when designer-developer collaboration has worked really well? What does the easiest design spec you&amp;rsquo;ve worked from look like? Which collaboration method with designers do you prefer as you work through implementation?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We also have a &lt;a href=&#34;https://github.com/simplysecure/designer-developer-collaboration-in-OSS/blob/main/In-conversation-with-designers-and-developers-in-OSS-for-SOS-podcast.md&#34;&gt;transcript of the podcast episode here in an open github repository&lt;/a&gt; and the &lt;a href=&#34;https://github.com/simplysecure/designer-developer-collaboration-in-OSS&#34;&gt;repository readme also has a detailed list of questions&lt;/a&gt; on the topic of developer and designer collaboration in OSS (some of which we covered and some we didn&amp;rsquo;t).&lt;/p&gt;
+&lt;p&gt;If you would like to join us for a future part of the conversation on designer and developer collaboration in OSS you can &lt;a href=&#34;https://discourse.sustainoss.org/t/design-ux-working-group/348&#34;&gt;contact the SOS Design podcast here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can listen to the &lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;SOS Design podcast episode &amp;lsquo;Collaboration Between Designers and Developers&amp;rsquo; here on the podcast&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
