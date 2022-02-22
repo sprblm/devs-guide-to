@@ -3,15 +3,15 @@ title = "A Dev's guide to synthesis - workshop"
 date = "2021-12-06"
 author = "Eriol Fox"
 cover = "synthesis-for-open-source-workshop.png"
-description = "After creating the third resource in our user testing series all about the synthesis processes, we wanted to understand how well the information on how to run and participate in a synthesis process was to real OSS tool teams."
+description = "After creating the third resource in our user testing series all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own."
 +++
 
-After creating the [third resource in our user testing series](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/) all about the synthesis processes, we wanted to understand how well the information on how to run and participate in a synthesis process was to real OSS tool teams. 
+After creating the [third resource in our user testing series](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/) all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.
 
-We piloted the content with sample content from previous OSS tool user research with 3 team members of unrelated OSS tools. The hypothesis was that regardless of your familiarity with the OSS tool or the user research that any OSS tool team member can participate in the synthesis process to gain a better understanding of what was achieved in the user testing/user research and 'get on the same page' as those that did conduct the user testing/user research. 
+In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research. We wanted to convey that synthesis allows everyone to gain a better understanding of the achievements of the user testing/user research and 'get on the same page' as those that conducted/observed the research.
 
-The OSS tool teams were taken through the general theory of synthesis post a user testing/user research phase, then taken through the goals of the user testing/user research. We then offered the participants to 3 kinds of user testing/user research outputs and did a preliminary synthesis of each output before doing a wider synthesis and grouping/theming exercise. This was done in the space of 90 mins which is a reduced time scope than we recommend in the resource but stands as a testement to what can be achieved in a sort amount of time when dedicating time to a synthesis process.
+We took our OSS tool team participants through the general theory of synthesis of user testing/user research phase. It was important to reiterate the goals of the user testing/user research. We then offered the participants three kinds of user testing/user research outputs (video, long-form notes, short-form notes) and did a preliminary synthesis of each output before doing a wider synthesis and grouping/theming exercise. Due to time constraints, we conducted this session in 90 minutes. This demonstrates what can be achieved in a short amount of time with a dedicated synthesis process.
 
-The workshop was private and therefore we protected the identities of the OSS tool team members but you can request a copy of our synthesis resource by reaching out to [usable@simplysecure.org](mailto:usable@simplysecure.org)
+This workshop led to the creation of the resource [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/). 
 
-You can also check out our [session at FOSDEM 2022](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/) and watch a 20 minute video about the synthesis resource as well as some clips from the private synthesis session.
+You can also check out our [session at FOSDEM 2022](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/) and watch the 20-minute video about the synthesis resource as well as some clips from the synthesis workshop.
