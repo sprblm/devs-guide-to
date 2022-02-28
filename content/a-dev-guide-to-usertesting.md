@@ -26,7 +26,7 @@ We compiled user testing FAQs in our interactive companion resource [“User tes
 
 ### How to use this guide 🦮
 
-This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, [Synthesis for open-source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/), to learn more about research synthesis. 
+This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, [Synthesis for open-source](/synthesis-for-open-source/), to learn more about research synthesis. 
 
 The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.
 
