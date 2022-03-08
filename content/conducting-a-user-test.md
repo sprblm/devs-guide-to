@@ -28,7 +28,7 @@ A prepared script can help you remember everything and be your guide if your min
 > - How would you customise which types of script to block?
 > - Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?
 
-> While observing what the user did, tried to do, and didn’t do, ask [probing questions](https://eriolhugotest.github.io/devs-guide-to/five-whys/) to get to the root cause of problems or motivations.
+> While observing what the user did, tried to do, and didn’t do, ask [probing questions]({{< ref "five-whys" >}}) to get to the root cause of problems or motivations.
 > **Examples:**
 > - What are you thinking?
 > - What are you looking for?
@@ -39,13 +39,13 @@ A prepared script can help you remember everything and be your guide if your min
 
 ### Interviewing Style 🎤
 
-You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the [User testing cheat sheet](https://simplysecure.org/blog/user-testing-cheatsheet). You can also use the ‘[Five Whys](https://eriolhugotest.github.io/devs-guide-to/five-whys/)’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.
+You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the [User testing cheat sheet](https://simplysecure.org/blog/user-testing-cheatsheet). You can also use the ‘[Five Whys]({{< ref "five-whys" >}})’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.
 
 Resist the urge to explain your software, correct their mistakes, or defend your choices. Instead, try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did correctly. Finally, give them plenty of time to answer. Don’t be afraid of silence or gaps in conversation, sometimes testers need time to think and respond (let them know that’s okay). This is especially important if you’re testing with someone who is speaking in their second or third language.
 
 ### Direct Recommendations 🚦
 
-Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘[Five Whys](https://eriolhugotest.github.io/devs-guide-to/five-whys/)’ process to arrive at a root cause.
+Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘[Five Whys]({{< ref "five-whys" >}})’ process to arrive at a root cause.
 
 ### Improvisation 🧑‍🎤
 
@@ -85,7 +85,7 @@ Still nervous? Practice a test scenario with a friend, colleague, or relative. T
 > 
 > Your task is to set up an account to receive files from your source. Can you show me how you would do that?
 > 
-> Remember to ask open-ended questions throughout, see [User testing cheat sheet](https://simplysecure.org/blog/user-testing-cheatsheet) and the [Five Whys](https://eriolhugotest.github.io/devs-guide-to/five-whys/)
+> Remember to ask open-ended questions throughout, see [User testing cheat sheet](https://simplysecure.org/blog/user-testing-cheatsheet) and the [Five Whys]({{< ref "five-whys" >}})
 > 
 > [Repeat for other tasks, if you planned any]
 > 
@@ -96,6 +96,6 @@ Still nervous? Practice a test scenario with a friend, colleague, or relative. T
 # Next steps 👣
 ---
 
-Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/), to learn more about research synthesis.
+Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}}), to learn more about research synthesis.
 
-[Move on to The Five Whys](https://eriolhugotest.github.io/devs-guide-to/five-whys/)
+[Move on to The Five Whys]({{< ref "five-whys" >}})

@@ -64,7 +64,7 @@ Make a list of possible outreach channels where your community gathers, such as:
 > 
 > If you're interested please fill out this short form: [add a link to a form]
 
-It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible [See “Phase 1 - Who”](https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/#who-testers-). This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.
+It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible [See “Phase 1 - Who”]({{< ref "planning-and-operations/#who-testers-" >}}). This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.
 
 Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.
 
@@ -96,4 +96,4 @@ Once you find a candidate that fits what you’re looking for, send them a Calen
 
 Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.
 
-[Move on to Conducting a user test](https://eriolhugotest.github.io/devs-guide-to/conducting-a-user-test/)
+[Move on to Conducting a user test”]({{< ref "conducting-a-user-test" >}})

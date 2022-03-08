@@ -39,21 +39,21 @@ We wanted to make sure that the resources we created were relevant and useful to
 ### We created these resources! ⭐
 
 - Resource #1: [User testing can be fun: An FAQ - Interactive guide](https://github.com/simplysecure/usable-user-testing-can-be-fun) ([play the guide here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
-- Resource #2: [User testing can be fun: An FAQ - Poster](https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/)
-- Resource #3: [A dev's guide to user testing](https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/)
-- Resource #4: [Synthesis for open source](https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/)
-- Resource #5: [Developer and designer collaboration in open source](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
+- Resource #2: [User testing can be fun: An FAQ - Poster]({{< ref "posts/usertesting-can-be-fun-poster" >}})
+- Resource #3: [A dev's guide to user testing]({{< ref "a-dev-guide-to-usertesting" >}})
+- Resource #4: [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}})
+- Resource #5: [Developer and designer collaboration in open source]({{< ref "posts/developer-designer-collaboration" >}})
 
 ### And we completed these engagements with the community! ⭐
 
 - Engagement #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
 - Engagement #2: [Interactive guide post on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
-- Engagement #3: [Imakefoss Twitter takeover](https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/)
-- Engagement #4: [Developer and designer collaboration in open source podcast episode](https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/)
-- Engagement #5: [A dev’s guide to synthesis - workshop](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/)
-- Engagement #6: [A dev’s guide to synthesis at FOSDEM22](https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/)
-- Engagement #7: [A dev’s guide... at Mozfest22](https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/) 
-- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum](#) (scheduled in April 2022)
+- Engagement #3: [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
+- Engagement #4: [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}})
+- Engagement #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
+- Engagement #6: [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
+- Engagement #7: [A dev’s guide... at Mozfest22]({{< ref "posts/usable-resources-at-mozfest22" >}})
+- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum" >}}) (scheduled in April 2022)
 
 
 Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
