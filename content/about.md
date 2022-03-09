@@ -47,7 +47,7 @@ We wanted to make sure that the resources we created were relevant and useful to
 ### And we completed these engagements with the community! ⭐
 
 - Engagement #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Engagement #2: [Interactive guide post on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
+- Engagement #2: [Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
 - Engagement #3: [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
 - Engagement #4: [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}})
 - Engagement #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
