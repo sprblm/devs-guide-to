@@ -6,7 +6,7 @@ cover = "fosdem22.png"
 description = "After creating the third resource in our user testing series about the synthesis process and running a small workshop session to test the content with real OSS tool teams, our talk about research synthesis was accepted by the Open Source Design devroom at FOSDEM 2022. During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail."
 +++
 
-After creating the [third resource in our user testing series]({{< ref "synthesis-for-open-source" >}})about the synthesis process and [running a small workshop session]({{< ref "posts/synthesis-for-open-source-workshop" >}}) to test the content with real OSS tool teams, our talk about research synthesis was accepted by the [Open Source Design devroom](https://fosdem.org/2022/schedule/track/open_source_design/) at [FOSDEM 2022](https://fosdem.org/2022/). 
+After creating the [third resource in our user testing series]({{< ref "synthesis-for-open-source" >}}) about the synthesis process and [running a small workshop session]({{< ref "posts/synthesis-for-open-source-workshop" >}}) to test the content with real OSS tool teams, our talk about research synthesis was accepted by the [Open Source Design devroom](https://fosdem.org/2022/schedule/track/open_source_design/) at [FOSDEM 2022](https://fosdem.org/2022/). 
 
 During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail. 
 
