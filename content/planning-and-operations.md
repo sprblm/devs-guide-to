@@ -23,7 +23,7 @@ Deciding what to test depends on your team’s agreed upon roadmap. If a user te
 > 
 > Typically features or parts of a tool that are in development are a great choice because they’re already the focus. However, your team may be apprehensive because user testing might uncover critical errors or misunderstandings. If testing reveals that something can be done better, that doesn’t mean you have to stall development. It means that you now have more information for future improvements.
 
-![A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work ](https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/docs/design-dev-comic.png "A short comic about how development and design of a feature can happen")
+![A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work ](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/design-dev-comic.png "A short comic about how development and design of a feature can happen")
 
 Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about or that isn’t working so well. 
 
@@ -100,4 +100,4 @@ Testing can be done in-person and remotely. We recommend that everyone’s face 
   
 The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.
 
-[Move on to Recruiting testers](https://eriolhugotest.github.io/devs-guide-to/recruiting-testers/)
+[Move on to Recruiting testers]({{< ref "recruiting-testers" >}})
