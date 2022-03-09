@@ -8,24 +8,31 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting comfortable with usertesting and usertesting roleplay at the UXForum</title>
+      <title>Getting comfortable with user testing: Roleplay at the UXForum</title>
       <link>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</guid>
-      <description>Text TBC!</description>
-      <content>&lt;p&gt;Text TBC!&lt;/p&gt;
+      <description>The UX Forum 2022 is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.
+The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: Dev&amp;rsquo;s guide to user testing. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.</description>
+      <content>&lt;p&gt;The &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt; is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.&lt;/p&gt;
+&lt;p&gt;The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Dev&amp;rsquo;s guide to user testing&lt;/a&gt;. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.&lt;/p&gt;
+&lt;p&gt;Currently we&amp;rsquo;re asking for tool teams who want to learn and practice these user testing skills to either bring their own tool they work on or participate with a sample user testing script and then practice with fellow workshoppers. These role plays will give you the chance to practice the interview techniques and flows without the added pressure of &amp;lsquo;delivering&amp;rsquo; to your own OSS tools.&lt;/p&gt;
+&lt;p&gt;Watch this space for more information about the session at the UX Forum and how to sign up.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>A Dev&#39;s guide to resources #1-#4 at Mozfest22</title>
+      <title>A dev&#39;s guide to resources #1-#4 at Mozfest22</title>
       <link>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</guid>
-      <description>Explainer text goes here</description>
-      <content>&lt;p&gt;Explainer text goes here&lt;/p&gt;
+      <description>Mozilla Festival 2022 is 7th to 11th of March 2022 and the USABLE tools resource team have prepared a short skill share video about our first four resources for the Mozfest audience. Mozfest is 100% free to attend, you only need to register for a ticket.
+You can find the listing for our skill share on the Mozfest 2022 schedule. In the skill share video, we summarize what we discovered when talking with OSS tool teams, give brief explanations of the completed resources, explain how to use them, and show where to find them (here on this website!</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://www.mozillafestival.org/en/#/&#34;&gt;Mozilla Festival 2022&lt;/a&gt; is 7th to 11th of March 2022 and the USABLE tools resource team have prepared a short skill share video about our first four resources for the Mozfest audience. Mozfest is 100% free to attend, you only need to &lt;a href=&#34;https://www.mozillafestival.org/en/#/tito/Mozilla/mozilla-festival-2022/en/registrations/new?releases=rmddu9xc1hs,mozfest-mega-patron&#34;&gt;register for a ticket&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the listing for our skill share on the &lt;a href=&#34;https://schedule.mozillafestival.org/session/XG8YPK-1&#34;&gt;Mozfest 2022 schedule&lt;/a&gt;. In the skill share video, we summarize what we discovered when talking with OSS tool teams, give brief explanations of the completed resources, explain how to use them, and show where to find them (here on this website!).&lt;/p&gt;
+&lt;p&gt;After Mozfest has ended we&amp;rsquo;ll drop the public video link here so folks can watch outside of the festival schedule. We&amp;rsquo;re really proud of the work we&amp;rsquo;ve done on these first four resources and excited to see how they develop.&lt;/p&gt;
 </content>
     </item>
     
@@ -37,11 +44,11 @@
       <guid>https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</guid>
       <description>After creating the third resource in our user testing series all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.
 In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research.</description>
-      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.&lt;/p&gt;
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.&lt;/p&gt;
 &lt;p&gt;In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research. We wanted to convey that synthesis allows everyone to gain a better understanding of the achievements of the user testing/user research and &amp;lsquo;get on the same page&amp;rsquo; as those that conducted/observed the research.&lt;/p&gt;
 &lt;p&gt;We took our OSS tool team participants through the general theory of synthesis of user testing/user research phase. It was important to reiterate the goals of the user testing/user research. We then offered the participants three kinds of user testing/user research outputs (video, long-form notes, short-form notes) and did a preliminary synthesis of each output before doing a wider synthesis and grouping/theming exercise. Due to time constraints, we conducted this session in 90 minutes. This demonstrates what can be achieved in a short amount of time with a dedicated synthesis process.&lt;/p&gt;
-&lt;p&gt;This workshop led to the creation of the resource &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can also check out our &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;session at FOSDEM 2022&lt;/a&gt; and watch the 20-minute video about the synthesis resource as well as some clips from the synthesis workshop.&lt;/p&gt;
+&lt;p&gt;This workshop led to the creation of the resource &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also check out our &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;session at FOSDEM 2022&lt;/a&gt; and watch the 20-minute video about the synthesis resource as well as some clips from the synthesis workshop.&lt;/p&gt;
 </content>
     </item>
     
@@ -51,9 +58,9 @@ In our pilot with three team members of unrelated OSS tools, we used sample cont
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</guid>
-      <description>After creating the third resource in our user testing series about the synthesis process and running a small workshop session to test the content with real OSS tool teams, our talk about research synthesis was accepted by the Open Source Design devroom at FOSDEM 2022.
+      <description>After creating the third resource in our user testing seriesabout the synthesis process and running a small workshop session to test the content with real OSS tool teams, our talk about research synthesis was accepted by the Open Source Design devroom at FOSDEM 2022.
 During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.</description>
-      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; about the synthesis process and &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;running a small workshop session&lt;/a&gt; to test the content with real OSS tool teams, our talk about research synthesis was accepted by the &lt;a href=&#34;https://fosdem.org/2022/schedule/track/open_source_design/&#34;&gt;Open Source Design devroom&lt;/a&gt; at &lt;a href=&#34;https://fosdem.org/2022/&#34;&gt;FOSDEM 2022&lt;/a&gt;.&lt;/p&gt;
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt;about the synthesis process and &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;running a small workshop session&lt;/a&gt; to test the content with real OSS tool teams, our talk about research synthesis was accepted by the &lt;a href=&#34;https://fosdem.org/2022/schedule/track/open_source_design/&#34;&gt;Open Source Design devroom&lt;/a&gt; at &lt;a href=&#34;https://fosdem.org/2022/&#34;&gt;FOSDEM 2022&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.&lt;/p&gt;
 &lt;p&gt;We explained why synthesis is an important phase not only for designers in OSS tool building, but the wider OSS tool team. As we discovered through many of our initial interviews with OSS tool team members, it can be difficult to understand the value design brings to an OSS tool, as well as where design improvements and insights come from. Along with these challenges, an additional challenge of developers in OSS is finding time to participate in user testing. However, a good synthesis session condenses this information. This also gives the designers and developers in OSS tool teams time to collaborate and understand each others&#39; perspectives and roles in making the best OSS tool possible.&lt;/p&gt;
 &lt;p&gt;You can view the &lt;a href=&#34;https://fosdem.org/2022/schedule/event/osd_synthesising_user_testing_insights_with_oss_tool_teams/&#34;&gt;video of the session that is self-hosted by FOSDEM here&lt;/a&gt;.&lt;/p&gt;
@@ -69,13 +76,13 @@ During the 20-minute talk, we took our audience through the process of creating 
       <guid>https://simplysecure.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</guid>
       <description>Resource #3: Synthesis for open source
 The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing.</description>
-      <content>&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Resource #3: Synthesis for open source&lt;/a&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Resource #3: Synthesis for open source&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing. It&amp;rsquo;s important to make sense of a user test both on an individual level, and as a team. This synthesis resource specifically helps teams work together to find a common understanding that serves as the foundation of future work.&lt;/p&gt;
 &lt;p&gt;In this resource, we documented the setup process, how to do affinity diagramming, and facilitating synthesis. We had a lot of fun connecting the information to our experiences working in open source, and included several real life examples. After a synthesis process, the next steps for your team are prioritization and sharing out. We mentioned these briefly, but look forward to expanding this content in the future.&lt;/p&gt;
 &lt;p&gt;We highlighted this resource during the engagements:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
@@ -114,8 +121,8 @@ Who is it for? We wrote this guide with small (2-20 active contributors or maint
 &lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
 &lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
 &lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/eriolhugotest/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
 </content>
     </item>
     
@@ -144,8 +151,8 @@ Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and 
       <description>We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.
 The poster version doesn&amp;rsquo;t require an internet connection to play (like the &amp;lsquo;User testing can be fun: An FAQ interactive guide&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.</description>
       <content>&lt;p&gt;We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.&lt;/p&gt;
-&lt;p&gt;The poster version doesn&amp;rsquo;t require an internet connection to play (like the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;User testing can be fun: An FAQ interactive guide&lt;/a&gt;&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;#&#34;&gt;You can download the high res .pdf hosted on our github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The poster version doesn&amp;rsquo;t require an internet connection to play (like the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;User testing can be fun: An FAQ interactive guide&lt;/a&gt;&#39;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;You can download the high res .pdf hosted on our github repository here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Whereas you can fork, clone, edit, play and submit improvements via issues and PRs to the game&amp;rsquo;s repository of code (&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;like the interactive guide has here&lt;/a&gt;), the poster version can be iterated on and collaborated on in a similar way using an open &lt;a href=&#34;https://penpot.app/&#34;&gt;&amp;lsquo;PenPot&amp;rsquo;&lt;/a&gt; file. Simply upload a &amp;lsquo;finished&amp;rsquo; version of your remixed poster via a pull request to our &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;repository for the &amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; poster&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can find our poster in a &lt;a href=&#34;https://design.penpot.app/#/view/5ac34dd0-8da2-11ec-a2fe-9eafb5cb1e0f?page-id=5ac34dd1-8da2-11ec-a2fe-9eafb5cb1e0f&amp;amp;section=interactions&amp;amp;index=0&amp;amp;share-id=7163d870-8da2-11ec-a2fe-9eafb5cb1e0f&#34;&gt;PenPot &amp;lsquo;shared prototype&amp;rsquo; here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -165,7 +172,7 @@ USABLE is a collaboration between Simply Secure, Okthanks and Internews looking 
 &lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://simplysecure.org/&#34;&gt;Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
 &lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
 &lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;You can also find the &amp;lsquo;static&amp;rsquo; poster version of &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also find the &amp;lsquo;static&amp;rsquo; poster version of &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;&amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; here&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -218,21 +225,21 @@ We wanted to make sure that the resources we created were relevant and useful to
 &lt;h3 id=&#34;we-created-these-resources-&#34;&gt;We created these resources! ⭐&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Resource #1: &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;User testing can be fun: An FAQ - Interactive guide&lt;/a&gt; (&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;play the guide here&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Resource #2: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/&#34;&gt;User testing can be fun: An FAQ - Poster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Resource #3: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;A dev&amp;rsquo;s guide to user testing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Resource #4: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Resource #5: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #2: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/&#34;&gt;User testing can be fun: An FAQ - Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #3: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;A dev&amp;rsquo;s guide to user testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #4: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Resource #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;and-we-completed-these-engagements-with-the-community-&#34;&gt;And we completed these engagements with the community! ⭐&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Engagement #1: &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Interactive guide playable on itch.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Engagement #2: &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;Interactive guide post on Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #3: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/&#34;&gt;Imakefoss Twitter takeover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #4: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source podcast episode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #5: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #6: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #7: &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #8: &lt;a href=&#34;#&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
+&lt;li&gt;Engagement #3: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/&#34;&gt;Imakefoss Twitter takeover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #4: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source podcast episode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #6: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #7: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Engagement #8: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.&lt;/p&gt;
 </content>
@@ -337,7 +344,7 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;h3 id=&#34;how-to-use-this-guide-&#34;&gt;How to use this guide 🦮&lt;/h3&gt;
 &lt;p&gt;This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
 &lt;p&gt;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/number-plan.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/number-plan.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-you-need-&#34;&gt;What You Need 📝&lt;/h3&gt;
 &lt;p&gt;You don’t need a lot of resources to do user testing. Support from your team is helpful, but at first you may need to conduct user tests by yourself in order to convince others of the benefits. Openness, humility, and curiosity are important qualities to embrace.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Specifically, it’s good to have:&lt;/strong&gt;&lt;/p&gt;
@@ -349,8 +356,8 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;li&gt;(If you’re working remote) A video/audio conferencing tool, like Jitsi or Zoom&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;get-in-to-the-user-testing-mindset-&#34;&gt;Get in to the user testing mindset 🧠&lt;/h3&gt;
-&lt;p&gt;You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/&#34;&gt;Move on to Planning and operations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/planning-and-operations/&#34;&gt;Move on to Planning and operations&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -384,7 +391,7 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.
+&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.
 &lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What are you thinking?&lt;/li&gt;
@@ -395,10 +402,10 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;4. Closing:&lt;/strong&gt; At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
 &lt;h3 id=&#34;interviewing-style-&#34;&gt;Interviewing Style 🎤&lt;/h3&gt;
-&lt;p&gt;You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt;. You can also use the ‘&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.&lt;/p&gt;
+&lt;p&gt;You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt;. You can also use the ‘&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.&lt;/p&gt;
 &lt;p&gt;Resist the urge to explain your software, correct their mistakes, or defend your choices. Instead, try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did correctly. Finally, give them plenty of time to answer. Don’t be afraid of silence or gaps in conversation, sometimes testers need time to think and respond (let them know that’s okay). This is especially important if you’re testing with someone who is speaking in their second or third language.&lt;/p&gt;
 &lt;h3 id=&#34;direct-recommendations-&#34;&gt;Direct Recommendations 🚦&lt;/h3&gt;
-&lt;p&gt;Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ process to arrive at a root cause.&lt;/p&gt;
+&lt;p&gt;Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ process to arrive at a root cause.&lt;/p&gt;
 &lt;h3 id=&#34;improvisation-&#34;&gt;Improvisation 🧑‍🎤&lt;/h3&gt;
 &lt;p&gt;Draft a script so that you can remember important points, but don’t feel the need to read it verbatim. Allowing the conversation to meander can be a good thing - you might learn something completely new about your users and software. Keep the focus related to the software and feel free to go back to a point in the script if the user takes you way off topic.&lt;/p&gt;
 &lt;h3 id=&#34;screen-sharing-&#34;&gt;Screen Sharing 📺&lt;/h3&gt;
@@ -419,15 +426,15 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;p&gt;Now we are going to look at a prototype. It has limited capability. If there are any interactions that are confusing, or any language you do not understand, please let me know.&lt;/p&gt;
 &lt;p&gt;This is the scenario: You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
 &lt;p&gt;Your task is to set up an account to receive files from your source. Can you show me how you would do that?&lt;/p&gt;
-&lt;p&gt;Remember to ask open-ended questions throughout, see &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt; and the &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Remember to ask open-ended questions throughout, see &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt; and the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[Repeat for other tasks, if you planned any]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thank you for your time. You’ve helped a lot and this is exactly what we needed. That&amp;rsquo;s all the questions we have. We really appreciate all your insights and learned a lot from your experience. Is there anything else you would like to share?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;next-steps-&#34;&gt;Next steps 👣&lt;/h1&gt;
 &lt;hr&gt;
-&lt;p&gt;Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -491,7 +498,7 @@ Statement from a Jo Doe, a typical user of a made-up file sharing service called
 &lt;p&gt;&lt;em&gt;It sounds like in your circumstances &lt;strong&gt;you don’t have&lt;/strong&gt; &lt;strong&gt;time to make a secure password&lt;/strong&gt; for a file and also your colleague &lt;strong&gt;does not have time to enter a password&lt;/strong&gt; to view the file. Furthermore, it also sounds like &lt;strong&gt;the room for errors in secure password creation and entry&lt;/strong&gt; is a reason you don’t password protect files. Does that sound right?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;If the user tester agrees then you have two root motivations, one is &lt;strong&gt;time taken&lt;/strong&gt; and the other is &lt;strong&gt;accuracy trust&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;As a tool creator, you now have an understanding of two root motivations that you need to address in order to help users achieve their goal. One motivation comes from the user you spoke with and another motivation comes from the user at headquarters (you can investigate this further if you want to). Now work with your team to consider all the ways you can improve time taken and accuracy trust.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Move on to Synthesis for open-source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Move on to Synthesis for open-source&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -518,7 +525,7 @@ What 🔎 Deciding what to test depends on your team’s agreed upon roadmap. If
 &lt;p&gt;&lt;strong&gt;Feeling anxious?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Typically features or parts of a tool that are in development are a great choice because they’re already the focus. However, your team may be apprehensive because user testing might uncover critical errors or misunderstandings. If testing reveals that something can be done better, that doesn’t mean you have to stall development. It means that you now have more information for future improvements.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/docs/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about or that isn’t working so well.&lt;/p&gt;
 &lt;p&gt;Examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -593,7 +600,7 @@ Examples:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -645,7 +652,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
 &lt;p&gt;My colleagues and I at [tool/project] want to speak for 30 minutes with a few people who have [experience you want to target].&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re interested please fill out this short form: [add a link to a form]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible &lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/planning-and-operations/#who-testers-&#34;&gt;See “Phase 1 - Who”&lt;/a&gt;. This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.&lt;/p&gt;
+&lt;p&gt;It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/planning-and-operations/#who-testers-&#34;&gt;See “Phase 1 - Who”&lt;/a&gt;. This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.&lt;/p&gt;
 &lt;p&gt;Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #1:&lt;/strong&gt;&lt;/p&gt;
@@ -666,7 +673,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
 [your name]&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/conducting-a-user-test/&#34;&gt;Move on to Conducting a user test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/&#34;&gt;Move on to Conducting a user test”&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -730,8 +737,8 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;It’s important to work synchronously, either together in a room or an online call. As always, without seeing your collaborators&#39; faces it can be hard to communicate complex and inferred information. In addition to video/audio, you will need a space where you’ll write together and then read together is vitally important. If you’re working face to face, you can write on sticky notes and stick them on a wall. If you’re working virtually, there are whiteboard tools like Miro.com, Mural.com, Google Jamboard, or even Google Sheets. There are also open source virtual whiteboards, but they are less user friendly than the commercial proprietary tools. PenPot is the most user friendly OSS tool that we currently know of. Whichever tool you use, each person’s sticky notes should be visible to and moveable by everyone.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;In-line text tools like Google Docs and collaborative writing programs don’t offer a good way to move notes freely on a canvas, and therefore we don’t recommend using those for synthesis (though it can be done if you are persistent!).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here’s how you might set up your in-person or virtual space:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A story from working on user research in OSS&lt;/strong&gt; 📖&lt;/p&gt;
 &lt;p&gt;We thought we had set up everything to make our synthesis session quick and easy. We had the sticky notes, the space, the time, and the people. The one thing we overlooked was setting up our people for success.&lt;/p&gt;
@@ -771,7 +778,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;All the sticky notes should be on the collaborative whiteboard where you’re working. It looks pretty chaotic and messy, but don’t worry, that’s completely normal. By organizing and grouping data together, we can start to see the structure of a problem or insight.&lt;/p&gt;
 &lt;p&gt;You are going to look for commonalities between the problems, comments, insights and observations. Every person will read a sticky note and move it close to other related sticky notes. It doesn’t matter where you start as long as you don’t spend too much time in detailed discussion about a single sticky note. You can always move sticky notes if you find later there’s a better grouping.&lt;/p&gt;
 &lt;p&gt;Label each theme cluster to make it easier to identify. These can be a description of the users’ actions, like ‘sign-up registration’, or a more abstract theme such as ‘Fairness’ and ‘Equality’. By the end, you’ll have a collection of sticky notes arranged in a hub and spoke pattern, with the hubs being your theme labels.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/eriolhugotest/devs-guide-to/main/static/cluster-nodes.png&#34; alt=&#34;an illustration of how synthesis clustering can look like &amp;lsquo;hub and spoke&amp;rsquo; nodes&#34; title=&#34;an illustration of how synthesis clustering can look like &#39;hub and spoke&#39; nodes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/cluster-nodes.png&#34; alt=&#34;an illustration of how synthesis clustering can look like &amp;lsquo;hub and spoke&amp;rsquo; nodes&#34; title=&#34;an illustration of how synthesis clustering can look like &#39;hub and spoke&#39; nodes&#34;&gt;&lt;/p&gt;
 &lt;p&gt;After you’ve moved each sticky note into a cluster, you can start a slower and more detailed second round of review. Pay attention to any big cluster groups. Can these be broken down into smaller clusters by being more specific with how you name the theme? Similarly, review very small groups of 1-3 sticky notes - they might fit into other groups. It can be difficult to not expand into thinking of solutions or implementation when synthesising but this is not (yet) the time for that.&lt;/p&gt;
 &lt;p&gt;You can also change the theme title to a descriptive statement. This is part of storytelling and important for communicating back to the wider OSS community and also can inform how you write issues or tasks from a user point of view.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;Remember to be careful when factual information collected from user research becomes your own interpretation. You want to avoid making any assumptions. If you find yourself making a lot of assumptions, that&amp;rsquo;s a sign you need to re-test these elements with users to get clarification.&lt;/em&gt;&lt;/p&gt;
@@ -856,7 +863,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;li&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&#34;&gt;From bootcamp.uxdesign.cc Many Modes of Research Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://miro.com/blog/collaboration-on-design-research/&#34;&gt;From the miro.com blog Collaboration on design research&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://eriolhugotest.github.io/devs-guide-to/&#34;&gt;Goabck to the homepage?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/&#34;&gt;Go back to the homepage?&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
