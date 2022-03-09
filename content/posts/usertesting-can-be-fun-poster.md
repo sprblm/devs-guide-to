@@ -9,7 +9,7 @@ description = "‘Usertesting can be fun: An FAQ for small open source teams - p
 
 We wanted to make sure that folks who prefer a 'static' resource for the 'User testing can be fun: An FAQ for small open source teams' can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace. 
 
-The poster version doesn't require an internet connection to play (like the ['User testing can be fun: An FAQ interactive guide]({{< ref "posts/user-testing-can-be-fun" >}})') as we recognise that not everyone globally has access to a stable connection all of the time and might just want a 'static' version of the FAQ tips and advice.
+The poster version doesn't require an internet connection to play (like the ['User testing can be fun: An FAQ interactive guide](https://simplysecure.github.io/devs-guide-to/posts/user-testing-can-be-fun/)') as we recognise that not everyone globally has access to a stable connection all of the time and might just want a 'static' version of the FAQ tips and advice.
 
 [You can download the high res .pdf hosted on our github repository here](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
 

@@ -16,4 +16,4 @@ This guide and FAQ focuses on user testing and how 'user testing can be fun'.  W
 
 Want to 'fork' the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this [GitHub repository](https://github.com/simplysecure/usable-user-testing-can-be-fun)
 
-You can also find the 'static' poster version of ['Usertesting can be fun: An FAQ for small open source teams' here]({{< ref "posts/user-testing-can-be-fun" >}})
+You can also find the 'static' poster version of ['Usertesting can be fun: An FAQ for small open source teams' here](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
