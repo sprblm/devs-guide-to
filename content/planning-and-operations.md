@@ -51,7 +51,7 @@ Who are you going to recruit to be a tester? It’s best to find people who are 
 
 - People who are ***power users***. These are users that know every aspect of your tool and have been using it or something similar for years.
 - People who are ***new users*** of your tool or have never used the feature or part of the tool you're testing.
-- People who are ***high risk users***. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: [link](https://simplysecure.org/blog/design-spot-high-risk-research/), [link](https://usable.tools/personas/))
+- People who are ***high risk users***. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: [High-Risk User Research](https://simplysecure.org/blog/design-spot-high-risk-research/), [USABLE Personas](https://usable.tools/personas/))
 - People who consider themselves ***‘techy’*** and people who consider themselves ***‘not techy’***.
 - People with ***[malicious intentions](https://simplysecure.org/designunderpressure/#stress-cases)*** (or people that can pretend to have malicious intentions).
 - People who are ***distracted*** as they use the tool. Think about people with children, jobs where they are ‘on call’, etc.
