@@ -10,6 +10,6 @@ description = "A dev's guide to resources #1-#4 at Mozfest22: A short video on o
 
 You can find the listing for our skill share on the [Mozfest 2022 schedule](https://schedule.mozillafestival.org/session/XG8YPK-1). In the skill share video, we summarize what we discovered when talking with OSS tool teams, give brief explanations of the completed resources, explain how to use them, and show where to find them (here on this website!).
 
-After Mozfest has ended we'll drop the public video link here so folks can watch outside of the festival schedule. We're really proud of the work we've done on these first four resources and excited to see how they develop.
+You can [watch our video here on vimeo](https://vimeo.com/manage/videos/679486422) now that Mozfest 2022 has ended. We're really proud of the work we've done on these first four resources and excited to see how they develop.
 
 
