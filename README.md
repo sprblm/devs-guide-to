@@ -4,8 +4,8 @@ This is the repo for 'A dev's (developer's) guide to...', as part of the [USABLE
 
 USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams so that they can create more user-centered tools.
 
-There are currently **four** resources for the USABLE project: [User testing can be fun: An FAQ for small open source teams](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user), [A dev's guide to user testing: A roadmap for open source teams]({{< ref "a-dev-guide-to-usertesting" >}})
-, [Synthesis for open source]({{< ref "synthesis-for-open-source" >}}), and [Developer and Design collaboration in OSS](https://sosdesign.sustainoss.org/18).
+There are currently **four** resources for the USABLE project: [User testing can be fun: An FAQ for small open source teams](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user), [A dev's guide to user testing: A roadmap for open source teams](https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/)
+, [Synthesis for open source](https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/), and [Developer and Design collaboration in OSS](https://sosdesign.sustainoss.org/18).
 
 You can visit the Github Pages website here: [devs-guide-to](https://simplysecure.github.io/devs-guide-to/)
 
