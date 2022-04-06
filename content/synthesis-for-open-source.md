@@ -150,7 +150,7 @@ You are going to look for commonalities between the problems, comments, insights
 
 Label each theme cluster to make it easier to identify. These can be a description of the users’ actions, like ‘sign-up registration’, or a more abstract theme such as ‘Fairness’ and ‘Equality’. By the end, you’ll have a collection of sticky notes arranged in a hub and spoke pattern, with the hubs being your theme labels.
 
-![an illustration of how synthesis clustering can look like 'hub and spoke' nodes](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/cluster-nodes.png "an illustration of how synthesis clustering can look like 'hub and spoke' nodes")
+![an illustration of how synthesis clustering can look like 'hub and spoke' nodes](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/cluster-nodes2.png "an illustration of how synthesis clustering can look like 'hub and spoke' nodes")
 
 After you’ve moved each sticky note into a cluster, you can start a slower and more detailed second round of review. Pay attention to any big cluster groups. Can these be broken down into smaller clusters by being more specific with how you name the theme? Similarly, review very small groups of 1-3 sticky notes - they might fit into other groups. It can be difficult to not expand into thinking of solutions or implementation when synthesising but this is not (yet) the time for that.
 
