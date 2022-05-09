@@ -61,9 +61,9 @@ If you want to record the session, it could be a good way to reference and analy
 
 ### Practice 🧗
 
-Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. The only way to get better is practice, practice, practice!
+Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. You can use our [user testing role play](https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD) to practice user testing facilitation (without the pressure!). It includeds a slidedeck, scripts, and role descriptions. 
 
->**Example script:**
+### Example script 📃
 >
 > **Intro**
 > 
