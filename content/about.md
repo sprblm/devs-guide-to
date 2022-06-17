@@ -53,7 +53,7 @@ We wanted to make sure that the resources we created were relevant and useful to
 - Engagement #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
 - Engagement #6: [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
 - Engagement #7: [A dev’s guide... at Mozfest22]({{< ref "posts/usable-resources-at-mozfest22" >}})
-- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum" >}}) (scheduled in April 2022)
+- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "#" >}}) (scheduled in April 2022)
 
 
 Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
