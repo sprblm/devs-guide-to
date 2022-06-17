@@ -6,19 +6,17 @@
     <description>Recent content on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting comfortable with user testing: Roleplay at the UXForum</title>
-      <link>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Getting used to user testing: Roleplay at the UXForum</title>
+      <link>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-roleplay/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</guid>
-      <description>The UX Forum 2022 is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.
-The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: Dev&amp;rsquo;s guide to user testing. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.</description>
-      <content>&lt;p&gt;The &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt; is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.&lt;/p&gt;
-&lt;p&gt;The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Dev&amp;rsquo;s guide to user testing&lt;/a&gt;. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.&lt;/p&gt;
-&lt;p&gt;Currently we&amp;rsquo;re asking for tool teams who want to learn and practice these user testing skills to either bring their own tool they work on or participate with a sample user testing script and then practice with fellow workshoppers. These role plays will give you the chance to practice the interview techniques and flows without the added pressure of &amp;lsquo;delivering&amp;rsquo; to your own OSS tools.&lt;/p&gt;
-&lt;p&gt;Watch this space for more information about the session at the UX Forum and how to sign up.&lt;/p&gt;
+      <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-roleplay/</guid>
+      <description>As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes.</description>
+      <content>&lt;p&gt;As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes. Otherwise, participants came back with learnings and new experiences.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re welcome to use the slidedeck and scripts with your team. Let us know what you think! Google folder: &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had a blast getting to connect with everyone at the &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt;! Thanks to everyone who participated and facilitated!&lt;/p&gt;
 </content>
     </item>
     
@@ -239,7 +237,7 @@ We wanted to make sure that the resources we created were relevant and useful to
 &lt;li&gt;Engagement #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Engagement #6: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Engagement #7: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engagement #8: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
+&lt;li&gt;Engagement #8: &lt;a href=&#34;&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.&lt;/p&gt;
 </content>
@@ -413,9 +411,9 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;h3 id=&#34;recording-&#34;&gt;Recording 📼&lt;/h3&gt;
 &lt;p&gt;If you want to record the session, it could be a good way to reference and analyze the tests. However, a dedicated note-taker can be sufficient - and the synthesis process (where you make sense of the information you’ve collected in testing) will be a lot faster. Working with a note-taker allows the interviewer to be present during the test and give their full attention to the tester. Just make sure to get the tester’s consent for any recording, whether it be video, voice, screen, or handwritten.&lt;/p&gt;
 &lt;h3 id=&#34;practice-&#34;&gt;Practice 🧗&lt;/h3&gt;
-&lt;p&gt;Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. The only way to get better is practice, practice, practice!&lt;/p&gt;
+&lt;p&gt;Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. You can use our &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;user testing role play&lt;/a&gt; to practice user testing facilitation (without the pressure!). It includeds a slidedeck, scripts, and role descriptions.&lt;/p&gt;
+&lt;h3 id=&#34;example-script-&#34;&gt;Example script 📃&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Example script:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hello! We are [name] and [name] from [organization]. We are both developers trying to make our software better. We want your help to understand how you currently use, or don&amp;rsquo;t use, [software], and what would be better. I would love to hear your thoughts, so please think aloud. Feel free to speak your mind. We are not testing you, we are testing the prototype. We’re still working on it, so it might not work as you expect. We wanted to get your feedback early in the process.&lt;/p&gt;
 &lt;p&gt;This will take about 30 minutes. We won’t be recording but we will be taking handwritten notes, without identifying you. Is that ok with you?&lt;/p&gt;

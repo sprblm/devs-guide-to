@@ -6,19 +6,17 @@
     <description>Recent content in Posts on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting comfortable with user testing: Roleplay at the UXForum</title>
-      <link>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Getting used to user testing: Roleplay at the UXForum</title>
+      <link>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-roleplay/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-comfortable-with-usertesting-and-usertesting-roleplay-at-the-uxforum/</guid>
-      <description>The UX Forum 2022 is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.
-The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: Dev&amp;rsquo;s guide to user testing. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.</description>
-      <content>&lt;p&gt;The &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt; is April 25th to the 29th and the call for proposals are out for submissions until March 11th 2022.&lt;/p&gt;
-&lt;p&gt;The folks from USABLE.tools and &amp;lsquo;Dev&amp;rsquo;s guide to&amp;hellip;&amp;rsquo; are building a workshop session around the second resource: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Dev&amp;rsquo;s guide to user testing&lt;/a&gt;. This session aims to take participants through practice user testing in order to help them get familiar with the planning and processes involved in preparing and conducting user testing.&lt;/p&gt;
-&lt;p&gt;Currently we&amp;rsquo;re asking for tool teams who want to learn and practice these user testing skills to either bring their own tool they work on or participate with a sample user testing script and then practice with fellow workshoppers. These role plays will give you the chance to practice the interview techniques and flows without the added pressure of &amp;lsquo;delivering&amp;rsquo; to your own OSS tools.&lt;/p&gt;
-&lt;p&gt;Watch this space for more information about the session at the UX Forum and how to sign up.&lt;/p&gt;
+      <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-roleplay/</guid>
+      <description>As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes.</description>
+      <content>&lt;p&gt;As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes. Otherwise, participants came back with learnings and new experiences.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re welcome to use the slidedeck and scripts with your team. Let us know what you think! Google folder: &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We had a blast getting to connect with everyone at the &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt;! Thanks to everyone who participated and facilitated!&lt;/p&gt;
 </content>
     </item>
     
