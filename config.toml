@@ -9,7 +9,7 @@ publishDir = "docs"
   themeColor = "pink"
   showMenuItems = 7
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
 
   favicon = "favicon.ico"
 
