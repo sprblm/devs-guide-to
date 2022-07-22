@@ -6,7 +6,20 @@
     <description>Recent content on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting used to user testing at the UXForum</title>
+      <link>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</guid>
+      <description>As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes.</description>
+      <content>&lt;p&gt;As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes. Otherwise, participants came back with learnings and new experiences.
+You&amp;rsquo;re welcome to use the slidedeck and scripts with your team. Let us know what you think! &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;Google folder&lt;/a&gt;
+We had a blast getting to connect with everyone at the &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt;! Thanks to everyone who participated and facilitated!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>A dev&#39;s guide to resources #1-#4 at Mozfest22</title>
       <link>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</link>
@@ -314,7 +327,7 @@ We wanted to make sure that the resources we created were relevant and useful to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/</guid>
-      <description>Phase 0: A roadmap for open source teams 🗺️  What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+      <description>Phase 0: A roadmap for open source teams 🗺️ What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
 Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind.</description>
       <content>&lt;h1 id=&#34;phase-0-a-roadmap-for-open-source-teams-&#34;&gt;Phase 0: A roadmap for open source teams 🗺️&lt;/h1&gt;
 &lt;hr&gt;
@@ -352,7 +365,7 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/</guid>
-      <description>Phase 3: Conducting a user test 🎛️  The Structure 🧱 A prepared script can help you remember everything and be your guide if your mind goes blank.
+      <description>Phase 3: Conducting a user test 🎛️ The Structure 🧱 A prepared script can help you remember everything and be your guide if your mind goes blank.
 1. Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.</description>
       <content>&lt;h1 id=&#34;phase-3-conducting-a-user-test-&#34;&gt;Phase 3: Conducting a user test 🎛️&lt;/h1&gt;
 &lt;hr&gt;
@@ -493,7 +506,7 @@ Statement from a Jo Doe, a typical user of a made-up file sharing service called
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/planning-and-operations/</guid>
-      <description>Phase 1: Getting ready for user testing 🪞  Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.
+      <description>Phase 1: Getting ready for user testing 🪞 Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.
 What 🔎 Deciding what to test depends on your team’s agreed upon roadmap. If a user testing phase is already built-in to your development process, you can skip this step.</description>
       <content>&lt;h1 id=&#34;phase-1-getting-ready-for-user-testing-&#34;&gt;Phase 1: Getting ready for user testing 🪞&lt;/h1&gt;
 &lt;hr&gt;
@@ -595,7 +608,7 @@ Examples:&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/recruiting-testers/</guid>
-      <description>Phase 2: Gathering your users for testing 🎣  Once you have your intentions documented, you can translate that information to recruit testers.
+      <description>Phase 2: Gathering your users for testing 🎣 Once you have your intentions documented, you can translate that information to recruit testers.
 Make a list of possible outreach channels where your community gathers, such as: your email list, Twitter followers, bug reports, related communities on Reddit or Discord, your website, or your forum. You could also attend relevant conferences or events related to OSS or your tool and perform user testing during the event.</description>
       <content>&lt;h1 id=&#34;phase-2-gathering-your-users-for-testing-&#34;&gt;Phase 2: Gathering your users for testing 🎣&lt;/h1&gt;
 &lt;hr&gt;
@@ -668,7 +681,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/</guid>
-      <description>Getting the team and community on the same page 📑  What is synthesis? 🤔 Synthesis is a stage of research in which you reorganize information to make sense of what you observed and heard.
+      <description>Getting the team and community on the same page 📑 What is synthesis? 🤔 Synthesis is a stage of research in which you reorganize information to make sense of what you observed and heard.
 Why do synthesis? 🤷 Synthesis helps teams and individuals understand what users experience when they use the tool, including their challenges and successes. This can then help OSS maintainers, developers, designers, product managers, and researchers arrive at user-informed conclusions about the product, and from there, make decisions based on the lived experience of the users.</description>
       <content>&lt;h1 id=&#34;getting-the-team-and-community-on-the-same-page-&#34;&gt;Getting the team and community on the same page 📑&lt;/h1&gt;
 &lt;hr&gt;
