@@ -38,22 +38,23 @@ We wanted to make sure that the resources we created were relevant and useful to
 
 ### We created these resources! ⭐
 
-- Resource #1: [User testing can be fun: An FAQ - Interactive guide](https://github.com/simplysecure/usable-user-testing-can-be-fun) ([play the guide here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
-- Resource #2: [User testing can be fun: An FAQ - Poster]({{< ref "posts/usertesting-can-be-fun-poster" >}})
+- Resource #1: [User testing can be fun: An FAQ - Interactive guide repository on GitHub](https://github.com/simplysecure/usable-user-testing-can-be-fun) ([play the guide on Itch.io here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
+- Resource #2: [User testing can be fun: An FAQ - Poster]({{< ref "posts/usertesting-can-be-fun-poster" >}})[Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster) 
 - Resource #3: [A dev's guide to user testing]({{< ref "a-dev-guide-to-usertesting" >}})
-- Resource #4: [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}})
+- Resource #4: [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}}) [GitHub repository for Synthesis resources](https://github.com/simplysecure/synthesis-of-user-testing-and-research)
 - Resource #5: [Developer and designer collaboration in open source]({{< ref "posts/developer-designer-collaboration" >}})
 
-### And we completed these engagements with the community! ⭐
+### We participated in these community events/activities! ⭐
 
-- Engagement #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Engagement #2: [Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
-- Engagement #3: [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
-- Engagement #4: [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}})
-- Engagement #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
-- Engagement #6: [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
-- Engagement #7: [A dev’s guide... at Mozfest22]({{< ref "posts/usable-resources-at-mozfest22" >}})
-- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "#" >}}) (scheduled in April 2022)
+- [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
+- [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}}) [See the podcast GitHub repo here](https://github.com/simplysecure/designer-developer-collaboration-in-OSS)
+- [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
+- [A dev’s guide to synthesis at FOSDEM 2022 in the Open Source Design devroom]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
+- [A dev’s guide explained at Mozfest 2022]({{< ref "posts/usable-resources-at-mozfest22" >}})
+- [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "posts/getting-used-to-user-testing-at-the-UXForum" >}})
 
 
 Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
+If you want to suggest a resource or make additions or changes, most of the resources have their own GitHub repositories linked above next to each resource. 
+Additionally, this micro site is on an open respository on GitHub where you can contribute, open issues and dicsuss topics related to the resources and community events with the team that maintain them.
+[Repository for the 'Dev's guide to... microsite](https://github.com/simplysecure/a-devs-guide-to-user-testing)
