@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A devs guide to...</title>
+    <title>Intro text on A devs guide to...</title>
     <link>https://simplysecure.github.io/devs-guide-to/</link>
-    <description>Recent content on A devs guide to...</description>
+    <description>Recent content in Intro text on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
@@ -246,10 +246,10 @@ Additionally, this micro site is on an open respository on GitHub where you can 
     
     <item>
       <title>Showcase</title>
-      <link>https://simplysecure.github.io/devs-guide-to/showcase/</link>
+      <link>https://simplysecure.github.io/devs-guide-to/news/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simplysecure.github.io/devs-guide-to/showcase/</guid>
+      <guid>https://simplysecure.github.io/devs-guide-to/news/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
@@ -328,9 +328,9 @@ Additionally, this micro site is on an open respository on GitHub where you can 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/</guid>
-      <description>Phase 0: A roadmap for open source teams 🗺️ hhhhhhhhhhh What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+      <description>Phase 0: A roadmap for open source teams 🗺️ What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
 Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind.</description>
-      <content>&lt;h1 id=&#34;phase-0-a-roadmap-for-open-source-teams--hhhhhhhhhhh&#34;&gt;Phase 0: A roadmap for open source teams 🗺️ hhhhhhhhhhh&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;phase-0-a-roadmap-for-open-source-teams-&#34;&gt;Phase 0: A roadmap for open source teams 🗺️&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;what-is-this-guide-&#34;&gt;What is this guide? 🏗️&lt;/h4&gt;
 &lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
