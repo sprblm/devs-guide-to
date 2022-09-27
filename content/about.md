@@ -44,16 +44,16 @@ We wanted to make sure that the resources we created were relevant and useful to
 - Resource #4: [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}})
 - Resource #5: [Developer and designer collaboration in open source]({{< ref "posts/developer-designer-collaboration" >}})
 
-### And we completed these engagements with the community! ⭐
+### And we completed these community events with the community! ⭐
 
-- Engagement #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Engagement #2: [Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
-- Engagement #3: [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
-- Engagement #4: [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}})
-- Engagement #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
-- Engagement #6: [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
-- Engagement #7: [A dev’s guide... at Mozfest22]({{< ref "posts/usable-resources-at-mozfest22" >}})
-- Engagement #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "#" >}}) (scheduled in April 2022)
+- Community Event #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
+- Community Event #2: [Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
+- Community Event #3: [Imakefoss Twitter takeover]({{< ref "posts/imakefoss-twitter-takeover" >}})
+- Community Event #4: [Developer and designer collaboration in open source podcast episode]({{< ref "posts/developer-designer-collaboration" >}})
+- Community Event #5: [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
+- Community Event #6: [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})
+- Community Event #7: [A dev’s guide... at Mozfest22]({{< ref "posts/usable-resources-at-mozfest22" >}})
+- Community Event #8: [Getting comfortable with user testing through roleplay at the UXForum]({{< ref "#" >}}) (scheduled in April 2022)
 
 
-Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
+Future resources and community events to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
