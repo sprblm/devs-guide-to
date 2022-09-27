@@ -1,6 +1,6 @@
 <style>
   blockquote.pullquote p:first-of-type::before {
-    color:  #ffa86a;
+    color:  var(--accent);
     content: ">";
     display: block;
     left: -10px;
@@ -9,17 +9,17 @@
 
   blockquote.pullquote {
     position: relative;
-    background: #3a3030;
+    background: #241724;
     font: inherit;
-    color: #ffa86a;
-    border-top: 1px solid  #ffa86a;
-    border-bottom: 1px solid  #ffa86a;
+    color: var(--accent);
+    border-top: 1px solid  var(--accent);
+    border-bottom: 1px solid var(--accent);
     margin: 40px 0;
     padding: 25px;
   }
 
   blockquote.pullquote>ul li::before {
-    color: #ffa86a !important;
+    color: var(--accent) !important;
     content: "-";
     left: -20px;
     position: absolute;

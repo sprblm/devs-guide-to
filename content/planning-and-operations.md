@@ -109,7 +109,9 @@ Testing can be done in-person and remotely. We recommend that everyone’s face 
 - **HOW MANY:** 4 tests (if possible)
 - **HOW LONG:** 45 minutes
 - **WHERE:** Zoom with participant screen sharing 
+
  {{< /pullquote >}}
+
 The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.
 
 [Move on to Recruiting testers]({{< ref "recruiting-testers" >}})
