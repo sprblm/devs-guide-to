@@ -1,0 +1,34 @@
+<style>
+  blockquote.pullquote p:first-of-type::before {
+    color:  #ffa86a;
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #3a3030;
+    font: inherit;
+    color: #ffa86a;
+    border-top: 1px solid  #ffa86a;
+    border-bottom: 1px solid  #ffa86a;
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #ffa86a !important;
+    content: "-";
+    left: -20px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+</style>
+<blockquote class="pullquote">{{.Inner | markdownify | safeHTML}}</blockquote>
