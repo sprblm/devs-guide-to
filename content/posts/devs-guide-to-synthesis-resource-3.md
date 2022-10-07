@@ -12,6 +12,6 @@ The third resource in our user testing series is all about the synthesis process
 
 In this resource, we documented the setup process, how to do affinity diagramming, and facilitating synthesis. We had a lot of fun connecting the information to our experiences working in open source, and included several real life examples. After a synthesis process, the next steps for your team are prioritization and sharing out. We mentioned these briefly, but look forward to expanding this content in the future. 
 
-We highlighted this resource during the engagements: 
+We highlighted this resource during the community events: 
 - [A dev’s guide to synthesis - workshop]({{< ref "posts/synthesis-for-open-source-workshop" >}})
 - [A dev’s guide to synthesis at FOSDEM22]({{< ref "posts/synthesis-for-open-source-at-fosdem22" >}})

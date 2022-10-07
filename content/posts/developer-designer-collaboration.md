@@ -8,7 +8,7 @@ description = "Collaboration processes came up in our initial research interview
 
 Collaboration processes came up in our initial research interviews with tool team members.  Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like. 
 
-For our fourth resource and engagement with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the [Sustaining Open Source Design podcast (SOS Design)](https://sosdesign.sustainoss.org/). This podcast is a sibling podcast to the [Sustain OSS podcast](https://podcast.sustainoss.org/) where hosts and guests discuss what it means to keep OSS thriving and sustainable. 
+For our fourth resource and community event with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the [Sustaining Open Source Design podcast (SOS Design)](https://sosdesign.sustainoss.org/). This podcast is a sibling podcast to the [Sustain OSS podcast](https://podcast.sustainoss.org/) where hosts and guests discuss what it means to keep OSS thriving and sustainable. 
 
 For the conversation about how designers and developers collaborate on OSS tools, we invited [Sadie](https://twitter.com/yrb1rd) and [Lucie](https://luwuxu.com/) of [I2P (Invisible Internet Project)](https://geti2p.net/en/), and [Saptak](https://saptaks.website/), a Human Rights Concerned Web Developer, working as a contractor with Freedom of the Press Foundation. We discussed questions like:
 
