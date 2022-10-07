@@ -87,17 +87,20 @@ Testing can be done in-person and remotely. We recommend that everyone’s face 
 - Jitsi video call with participant screen sharing
 - Lookback.io (not open source sadly!)
 
-    > **Full Example:**
-    > - **WHAT:** Can the user upload their first document to the “my notes” section?
-    > - **WHY:** To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it's not. Find UX improvements to propose for the next sprint.
-    > - **HOW:** Prototype in Google Slides
-    > - **WHO (Testers):** 2 users who already use our software, 2 users who routinely make digital notes but not in our tool
-    > - **WHO (Facilitators):** Samir and Frank
-    > - **HOW MANY:** 4 tests (if possible)
-    > - **HOW LONG:** 45 minutes
-    > - **WHERE:** Zoom with participant screen sharing 
-   
-  
+{{< pullquote >}}
+
+**Full Example:**
+- **WHAT:** Can the user upload their first document to the “my notes” section?
+- **WHY:** To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it's not. Find UX improvements to propose for the next sprint.
+- **HOW:** Prototype in Google Slides
+- **WHO (Testers):** 2 users who already use our software, 2 users who routinely make digital notes but not in our tool
+- **WHO (Facilitators):** Samir and Frank
+- **HOW MANY:** 4 tests (if possible)
+- **HOW LONG:** 45 minutes
+- **WHERE:** Zoom with participant screen sharing 
+
+{{< /pullquote >}}
+
 The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.
 
 [Move on to Recruiting testers]({{< ref "recruiting-testers" >}})

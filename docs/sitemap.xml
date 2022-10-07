@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</loc>
-    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <loc>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/</loc>
-    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/posts/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</loc>
@@ -38,7 +41,7 @@
     <loc>https://simplysecure.github.io/devs-guide-to/about/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/showcase/</loc>
+    <loc>https://simplysecure.github.io/devs-guide-to/news/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/</loc>

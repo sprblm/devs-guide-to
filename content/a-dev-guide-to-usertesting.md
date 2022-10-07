@@ -5,8 +5,7 @@ permalink: /a-dev-guide-to-usertesting/
 ---
 
 
-# Phase 0: A roadmap for open source teams 🗺️
-
+# Phase 0: A roadmap for open source teams 🗺️ 
 ---
 
 #### What is this guide? 🏗️
