@@ -20,6 +20,7 @@ Make a list of possible outreach channels where your community gathers, such as:
 - When you expect to conduct testing
 
 
+{{< pullquote >}}
 
 > **Example #1**
 >
@@ -30,6 +31,10 @@ Make a list of possible outreach channels where your community gathers, such as:
 > We are about to release a new version of [our tool/software] and want to hear from you. To help us understand your needs and how to improve [our tool/software], we'd like to hear about your experiences with the tool (whether you've used it for a long time or just recently started using it!).
 > 
 > We're booking 15 minute conversations to better understand how to improve [our tool/software] for everyone. If you're able to participate, please fill out this simple form [add a link to a form].
+
+{{< /pullquote >}}
+
+{{< pullquote >}}
 
 > **Example #2**
 >
@@ -56,6 +61,10 @@ Make a list of possible outreach channels where your community gathers, such as:
 > **Is it private?**
 > Of course. We will not be recording voice or video. We will be taking brief notes about what works and what doesn't in the design so that we can make improvements. We will not share your identity with anyone.
 
+{{< /pullquote >}}
+
+{{< pullquote >}}
+
 > **Example #3**
 > 
 > Hello everybody! Have you ever [activity/feature you are targeting]? If you want to help improve [tool/software], read on!
@@ -64,9 +73,13 @@ Make a list of possible outreach channels where your community gathers, such as:
 > 
 > If you're interested please fill out this short form: [add a link to a form]
 
+{{< /pullquote >}}
+
 It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible [See “Phase 1 - Who”]({{< ref "planning-and-operations/#who-testers-" >}}). This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.
 
 Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.
+
+{{< pullquote >}}
 
 > **Example #1:**
 > 
@@ -78,6 +91,10 @@ Once you find a candidate that fits what you’re looking for, send them a Calen
 > 
 > Best,
 > [your name]
+
+{{< /pullquote >}}
+
+{{< pullquote >}}
 
 > **Example #2:**
 >
@@ -94,6 +111,10 @@ Once you find a candidate that fits what you’re looking for, send them a Calen
 > Best,
 > [your name]
 
+{{< /pullquote >}}
+
 Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.
+
+Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/91" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 [Move on to "Conducting a user test”]({{< ref "conducting-a-user-test" >}})

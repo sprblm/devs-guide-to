@@ -103,4 +103,9 @@ Testing can be done in-person and remotely. We recommend that everyone’s face 
 
 The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.
 
+Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/90" >}}Tell us about it{{< /button >}} on our GitHub discussions!
+
 [Move on to Recruiting testers]({{< ref "recruiting-testers" >}})
+
+
+

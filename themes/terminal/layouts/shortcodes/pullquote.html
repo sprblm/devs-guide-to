@@ -1,6 +1,7 @@
 <style>
   blockquote.pullquote p:first-of-type::before {
-    color:  var(--accent);
+     /*color:  var(--accent);*/ /*makes the > arrow accent color of the terminal config.toml*/
+    color: #fff !important; /*makes the > arrow black*/
     content: ">";
     display: block;
     left: -10px;
@@ -9,11 +10,12 @@
 
   blockquote.pullquote {
     position: relative;
-    background: #241723;
+    background: #4f5c48;
     font: inherit;
-    color: var(--accent);
-    border-top: 1px solid  var(--accent);
-    border-bottom: 1px solid var(--accent);
+    font color: #fff;
+    /* color: var(--accent);*/
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
     margin: 40px 0;
     padding: 25px;
   }
@@ -28,6 +30,7 @@
   blockquote.pullquote p {
     padding-left: 10px;
     padding-right: 10px;
+    color: #fff !important;
   }
 
 

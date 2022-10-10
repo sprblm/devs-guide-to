@@ -32,6 +32,8 @@ Remember, no technology is perfect and can be improved by learning about how use
 
 There’s an idea that user testing means putting an individual user (or group of users) in charge of your decision making - but it doesn’t! During a test, if a user says, “Oh you should have functionality that does exactly this thing I’ll explain” it doesn’t mean that you are bound to build it. Instead, you just learned that the user is looking for a solution that your tool doesn’t offer or in the way they expect. It’s less about the exact requested specifications and more about analyzing their problem (alongside other users’ problems) to land on an achievable, inclusive solution. Remember, synthesis is an opportunity to hear your users’ voices and experiences, understand their needs, and use that insight to inform the design and development process and ‘back up’ choices.
 
+{{< pullquote >}}
+
 >**A story from working on user research on OSS tools** 📖
 >
 > I once was a designer/researcher on an open source tool that helps sellers manage inventory. During a user test, one user said, “What I really want is to speak into my mobile phone and have the inventory update immediately - oh and I don’t get internet connection in my stock room so it has to work offline”. 
@@ -41,6 +43,8 @@ There’s an idea that user testing means putting an individual user (or group o
 > Before the team went too far down this onerous (and perhaps unnecessary) path, I asked them: “What basic-level concern is the user expressing when they speak about a magical automated inventory voice command system?” We thought about this during several more user tests and discussions. 
 > 
 > As we learned more about our users, we discovered that a huge concern for them was inventory errors and the negative impact on customers. That meant our team focused on the basic issues of accurate stock checking and verification systems, and not ‘offline voice AI’. As a result, everytime we worked on the tool’s inventory admin area, we remembered how important error prevention was and worked to make small, achievable (non-magical) improvements to make our users happy. 
+
+{{< /pullquote >}}
 
 ### Summary 📍
 
@@ -93,6 +97,7 @@ Here’s how you might set up your in-person or virtual space:
 
 ![The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/in-person-whiteboard.png "The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.")
 
+{{< pullquote >}}
 
 > **A story from working on user research in OSS** 📖
 >
@@ -102,6 +107,7 @@ Here’s how you might set up your in-person or virtual space:
 >
 > Participants would need to add context: “From a business perspective, I like X.” Or give more reasoning: “I like X because it gives the user the most freedom.” Or reference the goals: “I think X achieves our goal of making the process simpler.” When we clearly defined how we wanted people to participate in a synthesis discussion it went a lot smoother! 
 
+{{< /pullquote >}}
 
 # How to do ‘synthesis’ 🤹
 
@@ -164,6 +170,8 @@ Take a step back (or zoom out) to see all your data, themes, and rationale. Area
 
 That’s it - you’ve just completed synthesis!
 
+{{< pullquote >}}
+
 > **A story from working on user research in OSS tools** 📖
 >
 >I was on a team of designers, developers, community managers, and product managers that was working on a prototype MVP for an OSS tool that helped community members connect during a crisis. We had done 15 user interviews and were looking at hundreds of sticky notes clustered into themes such as ‘feels good to connect’, ‘bonding with others online’, ‘mitigating risk’, ‘security’, and ‘safe location sharing’. 
@@ -172,6 +180,7 @@ That’s it - you’ve just completed synthesis!
 >
 > This led to us creating user stories such as ‘Allowing users to skip filling out profile information but inform them that other users might not feel connected to a blank profile.’ By understanding the point of view of ‘a cautious user’ and ‘a suspicious user’ we were able to help people use the tool better.
 
+{{< /pullquote >}}
 
 # Prioritization 🏆
 
@@ -195,6 +204,8 @@ The next phase is the process of prioritising the synthesis findings in the cont
     3. Idea for the future - Lower SMART scores and hard to see the impact without further user research.
     3. Blue sky thinking - Lowest SMART scores and lacks some critical knowledge or infrastructure to even discuss.
 
+{{< pullquote >}}
+
 > **A story from working on user research on OSS tools** 📖
 >
 >After a two-week user research period, our OSS team had so much user feedback and insight that we were especially eager to start the process of understanding it all. At that time, our prioritization process was based on scoring the technical difficulty of implementing user needs. As we were prioritising what aspects of the tool were important to users, like ‘security’, ‘safety’ and ‘having a good onboarding experience’, we were getting more and more stuck trying to figure out how these themes translated into technical changes. 
@@ -202,6 +213,8 @@ The next phase is the process of prioritising the synthesis findings in the cont
 > It became clear that we weren’t ready to break down the technical complexity yet - every option had an exceptionally high score in the agile metric (21+ or even infinite!). We instead needed to use the themes as criteria for knowing if we were moving in the right directions and meeting users expectations. Only when we agreed on statements like, “We’re going to prioritise safety methods throughout this OSS tool given how important it was during user research”, could we feel comfortable moving to the next statements about technical interventions. 
 >
 > From there, we evaluated specific sections of the OSS tool by asking, “Is this the safest way that a user can do this process?” and “What would make the user feel safer?” and “Do we have user research evidence to help us design and develop a way of doing that better?”.
+
+{{< /pullquote >}}
 
 # Sharing out 💁
 ---
@@ -260,5 +273,9 @@ We all will bring perspectives and biases into the work we do. We can always wor
 - [Open Design & Ushahidi’s report back synthesis process: Example #2](https://docs.ushahidi.com/platform-developer-documentation/design/synthesising-user-testing-results-examples/synthesis-example-2)
 - [From bootcamp.uxdesign.cc Many Modes of Research Synthesis](https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01)
 - [From the miro.com blog Collaboration on design research](https://miro.com/blog/collaboration-on-design-research/)
+
+
+Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/94" >}}Tell us about it{{< /button >}} on our GitHub discussions!
+
 
 [Go back to the homepage?](https://simplysecure.github.io/devs-guide-to/)

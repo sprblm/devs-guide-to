@@ -18,8 +18,14 @@ A prepared script can help you remember everything and be your guide if your min
 
 **3. Testing:** Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset. 
 
+{{< pullquote >}}
+
 > **Example:**
 > You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.
+
+{{< /pullquote >}}
+
+{{< pullquote >}}
 
 > Ask your user to do a task you prepared. 
 > **Examples:**
@@ -28,12 +34,18 @@ A prepared script can help you remember everything and be your guide if your min
 > - How would you customise which types of script to block?
 > - Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?
 
+{{< /pullquote >}}
+
+{{< pullquote >}}
+
 > While observing what the user did, tried to do, and didn’t do, ask [probing questions]({{< ref "five-whys" >}}) to get to the root cause of problems or motivations.
 > **Examples:**
 > - What are you thinking?
 > - What are you looking for?
 > - Why do you think this happened?
 > - Can you give me more detail as to why you think that?
+
+{{< /pullquote >}}
 
 **4. Closing:** At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.
 
@@ -64,6 +76,9 @@ If you want to record the session, it could be a good way to reference and analy
 Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. You can use our [user testing role play](https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD) to practice user testing facilitation (without the pressure!). It includeds a slidedeck, scripts, and role descriptions. 
 
 ### Example script 📃
+
+{{< pullquote >}}
+
 >
 > **Intro**
 > 
@@ -93,9 +108,13 @@ Still nervous? Practice a test scenario with a friend, colleague, or relative. T
 > 
 > Thank you for your time. You’ve helped a lot and this is exactly what we needed. That's all the questions we have. We really appreciate all your insights and learned a lot from your experience. Is there anything else you would like to share?
 
+{{< /pullquote >}}
+
 # Next steps 👣
 ---
 
 Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}}), to learn more about research synthesis.
+
+Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/92" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 [Move on to The Five Whys]({{< ref "five-whys" >}})
