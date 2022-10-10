@@ -77,7 +77,7 @@ The third resource in our user testing series is all about the synthesis process
       <content>&lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Resource #3: Synthesis for open source&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing. It&amp;rsquo;s important to make sense of a user test both on an individual level, and as a team. This synthesis resource specifically helps teams work together to find a common understanding that serves as the foundation of future work.&lt;/p&gt;
 &lt;p&gt;In this resource, we documented the setup process, how to do affinity diagramming, and facilitating synthesis. We had a lot of fun connecting the information to our experiences working in open source, and included several real life examples. After a synthesis process, the next steps for your team are prioritization and sharing out. We mentioned these briefly, but look forward to expanding this content in the future.&lt;/p&gt;
-&lt;p&gt;We highlighted this resource during the engagements:&lt;/p&gt;
+&lt;p&gt;We highlighted this resource during the community events:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
@@ -92,9 +92,9 @@ The third resource in our user testing series is all about the synthesis process
       
       <guid>https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/</guid>
       <description>Collaboration processes came up in our initial research interviews with tool team members. Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.
-For our fourth resource and engagement with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the Sustaining Open Source Design podcast (SOS Design).</description>
+For our fourth resource and community event with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the Sustaining Open Source Design podcast (SOS Design).</description>
       <content>&lt;p&gt;Collaboration processes came up in our initial research interviews with tool team members.  Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.&lt;/p&gt;
-&lt;p&gt;For our fourth resource and engagement with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the &lt;a href=&#34;https://sosdesign.sustainoss.org/&#34;&gt;Sustaining Open Source Design podcast (SOS Design)&lt;/a&gt;. This podcast is a sibling podcast to the &lt;a href=&#34;https://podcast.sustainoss.org/&#34;&gt;Sustain OSS podcast&lt;/a&gt; where hosts and guests discuss what it means to keep OSS thriving and sustainable.&lt;/p&gt;
+&lt;p&gt;For our fourth resource and community event with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the &lt;a href=&#34;https://sosdesign.sustainoss.org/&#34;&gt;Sustaining Open Source Design podcast (SOS Design)&lt;/a&gt;. This podcast is a sibling podcast to the &lt;a href=&#34;https://podcast.sustainoss.org/&#34;&gt;Sustain OSS podcast&lt;/a&gt; where hosts and guests discuss what it means to keep OSS thriving and sustainable.&lt;/p&gt;
 &lt;p&gt;For the conversation about how designers and developers collaborate on OSS tools, we invited &lt;a href=&#34;https://twitter.com/yrb1rd&#34;&gt;Sadie&lt;/a&gt; and &lt;a href=&#34;https://luwuxu.com/&#34;&gt;Lucie&lt;/a&gt; of &lt;a href=&#34;https://geti2p.net/en/&#34;&gt;I2P (Invisible Internet Project)&lt;/a&gt;, and &lt;a href=&#34;https://saptaks.website/&#34;&gt;Saptak&lt;/a&gt;, a Human Rights Concerned Web Developer, working as a contractor with Freedom of the Press Foundation. We discussed questions like:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where does the designer-developer handoff (or better yet, collaboration) begin in your opinion?&lt;/li&gt;
@@ -228,6 +228,18 @@ We wanted to make sure that the resources we created were relevant and useful to
 &lt;li&gt;Resource #4: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt; &lt;a href=&#34;https://github.com/simplysecure/synthesis-of-user-testing-and-research&#34;&gt;GitHub repository for Synthesis resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Resource #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;and-we-completed-these-community-events-with-the-community-&#34;&gt;And we completed these community events with the community! ⭐&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Community Event #1: &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Interactive guide playable on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #2: &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;Interactive guide poster on Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #3: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/&#34;&gt;Imakefoss Twitter takeover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #4: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/&#34;&gt;Developer and designer collaboration in open source podcast episode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #6: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #7: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Community Event #8: &lt;a href=&#34;&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Future resources and community events to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.&lt;/p&gt;
 &lt;h3 id=&#34;we-participated-in-these-community-eventsactivities-&#34;&gt;We participated in these community events/activities! ⭐&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/&#34;&gt;Imakefoss Twitter takeover&lt;/a&gt;&lt;/li&gt;
@@ -578,13 +590,49 @@ Examples:&lt;/p&gt;
 &lt;p&gt;Testing can be done in-person and remotely. We recommend that everyone’s face is visible (unless anonymity is crucial) and you all can see what’s being tested. If you give a phone or a laptop to the user, sit next to them (if culturally appropriate) so that you can watch the process. If the testing is remote, you can share your screen (the participant verbally gives commands while you perform the operations) or ask them to share their screen (making sure to get their consent in advance).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Jitsi video call with participant screen sharing&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lookback.io (not open source sadly!)&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Full Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;Jitsi video call with participant screen sharing&lt;/li&gt;
+&lt;li&gt;Lookback.io (not open source sadly!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+    color:  var(--accent);
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #241723;
+    font: inherit;
+    color: var(--accent);
+    border-top: 1px solid  var(--accent);
+    border-bottom: 1px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;p&gt;&lt;strong&gt;Full Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;WHAT:&lt;/strong&gt; Can the user upload their first document to the “my notes” section?&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;WHY:&lt;/strong&gt; To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&amp;rsquo;s not. Find UX improvements to propose for the next sprint.&lt;/li&gt;
@@ -596,8 +644,6 @@ Examples:&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;WHERE:&lt;/strong&gt; Zoom with participant screen sharing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
 </content>

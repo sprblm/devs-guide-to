@@ -245,13 +245,49 @@ Examples:</p>
 <p>Testing can be done in-person and remotely. We recommend that everyone’s face is visible (unless anonymity is crucial) and you all can see what’s being tested. If you give a phone or a laptop to the user, sit next to them (if culturally appropriate) so that you can watch the process. If the testing is remote, you can share your screen (the participant verbally gives commands while you perform the operations) or ask them to share their screen (making sure to get their consent in advance).</p>
 <p><strong>Examples:</strong></p>
 <ul>
-<li>
-<p>Jitsi video call with participant screen sharing</p>
-</li>
-<li>
-<p>Lookback.io (not open source sadly!)</p>
-<blockquote>
-<p><strong>Full Example:</strong></p>
+<li>Jitsi video call with participant screen sharing</li>
+<li>Lookback.io (not open source sadly!)</li>
+</ul>
+<style>
+  blockquote.pullquote p:first-of-type::before {
+    color:  var(--accent);
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #241723;
+    font: inherit;
+    color: var(--accent);
+    border-top: 1px solid  var(--accent);
+    border-bottom: 1px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #fff !important;
+    content: "-";
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+
+  blockquote.pullquote>ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+</style>
+<blockquote class="pullquote"><p><strong>Full Example:</strong></p>
 <ul>
 <li><strong>WHAT:</strong> Can the user upload their first document to the “my notes” section?</li>
 <li><strong>WHY:</strong> To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&rsquo;s not. Find UX improvements to propose for the next sprint.</li>
@@ -263,8 +299,6 @@ Examples:</p>
 <li><strong>WHERE:</strong> Zoom with participant screen sharing</li>
 </ul>
 </blockquote>
-</li>
-</ul>
 <p>The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.</p>
 <p><a href="https://simplysecure.github.io/devs-guide-to/recruiting-testers/">Move on to Recruiting testers</a></p>
 
