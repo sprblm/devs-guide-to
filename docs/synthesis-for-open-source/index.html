@@ -190,12 +190,55 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 <p>Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game <a href="https://github.com/simplysecure/usable-user-testing-can-be-fun">‘User testing can be fun’!</a></p>
 <h3 id="what-is-synthesis-not-">What is ‘synthesis’ not? 🙅‍♀️<a href="#what-is-synthesis-not-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
 <p>There’s an idea that user testing means putting an individual user (or group of users) in charge of your decision making - but it doesn’t! During a test, if a user says, “Oh you should have functionality that does exactly this thing I’ll explain” it doesn’t mean that you are bound to build it. Instead, you just learned that the user is looking for a solution that your tool doesn’t offer or in the way they expect. It’s less about the exact requested specifications and more about analyzing their problem (alongside other users’ problems) to land on an achievable, inclusive solution. Remember, synthesis is an opportunity to hear your users’ voices and experiences, understand their needs, and use that insight to inform the design and development process and ‘back up’ choices.</p>
-<blockquote>
+<style>
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #fff !important;
+    content: "-";
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote>ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+</style>
+<blockquote class="pullquote"><blockquote>
 <p><strong>A story from working on user research on OSS tools</strong> 📖</p>
 <p>I once was a designer/researcher on an open source tool that helps sellers manage inventory. During a user test, one user said, “What I really want is to speak into my mobile phone and have the inventory update immediately - oh and I don’t get internet connection in my stock room so it has to work offline”.</p>
 <p>Oh no! The team was thinking: “We now have to build an intelligent system to automatically reduce stock based on voice commands and save those via a recording system and&hellip;”</p>
 <p>Before the team went too far down this onerous (and perhaps unnecessary) path, I asked them: “What basic-level concern is the user expressing when they speak about a magical automated inventory voice command system?” We thought about this during several more user tests and discussions.</p>
 <p>As we learned more about our users, we discovered that a huge concern for them was inventory errors and the negative impact on customers. That meant our team focused on the basic issues of accurate stock checking and verification systems, and not ‘offline voice AI’. As a result, everytime we worked on the tool’s inventory admin area, we remembered how important error prevention was and worked to make small, achievable (non-magical) improvements to make our users happy.</p>
+</blockquote>
 </blockquote>
 <h3 id="summary-">Summary 📍<a href="#summary-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
 <p>Through a synthesis process, you can:</p>
@@ -230,11 +273,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 <p>Here’s how you might set up your in-person or virtual space:</p>
 <p><img src="https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/virtual-whiteboard.png" alt="an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added." title="an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added."></p>
 <p><img src="https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/in-person-whiteboard.png" alt="The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes." title="The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes."></p>
-<blockquote>
+<style>
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #fff !important;
+    content: "-";
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote>ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+</style>
+<blockquote class="pullquote"><blockquote>
 <p><strong>A story from working on user research in OSS</strong> 📖</p>
 <p>We thought we had set up everything to make our synthesis session quick and easy. We had the sticky notes, the space, the time, and the people. The one thing we overlooked was setting up our people for success.</p>
 <p>Our group was diverse, not only in terms of background, but also role: developer, designer, product manager, community manager, and CEO. Our conversation was based on instinct and it became contentious, confusing, and frustrating. The team had fiercely-held opinions and their agenda and reasoning wasn’t always clear - we lacked the context and thought process of everyone’s ideas. For the next synthesis session, we decided to establish rules for framing “I like” statements.</p>
 <p>Participants would need to add context: “From a business perspective, I like X.” Or give more reasoning: “I like X because it gives the user the most freedom.” Or reference the goals: “I think X achieves our goal of making the process simpler.” When we clearly defined how we wanted people to participate in a synthesis discussion it went a lot smoother!</p>
+</blockquote>
 </blockquote>
 <h1 id="how-to-do-synthesis-">How to do ‘synthesis’ 🤹<a href="#how-to-do-synthesis-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
 <hr>
@@ -276,11 +362,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 <h3 id="look-at-the-big-picture-">Look at the big picture 🖼️<a href="#look-at-the-big-picture-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h3>
 <p>Take a step back (or zoom out) to see all your data, themes, and rationale. Areas with lots of insights and clear descriptive statements are good areas for opportunity. This process brings together insights in a way that you can also see the gaps. Did many participants mention a specific feature, but not another? Was there a path that no one took?</p>
 <p>That’s it - you’ve just completed synthesis!</p>
-<blockquote>
+<style>
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #fff !important;
+    content: "-";
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote>ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+</style>
+<blockquote class="pullquote"><blockquote>
 <p><strong>A story from working on user research in OSS tools</strong> 📖</p>
 <p>I was on a team of designers, developers, community managers, and product managers that was working on a prototype MVP for an OSS tool that helped community members connect during a crisis. We had done 15 user interviews and were looking at hundreds of sticky notes clustered into themes such as ‘feels good to connect’, ‘bonding with others online’, ‘mitigating risk’, ‘security’, and ‘safe location sharing’.</p>
 <p>We began to understand that we needed to ensure from start to finish that the users could feel connected with others while simultaneously feeling secure and protected while using our tool. The tool contained location information, names, interests, and other information which could put people at risk. However, our users also wanted to connect with their community.</p>
 <p>This led to us creating user stories such as ‘Allowing users to skip filling out profile information but inform them that other users might not feel connected to a blank profile.’ By understanding the point of view of ‘a cautious user’ and ‘a suspicious user’ we were able to help people use the tool better.</p>
+</blockquote>
 </blockquote>
 <h1 id="prioritization-">Prioritization 🏆<a href="#prioritization-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
 <hr>
@@ -308,11 +437,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 </ol>
 </li>
 </ol>
-<blockquote>
+<style>
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: ">";
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote>ul li::before {
+    color: #fff !important;
+    content: "-";
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote>ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+</style>
+<blockquote class="pullquote"><blockquote>
 <p><strong>A story from working on user research on OSS tools</strong> 📖</p>
 <p>After a two-week user research period, our OSS team had so much user feedback and insight that we were especially eager to start the process of understanding it all. At that time, our prioritization process was based on scoring the technical difficulty of implementing user needs. As we were prioritising what aspects of the tool were important to users, like ‘security’, ‘safety’ and ‘having a good onboarding experience’, we were getting more and more stuck trying to figure out how these themes translated into technical changes.</p>
 <p>It became clear that we weren’t ready to break down the technical complexity yet - every option had an exceptionally high score in the agile metric (21+ or even infinite!). We instead needed to use the themes as criteria for knowing if we were moving in the right directions and meeting users expectations. Only when we agreed on statements like, “We’re going to prioritise safety methods throughout this OSS tool given how important it was during user research”, could we feel comfortable moving to the next statements about technical interventions.</p>
 <p>From there, we evaluated specific sections of the OSS tool by asking, “Is this the safest way that a user can do this process?” and “What would make the user feel safer?” and “Do we have user research evidence to help us design and develop a way of doing that better?”.</p>
+</blockquote>
 </blockquote>
 <h1 id="sharing-out-">Sharing out 💁<a href="#sharing-out-" class="hanchor" ariaLabel="Anchor">&#8983;</a> </h1>
 <hr>
@@ -354,6 +526,40 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 <li><a href="https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01">From bootcamp.uxdesign.cc Many Modes of Research Synthesis</a></li>
 <li><a href="https://miro.com/blog/collaboration-on-design-research/">From the miro.com blog Collaboration on design research</a></li>
 </ul>
+<p>Did you use the framework and examples in this page? <style>
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+</style>
+
+
+
+
+  
+
+
+<a href="https://github.com/simplysecure/devs-guide-to/discussions/94"   target="_blank" rel="noreferrer" class="markdown-btn">Tell us about it</a> on our GitHub discussions!</p>
 <p><a href="https://simplysecure.github.io/devs-guide-to/">Go back to the homepage?</a></p>
 
       </div></div>

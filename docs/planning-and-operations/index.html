@@ -250,7 +250,8 @@ Examples:</p>
 </ul>
 <style>
   blockquote.pullquote p:first-of-type::before {
-    color:  var(--accent);
+        
+    color: #fff !important;  
     content: ">";
     display: block;
     left: -10px;
@@ -259,11 +260,12 @@ Examples:</p>
 
   blockquote.pullquote {
     position: relative;
-    background: #241723;
+    background: #4f5c48;
     font: inherit;
-    color: var(--accent);
-    border-top: 1px solid  var(--accent);
-    border-bottom: 1px solid var(--accent);
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
     margin: 40px 0;
     padding: 25px;
   }
@@ -278,6 +280,7 @@ Examples:</p>
   blockquote.pullquote p {
     padding-left: 10px;
     padding-right: 10px;
+    color: #fff !important;
   }
 
 
@@ -300,6 +303,40 @@ Examples:</p>
 </ul>
 </blockquote>
 <p>The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.</p>
+<p>Did you use the framework and examples in this page? <style>
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+</style>
+
+
+
+
+  
+
+
+<a href="https://github.com/simplysecure/devs-guide-to/discussions/90"   target="_blank" rel="noreferrer" class="markdown-btn">Tell us about it</a> on our GitHub discussions!</p>
 <p><a href="https://simplysecure.github.io/devs-guide-to/recruiting-testers/">Move on to Recruiting testers</a></p>
 
       </div></div>

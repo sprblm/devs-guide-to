@@ -387,11 +387,96 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;p&gt;&lt;strong&gt;1. Introduction:&lt;/strong&gt; To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Warmup:&lt;/strong&gt; To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3. Testing:&lt;/strong&gt; Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset.&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;
 You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;Ask your user to do a task you prepared.
 &lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -401,7 +486,50 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;li&gt;Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.
 &lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -410,6 +538,7 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;li&gt;Why do you think this happened?&lt;/li&gt;
 &lt;li&gt;Can you give me more detail as to why you think that?&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;4. Closing:&lt;/strong&gt; At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
 &lt;h3 id=&#34;interviewing-style-&#34;&gt;Interviewing Style 🎤&lt;/h3&gt;
@@ -426,7 +555,49 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;h3 id=&#34;practice-&#34;&gt;Practice 🧗&lt;/h3&gt;
 &lt;p&gt;Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. You can use our &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;user testing role play&lt;/a&gt; to practice user testing facilitation (without the pressure!). It includeds a slidedeck, scripts, and role descriptions.&lt;/p&gt;
 &lt;h3 id=&#34;example-script-&#34;&gt;Example script 📃&lt;/h3&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hello! We are [name] and [name] from [organization]. We are both developers trying to make our software better. We want your help to understand how you currently use, or don&amp;rsquo;t use, [software], and what would be better. I would love to hear your thoughts, so please think aloud. Feel free to speak your mind. We are not testing you, we are testing the prototype. We’re still working on it, so it might not work as you expect. We wanted to get your feedback early in the process.&lt;/p&gt;
 &lt;p&gt;This will take about 30 minutes. We won’t be recording but we will be taking handwritten notes, without identifying you. Is that ok with you?&lt;/p&gt;
@@ -442,9 +613,44 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 &lt;p&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thank you for your time. You’ve helped a lot and this is exactly what we needed. That&amp;rsquo;s all the questions we have. We really appreciate all your insights and learned a lot from your experience. Is there anything else you would like to share?&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;next-steps-&#34;&gt;Next steps 👣&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &amp;:hover,
+  &amp;:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/92&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -509,6 +715,40 @@ Statement from a Jo Doe, a typical user of a made-up file sharing service called
 &lt;p&gt;&lt;em&gt;It sounds like in your circumstances &lt;strong&gt;you don’t have&lt;/strong&gt; &lt;strong&gt;time to make a secure password&lt;/strong&gt; for a file and also your colleague &lt;strong&gt;does not have time to enter a password&lt;/strong&gt; to view the file. Furthermore, it also sounds like &lt;strong&gt;the room for errors in secure password creation and entry&lt;/strong&gt; is a reason you don’t password protect files. Does that sound right?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;If the user tester agrees then you have two root motivations, one is &lt;strong&gt;time taken&lt;/strong&gt; and the other is &lt;strong&gt;accuracy trust&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;As a tool creator, you now have an understanding of two root motivations that you need to address in order to help users achieve their goal. One motivation comes from the user you spoke with and another motivation comes from the user at headquarters (you can investigate this further if you want to). Now work with your team to consider all the ways you can improve time taken and accuracy trust.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &amp;:hover,
+  &amp;:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/93&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Move on to Synthesis for open-source&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -595,7 +835,8 @@ Examples:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;style&gt;
   blockquote.pullquote p:first-of-type::before {
-    color:  var(--accent);
+        
+    color: #fff !important;  
     content: &#34;&gt;&#34;;
     display: block;
     left: -10px;
@@ -604,11 +845,12 @@ Examples:&lt;/p&gt;
 
   blockquote.pullquote {
     position: relative;
-    background: #241723;
+    background: #4f5c48;
     font: inherit;
-    color: var(--accent);
-    border-top: 1px solid  var(--accent);
-    border-bottom: 1px solid var(--accent);
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
     margin: 40px 0;
     padding: 25px;
   }
@@ -623,6 +865,7 @@ Examples:&lt;/p&gt;
   blockquote.pullquote p {
     padding-left: 10px;
     padding-right: 10px;
+    color: #fff !important;
   }
 
 
@@ -645,6 +888,40 @@ Examples:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &amp;:hover,
+  &amp;:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/90&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -668,14 +945,99 @@ Make a list of possible outreach channels where your community gathers, such as:
 &lt;li&gt;How they can contact you&lt;/li&gt;
 &lt;li&gt;When you expect to conduct testing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Do you have 15 minutes and use [software]?&lt;/p&gt;
 &lt;p&gt;We’d like your help!&lt;/p&gt;
 &lt;p&gt;We are about to release a new version of [our tool/software] and want to hear from you. To help us understand your needs and how to improve [our tool/software], we&amp;rsquo;d like to hear about your experiences with the tool (whether you&amp;rsquo;ve used it for a long time or just recently started using it!).&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re booking 15 minute conversations to better understand how to improve [our tool/software] for everyone. If you&amp;rsquo;re able to participate, please fill out this simple form [add a link to a form].&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Are you familiar with [topic to test]?&lt;/p&gt;
 &lt;p&gt;We want to talk to you.&lt;/p&gt;
@@ -691,15 +1053,101 @@ Nope! Come as you are.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Is it private?&lt;/strong&gt;
 Of course. We will not be recording voice or video. We will be taking brief notes about what works and what doesn&amp;rsquo;t in the design so that we can make improvements. We will not share your identity with anyone.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hello everybody! Have you ever [activity/feature you are targeting]? If you want to help improve [tool/software], read on!&lt;/p&gt;
 &lt;p&gt;My colleagues and I at [tool/project] want to speak for 30 minutes with a few people who have [experience you want to target].&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re interested please fill out this short form: [add a link to a form]&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/planning-and-operations/#who-testers-&#34;&gt;See “Phase 1 - Who”&lt;/a&gt;. This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.&lt;/p&gt;
 &lt;p&gt;Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #1:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hi [participant name],&lt;/p&gt;
 &lt;p&gt;You filled out our interest form “[name of form]”. Thank you so much for your interest in speaking to us. Please choose a time here: [link to a time/date picker]&amp;hellip;&lt;/p&gt;
@@ -707,7 +1155,50 @@ Of course. We will not be recording voice or video. We will be taking brief note
 &lt;p&gt;Best,
 [your name]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Example #2:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hi [participant name],&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m [your name] from [tool/project]. Thank you for your interest in being a tester for [tool/software].&lt;/p&gt;
@@ -717,7 +1208,42 @@ Of course. We will not be recording voice or video. We will be taking brief note
 &lt;p&gt;Best,
 [your name]&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &amp;:hover,
+  &amp;:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/91&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/&#34;&gt;Move on to &amp;ldquo;Conducting a user test”&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -744,12 +1270,55 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;‘User testing can be fun’!&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-is-synthesis-not-&#34;&gt;What is ‘synthesis’ not? 🙅‍♀️&lt;/h3&gt;
 &lt;p&gt;There’s an idea that user testing means putting an individual user (or group of users) in charge of your decision making - but it doesn’t! During a test, if a user says, “Oh you should have functionality that does exactly this thing I’ll explain” it doesn’t mean that you are bound to build it. Instead, you just learned that the user is looking for a solution that your tool doesn’t offer or in the way they expect. It’s less about the exact requested specifications and more about analyzing their problem (alongside other users’ problems) to land on an achievable, inclusive solution. Remember, synthesis is an opportunity to hear your users’ voices and experiences, understand their needs, and use that insight to inform the design and development process and ‘back up’ choices.&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A story from working on user research on OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
 &lt;p&gt;I once was a designer/researcher on an open source tool that helps sellers manage inventory. During a user test, one user said, “What I really want is to speak into my mobile phone and have the inventory update immediately - oh and I don’t get internet connection in my stock room so it has to work offline”.&lt;/p&gt;
 &lt;p&gt;Oh no! The team was thinking: “We now have to build an intelligent system to automatically reduce stock based on voice commands and save those via a recording system and&amp;hellip;”&lt;/p&gt;
 &lt;p&gt;Before the team went too far down this onerous (and perhaps unnecessary) path, I asked them: “What basic-level concern is the user expressing when they speak about a magical automated inventory voice command system?” We thought about this during several more user tests and discussions.&lt;/p&gt;
 &lt;p&gt;As we learned more about our users, we discovered that a huge concern for them was inventory errors and the negative impact on customers. That meant our team focused on the basic issues of accurate stock checking and verification systems, and not ‘offline voice AI’. As a result, everytime we worked on the tool’s inventory admin area, we remembered how important error prevention was and worked to make small, achievable (non-magical) improvements to make our users happy.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h3 id=&#34;summary-&#34;&gt;Summary 📍&lt;/h3&gt;
 &lt;p&gt;Through a synthesis process, you can:&lt;/p&gt;
@@ -784,11 +1353,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;Here’s how you might set up your in-person or virtual space:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A story from working on user research in OSS&lt;/strong&gt; 📖&lt;/p&gt;
 &lt;p&gt;We thought we had set up everything to make our synthesis session quick and easy. We had the sticky notes, the space, the time, and the people. The one thing we overlooked was setting up our people for success.&lt;/p&gt;
 &lt;p&gt;Our group was diverse, not only in terms of background, but also role: developer, designer, product manager, community manager, and CEO. Our conversation was based on instinct and it became contentious, confusing, and frustrating. The team had fiercely-held opinions and their agenda and reasoning wasn’t always clear - we lacked the context and thought process of everyone’s ideas. For the next synthesis session, we decided to establish rules for framing “I like” statements.&lt;/p&gt;
 &lt;p&gt;Participants would need to add context: “From a business perspective, I like X.” Or give more reasoning: “I like X because it gives the user the most freedom.” Or reference the goals: “I think X achieves our goal of making the process simpler.” When we clearly defined how we wanted people to participate in a synthesis discussion it went a lot smoother!&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;how-to-do-synthesis-&#34;&gt;How to do ‘synthesis’ 🤹&lt;/h1&gt;
 &lt;hr&gt;
@@ -830,11 +1442,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;h3 id=&#34;look-at-the-big-picture-&#34;&gt;Look at the big picture 🖼️&lt;/h3&gt;
 &lt;p&gt;Take a step back (or zoom out) to see all your data, themes, and rationale. Areas with lots of insights and clear descriptive statements are good areas for opportunity. This process brings together insights in a way that you can also see the gaps. Did many participants mention a specific feature, but not another? Was there a path that no one took?&lt;/p&gt;
 &lt;p&gt;That’s it - you’ve just completed synthesis!&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A story from working on user research in OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
 &lt;p&gt;I was on a team of designers, developers, community managers, and product managers that was working on a prototype MVP for an OSS tool that helped community members connect during a crisis. We had done 15 user interviews and were looking at hundreds of sticky notes clustered into themes such as ‘feels good to connect’, ‘bonding with others online’, ‘mitigating risk’, ‘security’, and ‘safe location sharing’.&lt;/p&gt;
 &lt;p&gt;We began to understand that we needed to ensure from start to finish that the users could feel connected with others while simultaneously feeling secure and protected while using our tool. The tool contained location information, names, interests, and other information which could put people at risk. However, our users also wanted to connect with their community.&lt;/p&gt;
 &lt;p&gt;This led to us creating user stories such as ‘Allowing users to skip filling out profile information but inform them that other users might not feel connected to a blank profile.’ By understanding the point of view of ‘a cautious user’ and ‘a suspicious user’ we were able to help people use the tool better.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;prioritization-&#34;&gt;Prioritization 🏆&lt;/h1&gt;
 &lt;hr&gt;
@@ -862,11 +1517,54 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: #4f5c48;
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;A story from working on user research on OSS tools&lt;/strong&gt; 📖&lt;/p&gt;
 &lt;p&gt;After a two-week user research period, our OSS team had so much user feedback and insight that we were especially eager to start the process of understanding it all. At that time, our prioritization process was based on scoring the technical difficulty of implementing user needs. As we were prioritising what aspects of the tool were important to users, like ‘security’, ‘safety’ and ‘having a good onboarding experience’, we were getting more and more stuck trying to figure out how these themes translated into technical changes.&lt;/p&gt;
 &lt;p&gt;It became clear that we weren’t ready to break down the technical complexity yet - every option had an exceptionally high score in the agile metric (21+ or even infinite!). We instead needed to use the themes as criteria for knowing if we were moving in the right directions and meeting users expectations. Only when we agreed on statements like, “We’re going to prioritise safety methods throughout this OSS tool given how important it was during user research”, could we feel comfortable moving to the next statements about technical interventions.&lt;/p&gt;
 &lt;p&gt;From there, we evaluated specific sections of the OSS tool by asking, “Is this the safest way that a user can do this process?” and “What would make the user feel safer?” and “Do we have user research evidence to help us design and develop a way of doing that better?”.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;sharing-out-&#34;&gt;Sharing out 💁&lt;/h1&gt;
 &lt;hr&gt;
@@ -908,6 +1606,40 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;li&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/many-modes-of-research-synthesis-c67061c75b01&#34;&gt;From bootcamp.uxdesign.cc Many Modes of Research Synthesis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://miro.com/blog/collaboration-on-design-research/&#34;&gt;From the miro.com blog Collaboration on design research&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+
+  &amp;:hover,
+  &amp;:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/94&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/&#34;&gt;Go back to the homepage?&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
