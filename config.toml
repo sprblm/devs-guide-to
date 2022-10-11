@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
   contentTypeName = "posts"
   themeColor = "green"
-  showMenuItems = 7
+  showMenuItems = 8
   fullWidthTheme = false
   centerTheme = true
 
