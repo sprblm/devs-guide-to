@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intro text on A devs guide to...</title>
+    <title>Home on A devs guide to...</title>
     <link>https://simplysecure.github.io/devs-guide-to/</link>
-    <description>Recent content in Intro text on A devs guide to...</description>
+    <description>Recent content in Home on A devs guide to...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://simplysecure.github.io/devs-guide-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates</title>
+      <link>https://simplysecure.github.io/devs-guide-to/updates/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplysecure.github.io/devs-guide-to/updates/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Getting used to user testing at the UXForum</title>
       <link>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</link>
@@ -86,7 +96,7 @@ The third resource in our user testing series is all about the synthesis process
     </item>
     
     <item>
-      <title>Developer and Design Collaboration in open source</title>
+      <title>Developer  Designer Collaboration in open source</title>
       <link>https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
@@ -237,7 +247,7 @@ We wanted to make sure that the resources we created were relevant and useful to
 &lt;li&gt;Community Event #5: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Community Event #6: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Community Event #7: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/&#34;&gt;A dev’s guide&amp;hellip; at Mozfest22&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Community Event #8: &lt;a href=&#34;&#34;&gt;Getting comfortable with user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
+&lt;li&gt;Community Event #8: &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/&#34;&gt;Getting used to user testing through roleplay at the UXForum&lt;/a&gt; (scheduled in April 2022)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Future resources and community events to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.&lt;/p&gt;
 &lt;h3 id=&#34;we-participated-in-these-community-eventsactivities-&#34;&gt;We participated in these community events/activities! ⭐&lt;/h3&gt;
@@ -399,7 +409,7 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -446,7 +456,7 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -499,7 +509,7 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -567,7 +577,7 @@ You’re a journalist and need to receive sensitive (and potentially damaging) d
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -631,13 +641,14 @@ a.markdown-btn {
   text-decoration: none;
   border: 2px solid  var(--accent);
   cursor: pointer;
+}
 
-  &amp;:hover,
-  &amp;:active {
-    text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
-  }
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
 }
 
 
@@ -652,6 +663,19 @@ a.markdown-btn {
 
 &lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/92&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>FAQ&#39;s</title>
+      <link>https://simplysecure.github.io/devs-guide-to/faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplysecure.github.io/devs-guide-to/faqs/</guid>
+      <description>Frequently Asked Questions WIP page :) please come back later when we&amp;rsquo;ve finished writing this!</description>
+      <content>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;WIP page :) please come back later when we&amp;rsquo;ve finished writing this!&lt;/p&gt;
 </content>
     </item>
     
@@ -729,13 +753,14 @@ a.markdown-btn {
   text-decoration: none;
   border: 2px solid  var(--accent);
   cursor: pointer;
+}
 
-  &amp;:hover,
-  &amp;:active {
-    text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
-  }
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
 }
 
 
@@ -845,7 +870,7 @@ Examples:&lt;/p&gt;
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -902,13 +927,14 @@ a.markdown-btn {
   text-decoration: none;
   border: 2px solid  var(--accent);
   cursor: pointer;
+}
 
-  &amp;:hover,
-  &amp;:active {
-    text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
-  }
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
 }
 
 
@@ -923,6 +949,19 @@ a.markdown-btn {
 
 &lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/90&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Prioritisation</title>
+      <link>https://simplysecure.github.io/devs-guide-to/prioritisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://simplysecure.github.io/devs-guide-to/prioritisation/</guid>
+      <description>Prioritisation of development work with design insight WIP page :) please come back later when we&amp;rsquo;ve finished writing this!</description>
+      <content>&lt;h1 id=&#34;prioritisation-of-development-work-with-design-insight&#34;&gt;Prioritisation of development work with design insight&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;WIP page :) please come back later when we&amp;rsquo;ve finished writing this!&lt;/p&gt;
 </content>
     </item>
     
@@ -957,7 +996,7 @@ Make a list of possible outreach channels where your community gathers, such as:
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1007,7 +1046,7 @@ Make a list of possible outreach channels where your community gathers, such as:
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1066,7 +1105,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1117,7 +1156,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1168,7 +1207,7 @@ Of course. We will not be recording voice or video. We will be taking brief note
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1224,13 +1263,14 @@ a.markdown-btn {
   text-decoration: none;
   border: 2px solid  var(--accent);
   cursor: pointer;
+}
 
-  &amp;:hover,
-  &amp;:active {
-    text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
-  }
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
 }
 
 
@@ -1282,7 +1322,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1365,7 +1405,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1454,7 +1494,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1529,7 +1569,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 
   blockquote.pullquote {
     position: relative;
-    background: #4f5c48;
+    background: rgba(120, 226, 160, 0.1);
     font: inherit;
     font color: #fff;
      
@@ -1620,13 +1660,14 @@ a.markdown-btn {
   text-decoration: none;
   border: 2px solid  var(--accent);
   cursor: pointer;
+}
 
-  &amp;:hover,
-  &amp;:active {
-    text-decoration: none;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
-  }
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
 }
 
 

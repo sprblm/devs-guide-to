@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://simplysecure.github.io/devs-guide-to/updates/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,9 +53,13 @@
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/</loc>
   </url><url>
+    <loc>https://simplysecure.github.io/devs-guide-to/faqs/</loc>
+  </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/five-whys/</loc>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/planning-and-operations/</loc>
+  </url><url>
+    <loc>https://simplysecure.github.io/devs-guide-to/prioritisation/</loc>
   </url><url>
     <loc>https://simplysecure.github.io/devs-guide-to/recruiting-testers/</loc>
   </url><url>
