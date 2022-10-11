@@ -6,6 +6,7 @@
   {{ end }}
   <div class="posts">
     {{ range .Paginator.Pages }}
+    {{ partial "updates.html" . }}
       <div class="post on-list">
         <h1 class="post-title">
           <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>

@@ -57,8 +57,13 @@ publishDir = "docs"
         name = "Synthesis for open-source"
         url = "/synthesis-for-open-source"
         weight = 6
+          [[languages.en.menu.main]]
+        identifier = "updates"
+        name = "Updates"
+        url = "/updates"
+        weight = 7
          [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-        weight = 7
+        weight = 8
