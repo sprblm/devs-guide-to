@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Synthesis for open-source
-permalink: /synthesis-for-open-source/
 ---
 
 # Getting the team and community on the same page 📑
