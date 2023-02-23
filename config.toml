@@ -5,65 +5,55 @@ theme = "terminal"
 publishDir = "docs"
 
 [params]
-  contentTypeName = "posts"
-  themeColor = "green"
-  showMenuItems = 8
-  fullWidthTheme = false
-  centerTheme = true
+contentTypeName = "posts"
+themeColor = "green"
+showMenuItems = 8
+fullWidthTheme = false
+centerTheme = true
 
-  favicon = "favicon.ico"
+favicon = "favicon.ico"
 
-  [languages]
-  [languages.en]
-    title = "A devs guide to..."
-    subtitle = "A devs guide to..."
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+[languages]
+[languages.en]
+title = "A devs guide to..."
+subtitle = "A devs guide to..."
+keywords = ""
+copyright = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
-      logoText = "A devs guide to..."
-      logoHomeLink = "/devs-guide-to/"
-       [languages.en.menu]
-	  [[languages.en.menu.main]]
-        identifier = "a-dev-guide-to-usertesting"
-        name = "Dev's guide to user testing"
-        url = "/a-dev-guide-to-usertesting"
-        weight = 1
-      [[languages.en.menu.main]]
-        identifier = "planning-and-operations"
-        name = "Planning and operations"
-        url = "/planning-and-operations"
-        weight = 2
-      [[languages.en.menu.main]]
-        identifier = "recruiting-testers"
-        name = "Recruiting testers"
-        url = "/recruiting-testers"
-        weight = 3
-           [[languages.en.menu.main]]
-        identifier = "conducting-a-user-test"
-        name = "Conducting a user test"
-        url = "/conducting-a-user-test"
-        weight = 4
-        [[languages.en.menu.main]]
-        identifier = "five-whys"
-        name = "Five whys"
-        url = "/five-whys"
-        weight = 5
-         [[languages.en.menu.main]]
-        identifier = "synthesis-for-open-source"
-        name = "Synthesis for open-source"
-        url = "/synthesis-for-open-source"
-        weight = 6
-          [[languages.en.menu.main]]
-        identifier = "updates"
-        name = "Updates"
-        url = "/updates"
-        weight = 7
-         [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-        weight = 8
+[languages.en.params.logo]
+logoText = "A devs guide to..."
+logoHomeLink = "/devs-guide-to/"
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "a-dev-guide-to-usertesting"
+name = "User testing"
+url = "/user-testing"
+weight = 1
+[[languages.en.menu.main]]
+identifier = "synthesis-for-open-source"
+name = "Synthesis for open-source"
+url = "/synthesis-for-open-source"
+weight = 2
+[[languages.en.menu.main]]
+identifier = "synthesis-for-open-source"
+name = "Synthesis for open-source"
+url = "/synthesis-for-open-source"
+weight = 3
+[[languages.en.menu.main]]
+identifier = "Prioritization"
+name = "Prioritization"
+url = "/prioritization"
+weight = 4
+[[languages.en.menu.main]]
+identifier = "updates"
+name = "Updates"
+url = "/updates"
+weight = 5
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 6
