@@ -6,7 +6,7 @@ author: "Eriol Fox"
 ---
 
 # Welcome to the USABLE.tools Adoptable resources project
-The Adoptable resources contacined within this website focus on supporting maintainers of OSS, developer contributors, and OSS tool teams, to better utilize design practices and create more user-centered OSS tools. This microsite currently has resources that can help OSS tool teams start to do user testing and usability testing in their OSS tool projects either with or without a designer helping out. Reading through the pages and trying out the exercises to practice these design skills is a great start to getting comfortable with user centered design in your OSS tool projects. Remember, everyone starts somewhere! 🎉
+The Adoptable resources contained within this website focus on supporting maintainers of OSS, developer contributors, and OSS tool teams, to better utilize design practices and create more user-centered OSS tools. This microsite currently has resources that can help OSS tool teams start to do user testing and usability testing in their OSS tool projects either with or without a designer helping out. Reading through the pages and trying out the exercises to practice these design skills is a great start to getting comfortable with user centered design in your OSS tool projects. Remember, everyone starts somewhere! 🎉
 
 We recommend you start at [A Dev's guide to Usertesting]({{<ref "a-dev-guide-to-usertesting">}}) and then move through the sections in the order suggested at the bottom of each page. Each page has a series of practice exercises or templates for you to try out.
 
