@@ -14,4 +14,4 @@ We wrote this guide with ***small*** (2-20 active contributors or maintainers), 
 
 [Find the full guide here on this microsite]({{< ref "a-dev-guide-to-usertesting" >}})
 
-[Find the repository for this microsite and the page for the guide within here](https://github.com/simplysecure/devs-guide-to). The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.
+[Find the repository for this microsite and the page for the guide within here](https://github.com/sprblm/devs-guide-to). The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.

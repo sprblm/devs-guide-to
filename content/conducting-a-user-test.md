@@ -115,6 +115,6 @@ Still nervous? Practice a test scenario with a friend, colleague, or relative. T
 
 Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, [Synthesis for open-source]({{< ref "synthesis-for-open-source" >}}), to learn more about research synthesis.
 
-Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/92" >}}Tell us about it{{< /button >}} on our GitHub discussions!
+Did you use the framework and examples in this page? {{< button href="https://github.com/sprblm/devs-guide-to/discussions/92" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 [Move on to The Five Whys]({{< ref "five-whys" >}})

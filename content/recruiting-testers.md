@@ -115,6 +115,6 @@ Once you find a candidate that fits what you’re looking for, send them a Calen
 
 Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.
 
-Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/91" >}}Tell us about it{{< /button >}} on our GitHub discussions!
+Did you use the framework and examples in this page? {{< button href="https://github.com/sprblm/devs-guide-to/discussions/91" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 [Move on to "Conducting a user test”]({{< ref "conducting-a-user-test" >}})

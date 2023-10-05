@@ -1,4 +1,4 @@
-baseURL = "https://simplysecure.github.io/devs-guide-to/"
+baseURL = "https://sprblm.github.io/devs-guide-to/"
 languageCode = 'en-us'
 title = 'A devs guide to...'
 theme = "terminal"

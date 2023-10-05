@@ -38,6 +38,6 @@ If the user tester agrees then you have two root motivations, one is **time take
 
 As a tool creator, you now have an understanding of two root motivations that you need to address in order to help users achieve their goal. One motivation comes from the user you spoke with and another motivation comes from the user at headquarters (you can investigate this further if you want to). Now work with your team to consider all the ways you can improve time taken and accuracy trust.
 
-Did you use the framework and examples in this page? {{< button href="https://github.com/simplysecure/devs-guide-to/discussions/93" >}}Tell us about it{{< /button >}} on our GitHub discussions!
+Did you use the framework and examples in this page? {{< button href="https://github.com/sprblm/devs-guide-to/discussions/93" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 [Move on to Synthesis for open-source]({{< ref "synthesis-for-open-source" >}})

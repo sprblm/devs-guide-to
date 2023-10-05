@@ -8,7 +8,7 @@ author = "Eriol Fox"
 
 The USABLE resources focus on supporting maintainers of OSS, developer contributors, and OSS tool teams to better utilize design practices and create more user-centered tools.
 
-[USABLE.tools](https://usable.tools/) is a collaboration between [Simply Secure](https://simplysecure.org/), [Internews](https://internews.org/), and [Okthanks](https://okthanks.com/).
+[USABLE.tools](https://usable.tools/) is a collaboration between [Superbloom, formerly Simply Secure](https://superbloom.design/), [Internews](https://internews.org/), and [Okthanks](https://okthanks.com/).
 
 We wanted to make sure that the resources we created were relevant and useful to our audience: OSS tool teams. So, at the start of this resource project we spoke to OSS tool teams so that we could better understand what aspects of user/human-centred design remain unclear to them. We completed seven interviews with OSS tool team members and discovered insights such as:
 
@@ -38,17 +38,17 @@ We wanted to make sure that the resources we created were relevant and useful to
 
 ### We created these resources! ⭐
 
-- Resource #1: [User testing can be fun: An FAQ - Interactive guide repository on GitHub](https://github.com/simplysecure/usable-user-testing-can-be-fun) ([play the guide on Itch.io here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
-- Resource #2: [User testing can be fun: An FAQ - Poster]({{<ref "posts/updates/usertesting-can-be-fun-poster">}})[Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster) 
+- Resource #1: [User testing can be fun: An FAQ - Interactive guide repository on GitHub](https://github.com/sprblm/usable-user-testing-can-be-fun) ([play the guide on Itch.io here](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user))
+- Resource #2: [User testing can be fun: An FAQ - Poster]({{<ref "posts/updates/usertesting-can-be-fun-poster">}})[Interactive guide poster on Github](https://github.com/sprblm/usable-user-testing-can-be-fun-poster) 
 - Resource #3: [A dev's guide to user testing]({{<ref "a-dev-guide-to-usertesting">}})
-- Resource #4: [Synthesis for open-source]({{<ref "synthesis-for-open-source">}}) [GitHub repository for Synthesis resources](https://github.com/simplysecure/synthesis-of-user-testing-and-research)
+- Resource #4: [Synthesis for open-source]({{<ref "synthesis-for-open-source">}}) [GitHub repository for Synthesis resources](https://github.com/sprblm/synthesis-of-user-testing-and-research)
 - Resource #5: [Developer and designer collaboration in open source]({{<ref "posts/updates/developer-designer-collaboration">}})
 
 
 ### And we completed these community events with the community! ⭐
 
 - Community Event #1: [Interactive guide playable on itch.io](https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user)
-- Community Event #2: [Interactive guide poster on Github](https://github.com/simplysecure/usable-user-testing-can-be-fun-poster)
+- Community Event #2: [Interactive guide poster on Github](https://github.com/sprblm/usable-user-testing-can-be-fun-poster)
 - Community Event #3: [Imakefoss Twitter takeover]({{<ref "posts/updates/imakefoss-twitter-takeover">}})
 - Community Event #4: [Developer and designer collaboration in open source podcast episode]({{<ref "posts/updates/developer-designer-collaboration">}})
 - Community Event #5: [A dev’s guide to synthesis - workshop]({{<ref "posts/updates/synthesis-for-open-source-workshop">}})
@@ -62,7 +62,7 @@ Future resources and community events to come! We are excited to continue this w
 ### We participated in these community events/activities! ⭐
 
 - [Imakefoss Twitter takeover]({{<ref "posts/updates/imakefoss-twitter-takeover">}})
-- [Developer and designer collaboration in open source podcast episode]({{<ref "posts/updates/developer-designer-collaboration">}}) [See the podcast GitHub repo here](https://github.com/simplysecure/designer-developer-collaboration-in-OSS)
+- [Developer and designer collaboration in open source podcast episode]({{<ref "posts/updates/developer-designer-collaboration">}}) [See the podcast GitHub repo here](https://github.com/sprblm/designer-developer-collaboration-in-OSS)
 - [A dev’s guide to synthesis - workshop]({{<ref "posts/updates/synthesis-for-open-source-workshop">}})
 - [A dev’s guide to synthesis at FOSDEM 2022 in the Open Source Design devroom]({{<ref "posts/updates/synthesis-for-open-source-at-fosdem22">}})
 - [A dev’s guide explained at Mozfest 2022]({{<ref "posts/updates/usable-resources-at-mozfest22">}})
@@ -72,5 +72,5 @@ Future resources and community events to come! We are excited to continue this w
 Future resources and engagements to come! We are excited to continue this work. There are still many ideas from our interviews and wider knowledge about design in the OSS tool ecosystem - so watch this space.
 If you want to suggest a resource or make additions or changes, most of the resources have their own GitHub repositories linked above next to each resource. 
 Additionally, this micro site is on an open respository on GitHub where you can contribute, open issues and dicsuss topics related to the resources and community events with the team that maintain them.
-[Repository for the 'Dev's guide to... microsite](https://github.com/simplysecure/a-devs-guide-to-user-testing)
+[Repository for the 'Dev's guide to... microsite](https://github.com/sprblm/a-devs-guide-to-user-testing)
 

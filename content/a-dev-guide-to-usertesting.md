@@ -29,7 +29,7 @@ This guide breaks down the user testing process into three phases: planning, rec
 
 The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.
 
-![The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.](https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/number-plan2.png "The flow of starting user testing")
+![The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.](https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/number-plan2.png "The flow of starting user testing")
 
 
 ### What You Need 📝
