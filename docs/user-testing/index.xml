@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on A devs guide to...</title>
+    <link>https://sprblm.github.io/devs-guide-to/user-testing/</link>
+    <description>Recent content in Intro on A devs guide to...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://sprblm.github.io/devs-guide-to/user-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A developer&#39;s guide to user testing</title>
+      <link>https://sprblm.github.io/devs-guide-to/user-testing/a-dev-guide-to-usertesting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/user-testing/a-dev-guide-to-usertesting/</guid>
+      <description>Phase 0: A roadmap for open source teams 🗺️ What is this guide? 🏗️ This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind.</description>
+      <content>&lt;h1 id=&#34;phase-0-a-roadmap-for-open-source-teams-&#34;&gt;Phase 0: A roadmap for open source teams 🗺️&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;what-is-this-guide-&#34;&gt;What is this guide? 🏗️&lt;/h4&gt;
+&lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-it-for-&#34;&gt;Who is it for? 🖇️&lt;/h4&gt;
+&lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
+&lt;h3 id=&#34;what-is-user-testing-&#34;&gt;What is user testing? 👥&lt;/h3&gt;
+&lt;p&gt;User testing is a pillar of UX design. You watch someone use your software or prototype, ask them to “think aloud”, and ask them probing questions when necessary. The aim of user testing is to identify problems and gather information you will need to find solutions. During user testing, you can discover usability issues and bugs, but also learn about your users’ motivations. When you know your user better, you can make better software. User testing takes energy, but it’s worth it because you’ll feel more confident in your code, know your users better, and hopefully save time and energy in the future. You may think you’ve thought of everything, but during a user test you’re likely to have a few “mind blowing” moments that reveal your blindspots. That’s because you’re so close to your work - every once and a while you need someone to look at your software with a fresh perspective to see what you can’t.&lt;/p&gt;
+&lt;p&gt;User testing doesn’t have to be a big task. Any type of feedback from your users is valuable. If you’re already listening to and collecting feedback from your users - that’s great! Keep doing what you’re doing and when you feel you’re ready, come back to this guide - we’ll still be here!&lt;/p&gt;
+&lt;p&gt;We compiled user testing FAQs in our interactive companion resource &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;“User testing can be fun”&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-use-this-guide-&#34;&gt;How to use this guide 🦮&lt;/h3&gt;
+&lt;p&gt;This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/number-plan2.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-you-need-&#34;&gt;What You Need 📝&lt;/h3&gt;
+&lt;p&gt;You don’t need a lot of resources to do user testing. Support from your team is helpful, but at first you may need to conduct user tests by yourself in order to convince others of the benefits. Openness, humility, and curiosity are important qualities to embrace.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Specifically, it’s good to have:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time to prepare, conduct, and reflect on the tests (the amount of time depends on the length and numbers of users tests but we recommend 10-15 hrs of time to plan, conduct, and reflect)&lt;/li&gt;
+&lt;li&gt;A place to plan the user tests and take notes, like EtherPad/Riseup Pad Google Docs, or Notion&lt;/li&gt;
+&lt;li&gt;Something to test, like your current software, a prototype, or a sketch&lt;/li&gt;
+&lt;li&gt;(If possible) Another person to take notes during the test&lt;/li&gt;
+&lt;li&gt;(If you’re working remote) A video/audio conferencing tool, like Jitsi or Zoom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;get-in-to-the-user-testing-mindset-&#34;&gt;Get in to the user testing mindset 🧠&lt;/h3&gt;
+&lt;p&gt;You might be thinking at this point, “I can’t do user testing! I’m not ready!” Don’t worry, this is common and happens to everyone, including people who have been conducting user testing sessions for years. A warm up activity can help you and your team feel more confident. Try a variation of the &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;, where a team member plays the role of the user (this is just for practice purposes - don’t write code based on team members’ assumptions!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/user-testing/planning-and-operations/&#34;&gt;Move on to Planning and operations&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Conducting a user test</title>
+      <link>https://sprblm.github.io/devs-guide-to/user-testing/conducting-a-user-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/user-testing/conducting-a-user-test/</guid>
+      <description>Phase 3: Conducting a user test 🎛️ The Structure 🧱 A prepared script can help you remember everything and be your guide if your mind goes blank.
+1. Introduction: To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.</description>
+      <content>&lt;h1 id=&#34;phase-3-conducting-a-user-test-&#34;&gt;Phase 3: Conducting a user test 🎛️&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-structure-&#34;&gt;The Structure 🧱&lt;/h3&gt;
+&lt;p&gt;A prepared script can help you remember everything and be your guide if your mind goes blank.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Introduction:&lt;/strong&gt; To start, thank the tester for participating. Then briefly introduce yourselves and the testing process. At this point ask if the test has any questions and if they consent to participate. Tell them they can stop the test at any point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Warmup:&lt;/strong&gt; To get the conversation flowing, ask some easy warm-up questions so you can feel comfortable with each other and build rapport.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Testing:&lt;/strong&gt; Now it’s time to start the test. A scenario provides context for the user so they can get into the testing mindset.&lt;/p&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;
+You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;Ask your user to do a task you prepared.
+&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up an account to receive files from your source.&lt;/li&gt;
+&lt;li&gt;Turn off the VPN. Is it clear what is happening?&lt;/li&gt;
+&lt;li&gt;How would you customise which types of script to block?&lt;/li&gt;
+&lt;li&gt;Complete your profile screen. This screen does not have functionality, but please do react to it. Could you describe what you see here?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;While observing what the user did, tried to do, and didn’t do, ask &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;probing questions&lt;/a&gt; to get to the root cause of problems or motivations.
+&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are you thinking?&lt;/li&gt;
+&lt;li&gt;What are you looking for?&lt;/li&gt;
+&lt;li&gt;Why do you think this happened?&lt;/li&gt;
+&lt;li&gt;Can you give me more detail as to why you think that?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;4. Closing:&lt;/strong&gt; At the end of the session, thank your tester again. A great way to get even more useful feedback is to ask if there’s anything else they’d like to share with you - sometimes the most interesting insights come after the test is finished and the pressure’s off.&lt;/p&gt;
+&lt;h3 id=&#34;interviewing-style-&#34;&gt;Interviewing Style 🎤&lt;/h3&gt;
+&lt;p&gt;You want to know what the tester is thinking to get to the root cause of the problem, so ask them open-ended questions (questions that require more detail than just ‘yes’ or ‘no’). If they answer in a ‘closed way’, don’t be afraid to probe and ask for clarification. A great resource to keep handy is the &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt;. You can also use the ‘&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ structure in user tests if you find that your user tester participants are offering you very ‘closed off’ reasons and answers to your questions.&lt;/p&gt;
+&lt;p&gt;Resist the urge to explain your software, correct their mistakes, or defend your choices. Instead, try repeating what a tester said or did back to them and clarify their actions - ask them if you understood what they did correctly. Finally, give them plenty of time to answer. Don’t be afraid of silence or gaps in conversation, sometimes testers need time to think and respond (let them know that’s okay). This is especially important if you’re testing with someone who is speaking in their second or third language.&lt;/p&gt;
+&lt;h3 id=&#34;direct-recommendations-&#34;&gt;Direct Recommendations 🚦&lt;/h3&gt;
+&lt;p&gt;Don’t be worried if the testers offer direct solutions - that’s a common reaction. Solutions statements can sound like: “I want passwords to be automatically applied and sent immediately after a document is shared.” Here a user offers a solution that they believe will solve their problem. But wait! You need to find out the root cause of their need and why they think that’s a good idea. Use a method like the ‘&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;’ process to arrive at a root cause.&lt;/p&gt;
+&lt;h3 id=&#34;improvisation-&#34;&gt;Improvisation 🧑‍🎤&lt;/h3&gt;
+&lt;p&gt;Draft a script so that you can remember important points, but don’t feel the need to read it verbatim. Allowing the conversation to meander can be a good thing - you might learn something completely new about your users and software. Keep the focus related to the software and feel free to go back to a point in the script if the user takes you way off topic.&lt;/p&gt;
+&lt;h3 id=&#34;screen-sharing-&#34;&gt;Screen Sharing 📺&lt;/h3&gt;
+&lt;p&gt;It’s important that you can see what the tester is seeing so that you’re sure you know what they’re talking about. To do this, you can screen share while the tester gives you commands, or the tester can screen share (as long as you get their prior consent).&lt;/p&gt;
+&lt;h3 id=&#34;recording-&#34;&gt;Recording 📼&lt;/h3&gt;
+&lt;p&gt;If you want to record the session, it could be a good way to reference and analyze the tests. However, a dedicated note-taker can be sufficient - and the synthesis process (where you make sense of the information you’ve collected in testing) will be a lot faster. Working with a note-taker allows the interviewer to be present during the test and give their full attention to the tester. Just make sure to get the tester’s consent for any recording, whether it be video, voice, screen, or handwritten.&lt;/p&gt;
+&lt;h3 id=&#34;practice-&#34;&gt;Practice 🧗&lt;/h3&gt;
+&lt;p&gt;Still nervous? Practice a test scenario with a friend, colleague, or relative. The more times you conduct user tests, the more confident you will be. You can use our &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;user testing role play&lt;/a&gt; to practice user testing facilitation (without the pressure!). It includeds a slidedeck, scripts, and role descriptions.&lt;/p&gt;
+&lt;h3 id=&#34;example-script-&#34;&gt;Example script 📃&lt;/h3&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hello! We are [name] and [name] from [organization]. We are both developers trying to make our software better. We want your help to understand how you currently use, or don&amp;rsquo;t use, [software], and what would be better. I would love to hear your thoughts, so please think aloud. Feel free to speak your mind. We are not testing you, we are testing the prototype. We’re still working on it, so it might not work as you expect. We wanted to get your feedback early in the process.&lt;/p&gt;
+&lt;p&gt;This will take about 30 minutes. We won’t be recording but we will be taking handwritten notes, without identifying you. Is that ok with you?&lt;/p&gt;
+&lt;p&gt;Remember, you have the right to stop the test at any time. Do you have any questions before we begin?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warm Up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;How do you normally transfer sensitive files?&lt;/p&gt;
+&lt;p&gt;Approximately how many times have you transferred sensitive files in the past week?&lt;/p&gt;
+&lt;p&gt;Now we are going to look at a prototype. It has limited capability. If there are any interactions that are confusing, or any language you do not understand, please let me know.&lt;/p&gt;
+&lt;p&gt;This is the scenario: You’re a journalist and need to receive sensitive (and potentially damaging) documents from a source. Your security team recently recommended AwesomeDocuments, so you use it for the first time.&lt;/p&gt;
+&lt;p&gt;Your task is to set up an account to receive files from your source. Can you show me how you would do that?&lt;/p&gt;
+&lt;p&gt;Remember to ask open-ended questions throughout, see &lt;a href=&#34;https://simplysecure.org/blog/user-testing-cheatsheet&#34;&gt;User testing cheat sheet&lt;/a&gt; and the &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;Five Whys&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Repeat for other tasks, if you planned any]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Closing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for your time. You’ve helped a lot and this is exactly what we needed. That&amp;rsquo;s all the questions we have. We really appreciate all your insights and learned a lot from your experience. Is there anything else you would like to share?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;next-steps-&#34;&gt;Next steps 👣&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Congrats! You just completed a user test. What did you learn? What surprised you? The next step is sorting out your learnings in a debrief with your team. See the companion resource, &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+}
+
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/92&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>FAQ&#39;s</title>
+      <link>https://sprblm.github.io/devs-guide-to/user-testing/faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/user-testing/faqs/</guid>
+      <description>Frequently Asked Questions WIP page :) please come back later when we&amp;rsquo;ve finished writing this!</description>
+      <content>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;WIP page :) please come back later when we&amp;rsquo;ve finished writing this!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Planning and operations</title>
+      <link>https://sprblm.github.io/devs-guide-to/user-testing/planning-and-operations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/user-testing/planning-and-operations/</guid>
+      <description>Phase 1: Getting ready for user testing 🪞 Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.
+What 🔎 Deciding what to test depends on your team’s agreed upon roadmap. If a user testing phase is already built-in to your development process, you can skip this step.</description>
+      <content>&lt;h1 id=&#34;phase-1-getting-ready-for-user-testing-&#34;&gt;Phase 1: Getting ready for user testing 🪞&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.&lt;/p&gt;
+&lt;h3 id=&#34;what-&#34;&gt;What 🔎&lt;/h3&gt;
+&lt;p&gt;Deciding what to test depends on your team’s agreed upon roadmap. If a user testing phase is already built-in to your development process, you can skip this step. But if you’d like to do a user test and you don’t know what to test (kudos to you!), there are a number of options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ideas for what to test with users:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;New features&lt;/li&gt;
+&lt;li&gt;Known pain-points or bugs&lt;/li&gt;
+&lt;li&gt;Something you’re curious about&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Feeling anxious?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Typically features or parts of a tool that are in development are a great choice because they’re already the focus. However, your team may be apprehensive because user testing might uncover critical errors or misunderstandings. If testing reveals that something can be done better, that doesn’t mean you have to stall development. It means that you now have more information for future improvements.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about or that isn’t working so well.&lt;/p&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can the user add a new entry?&lt;/li&gt;
+&lt;li&gt;Can the user sign up?&lt;/li&gt;
+&lt;li&gt;Can the user send a message?&lt;/li&gt;
+&lt;li&gt;Can the user upload their first document?&lt;/li&gt;
+&lt;li&gt;Can the user fill out their profile?&lt;/li&gt;
+&lt;li&gt;Does the user understand the message?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-&#34;&gt;Why 🏷️&lt;/h3&gt;
+&lt;p&gt;What is your goal? What do you hope to learn? This helps the team remember why you are testing.
+Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We want to know if the messaging is clear before we commit.&lt;/li&gt;
+&lt;li&gt;We get a lot of questions about the signup process so we want to know what to change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-&#34;&gt;How 🤖&lt;/h3&gt;
+&lt;p&gt;Depending on what you decided to test, you may share a prototype with your tester, a beta version, or your current version. Keep in mind that it can be challenging for users to install software that they don’t already have. Is it possible to share a staging version of the tool? Or a live web version if what you want to test is functional? You can also create a simple prototype. To mimic real software, you can simply put a sketch on Google Slides or a PDF. You and your tester just need a common frame of reference.&lt;/p&gt;
+&lt;h3 id=&#34;who-testers-&#34;&gt;Who (Testers) 👋&lt;/h3&gt;
+&lt;p&gt;Who are you going to recruit to be a tester? It’s best to find people who are similar to your target users, but if that’s not possible, you can still test for usability with almost anyone (except people on your team - they know too much!). Inviting the same testers who participated in a previous session won’t produce the best results - you want people with a fresh perspective. Try to get different types of testers so that you’re learning from and about a wide range of users and being inclusive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;power users&lt;/strong&gt;&lt;/em&gt;. These are users that know every aspect of your tool and have been using it or something similar for years.&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;new users&lt;/strong&gt;&lt;/em&gt; of your tool or have never used the feature or part of the tool you&amp;rsquo;re testing.&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;high risk users&lt;/strong&gt;&lt;/em&gt;. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: &lt;a href=&#34;https://simplysecure.org/blog/design-spot-high-risk-research/&#34;&gt;High-Risk User Research&lt;/a&gt;, &lt;a href=&#34;https://usable.tools/personas/&#34;&gt;USABLE Personas&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;People who consider themselves &lt;em&gt;&lt;strong&gt;‘techy’&lt;/strong&gt;&lt;/em&gt; and people who consider themselves &lt;em&gt;&lt;strong&gt;‘not techy’&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;People with &lt;em&gt;&lt;strong&gt;&lt;a href=&#34;https://simplysecure.org/designunderpressure/#stress-cases&#34;&gt;malicious intentions&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; (or people that can pretend to have malicious intentions).&lt;/li&gt;
+&lt;li&gt;People who are &lt;em&gt;&lt;strong&gt;distracted&lt;/strong&gt;&lt;/em&gt; as they use the tool. Think about people with children, jobs where they are ‘on call’, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A note on compensation: In an ideal world, you’d &lt;a href=&#34;https://medium.com/mixed-methods/guidelines-for-paying-ux-research-participants-f6eca2dc9cc3&#34;&gt;compensate people&lt;/a&gt; for their time, expertise, and feedback. However, we understand that this is a lean user testing process. Can you offer them something other than money, such as swag, account upgrades, etc? If you can’t offer anything, try to keep the tests on the shorter side and of course, offer your thanks.&lt;/p&gt;
+&lt;h3 id=&#34;who-facilitators-&#34;&gt;Who (Facilitators) 🧑‍✈️&lt;/h3&gt;
+&lt;p&gt;Depending on your personality, setting up and conducting tests can be tiring. One to two people can lead the task, but others should jump in to help with notes or observation. Decide how to split up the task in the beginning, keeping in mind everyone’s availability. Consider who in your team feels the most comfortable talking to new people and ‘building rapport’ with users as sometimes the interactions can feel awkward until you get into the testing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Testing organizer (emails with testers, sends calendar events, etc): Malek&lt;/li&gt;
+&lt;li&gt;Test 1 interviewer: Joon&lt;/li&gt;
+&lt;li&gt;Test 1 note-taker: Trina&lt;/li&gt;
+&lt;li&gt;Test 2 interviewer: Trina&lt;/li&gt;
+&lt;li&gt;Test 2 note-taker: Malek&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-many-&#34;&gt;How Many 🧺&lt;/h3&gt;
+&lt;p&gt;How many tests will you do? We recommend two to four tests if you’re just getting started. One test is also good (and better than none). Most UX professionals agree that five tests are sufficient in order to gain information that trends a direction, although this can be challenging for small teams without a dedicated designer.&lt;/p&gt;
+&lt;h3 id=&#34;how-long-&#34;&gt;How Long 🧵&lt;/h3&gt;
+&lt;p&gt;Deciding the duration of each test helps the team and your participants manage expectations. We like to do 20-minute, 30-minute, or 45-minute tests, depending on the size of the task. Remember to give yourself some buffer time and end the test promptly at the time limit to respect the participant’s time. Don’t feel the need to schedule test sessions back to back - give your team a break between sessions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Test duration: 30 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;where-&#34;&gt;Where 🏢&lt;/h3&gt;
+&lt;p&gt;Testing can be done in-person and remotely. We recommend that everyone’s face is visible (unless anonymity is crucial) and you all can see what’s being tested. If you give a phone or a laptop to the user, sit next to them (if culturally appropriate) so that you can watch the process. If the testing is remote, you can share your screen (the participant verbally gives commands while you perform the operations) or ask them to share their screen (making sure to get their consent in advance).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jitsi video call with participant screen sharing&lt;/li&gt;
+&lt;li&gt;Lookback.io (not open source sadly!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;p&gt;&lt;strong&gt;Full Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WHAT:&lt;/strong&gt; Can the user upload their first document to the “my notes” section?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHY:&lt;/strong&gt; To ensure the functionality is intuitive to everyday users of the software, and to improve upon the design if it&amp;rsquo;s not. Find UX improvements to propose for the next sprint.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW:&lt;/strong&gt; Prototype in Google Slides&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHO (Testers):&lt;/strong&gt; 2 users who already use our software, 2 users who routinely make digital notes but not in our tool&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHO (Facilitators):&lt;/strong&gt; Samir and Frank&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW MANY:&lt;/strong&gt; 4 tests (if possible)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HOW LONG:&lt;/strong&gt; 45 minutes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WHERE:&lt;/strong&gt; Zoom with participant screen sharing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+}
+
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/90&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Recruiting testers</title>
+      <link>https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/</guid>
+      <description>Phase 2: Gathering your users for testing 🎣 Once you have your intentions documented, you can translate that information to recruit testers.
+Make a list of possible outreach channels where your community gathers, such as: your email list, Twitter followers, bug reports, related communities on Reddit or Discord, your website, or your forum. You could also attend relevant conferences or events related to OSS or your tool and perform user testing during the event.</description>
+      <content>&lt;h1 id=&#34;phase-2-gathering-your-users-for-testing-&#34;&gt;Phase 2: Gathering your users for testing 🎣&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;Once you have your intentions documented, you can translate that information to recruit testers.&lt;/p&gt;
+&lt;p&gt;Make a list of possible outreach channels where your community gathers, such as: your email list, Twitter followers, bug reports, related communities on Reddit or Discord, your website, or your forum. You could also attend relevant conferences or events related to OSS or your tool and perform user testing during the event.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Craft a screener (a short outreach message) that includes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who you are looking for, what kinds of ‘behaviours’ do you want from testers e.g. ‘We want people who use mobile banking daily’&lt;/li&gt;
+&lt;li&gt;How much time they need to commit&lt;/li&gt;
+&lt;li&gt;How they can contact you&lt;/li&gt;
+&lt;li&gt;When you expect to conduct testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Do you have 15 minutes and use [software]?&lt;/p&gt;
+&lt;p&gt;We’d like your help!&lt;/p&gt;
+&lt;p&gt;We are about to release a new version of [our tool/software] and want to hear from you. To help us understand your needs and how to improve [our tool/software], we&amp;rsquo;d like to hear about your experiences with the tool (whether you&amp;rsquo;ve used it for a long time or just recently started using it!).&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re booking 15 minute conversations to better understand how to improve [our tool/software] for everyone. If you&amp;rsquo;re able to participate, please fill out this simple form [add a link to a form].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Are you familiar with [topic to test]?&lt;/p&gt;
+&lt;p&gt;We want to talk to you.&lt;/p&gt;
+&lt;p&gt;I’m [tool team member name], part of the team at [our tool/software]. We are working on a new feature and we&amp;rsquo;d like your help to test it out. We&amp;rsquo;d like to speak with you for 10-20min and have you try it. Thank you!&lt;/p&gt;
+&lt;p&gt;If you are interested and able to help, send me an email: [tool team member email address].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More info:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who can be a tester?&lt;/strong&gt;
+People who use [tool/software] and/or are familiar with [particular technology].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is [tool/software]?&lt;/strong&gt;
+[One sentence about your tool/software]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do I need to prepare?&lt;/strong&gt;
+Nope! Come as you are.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Is it private?&lt;/strong&gt;
+Of course. We will not be recording voice or video. We will be taking brief notes about what works and what doesn&amp;rsquo;t in the design so that we can make improvements. We will not share your identity with anyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hello everybody! Have you ever [activity/feature you are targeting]? If you want to help improve [tool/software], read on!&lt;/p&gt;
+&lt;p&gt;My colleagues and I at [tool/project] want to speak for 30 minutes with a few people who have [experience you want to target].&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested please fill out this short form: [add a link to a form]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s a good idea to filter your participants. Don’t accept all interested participants (that’s too much work!) or just the first people to respond (they might not match who you’re looking for). Your time is precious, find a few users who match your target audience the closest and try to get as many different types of users as possible &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/user-testing/planning-and-operations/#who-testers-&#34;&gt;See “Phase 1 - Who”&lt;/a&gt;. This could mean different types of use cases, people who are (un)familiar with the software, or various frequencies of use.&lt;/p&gt;
+&lt;p&gt;Once you find a candidate that fits what you’re looking for, send them a Calendly link (or similar booking tool). This makes the process easy from their perspective.&lt;/p&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi [participant name],&lt;/p&gt;
+&lt;p&gt;You filled out our interest form “[name of form]”. Thank you so much for your interest in speaking to us. Please choose a time here: [link to a time/date picker]&amp;hellip;&lt;/p&gt;
+&lt;p&gt;If you have any questions, please let me know. Looking forward to speaking with you.&lt;/p&gt;
+&lt;p&gt;Best,
+[your name]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;
+  blockquote.pullquote p:first-of-type::before {
+        
+    color: #fff !important;  
+    content: &#34;&gt;&#34;;
+    display: block;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote {
+    position: relative;
+    background: rgba(120, 226, 160, 0.1);
+    font: inherit;
+    font color: #fff;
+     
+    border-top: 2px solid  var(--accent);
+    border-bottom: 2px solid var(--accent);
+    margin: 40px 0;
+    padding: 25px;
+  }
+
+  blockquote.pullquote&gt;ul li::before {
+    color: #fff !important;
+    content: &#34;-&#34;;
+    left: -10px;
+    position: absolute;
+  }
+
+  blockquote.pullquote p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #fff !important;
+  }
+
+
+  blockquote.pullquote&gt;ul li {
+  padding-left: 4px;
+    color: #fff !important;
+  }
+
+&lt;/style&gt;
+&lt;blockquote class=&#34;pullquote&#34;&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Example #2:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi [participant name],&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m [your name] from [tool/project]. Thank you for your interest in being a tester for [tool/software].&lt;/p&gt;
+&lt;p&gt;Could you please choose a time for our chat here: [link to a time/date picker]&amp;hellip;&lt;/p&gt;
+&lt;p&gt;(If none of the times work for you, please let me know)&lt;/p&gt;
+&lt;p&gt;Looking forward to hearing from you.&lt;/p&gt;
+&lt;p&gt;Best,
+[your name]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unfortunately, this does not guarantee no-shows - that will happen from time to time. It could be helpful to send a reminder email a day before that confirms where and when you’re meeting.&lt;/p&gt;
+&lt;p&gt;Did you use the framework and examples in this page? &lt;style&gt;
+
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #000;
+  background-color: var(--accent);
+  border-radius: $border-radius;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  text-decoration: none;
+  border: 2px solid  var(--accent);
+  cursor: pointer;
+}
+
+  a.markdown-btn:hover {
+    text-decoration: underline;
+    background-color: #EE72F1;
+    border: 2px solid  #EE72F1;
+    color: #000;
+  
+}
+
+
+
+&lt;/style&gt;
+
+
+
+
+  
+
+
+&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/91&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/user-testing/conducting-a-user-test/&#34;&gt;Move on to &amp;ldquo;Conducting a user test”&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

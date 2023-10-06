@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on A devs guide to...</title>
+    <link>https://sprblm.github.io/devs-guide-to/posts/updates/</link>
+    <description>Recent content in Updates on A devs guide to...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sprblm.github.io/devs-guide-to/posts/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting used to user testing at the UXForum</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/getting-used-to-user-testing-at-the-uxforum/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/getting-used-to-user-testing-at-the-uxforum/</guid>
+      <description>As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes.</description>
+      <content>&lt;p&gt;As part of the UXForum 2022, we hosted a session for anyone who wants to practice user testing facilitation (without the pressure!). Our participants got hands-on experience with a practive role play. We prepared test scripts and role descriptions so that participants could try out the process without worrying about the content. Our goal was to help participants gain the confidence to bring user testing into their OSS projects. The only thing missing was more time - it takes time to familiarize with a new character, so we wished to have 15-30 more minutes. Otherwise, participants came back with learnings and new experiences.
+You&amp;rsquo;re welcome to use the slidedeck and scripts with your team. Let us know what you think! &lt;a href=&#34;https://drive.google.com/drive/folders/1wbSHjEhZVqzWMVkxZT_qTSP3RSuJkgxD&#34;&gt;Google folder&lt;/a&gt;
+We had a blast getting to connect with everyone at the &lt;a href=&#34;https://usable.tools/blog/2022-02-07-uxforum2022/&#34;&gt;UX Forum 2022&lt;/a&gt;! Thanks to everyone who participated and facilitated!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A dev&#39;s guide to resources #1-#4 at Mozfest22</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/usable-resources-at-mozfest22/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/usable-resources-at-mozfest22/</guid>
+      <description>Mozilla Festival 2022 is 7th to 11th of March 2022 and the USABLE tools resource team have prepared a short skill share video about our first four resources for the Mozfest audience. Mozfest is 100% free to attend, you only need to register for a ticket.
+You can find the listing for our skill share on the Mozfest 2022 schedule. In the skill share video, we summarize what we discovered when talking with OSS tool teams, give brief explanations of the completed resources, explain how to use them, and show where to find them (here on this website!</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://www.mozillafestival.org/en/#/&#34;&gt;Mozilla Festival 2022&lt;/a&gt; is 7th to 11th of March 2022 and the USABLE tools resource team have prepared a short skill share video about our first four resources for the Mozfest audience. Mozfest is 100% free to attend, you only need to &lt;a href=&#34;https://www.mozillafestival.org/en/#/tito/Mozilla/mozilla-festival-2022/en/registrations/new?releases=rmddu9xc1hs,mozfest-mega-patron&#34;&gt;register for a ticket&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find the listing for our skill share on the &lt;a href=&#34;https://schedule.mozillafestival.org/session/XG8YPK-1&#34;&gt;Mozfest 2022 schedule&lt;/a&gt;. In the skill share video, we summarize what we discovered when talking with OSS tool teams, give brief explanations of the completed resources, explain how to use them, and show where to find them (here on this website!).&lt;/p&gt;
+&lt;p&gt;You can &lt;a href=&#34;https://vimeo.com/manage/videos/679486422&#34;&gt;watch our video here on vimeo&lt;/a&gt; now that Mozfest 2022 has ended. We&amp;rsquo;re really proud of the work we&amp;rsquo;ve done on these first four resources and excited to see how they develop.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - workshop</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-workshop/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-workshop/</guid>
+      <description>After creating the third resource in our user testing series all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.
+In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research.</description>
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; all about the synthesis processes, we wanted to make sure the information was clear so that real OSS tool teams could run and participate in a synthesis process of their own.&lt;/p&gt;
+&lt;p&gt;In our pilot with three team members of unrelated OSS tools, we used sample content from a previous OSS tool user research study. We had the hypothesis that any OSS tool team member could participate in the synthesis process, regardless of their familiarity with the tool or the research. We wanted to convey that synthesis allows everyone to gain a better understanding of the achievements of the user testing/user research and &amp;lsquo;get on the same page&amp;rsquo; as those that conducted/observed the research.&lt;/p&gt;
+&lt;p&gt;We took our OSS tool team participants through the general theory of synthesis of user testing/user research phase. It was important to reiterate the goals of the user testing/user research. We then offered the participants three kinds of user testing/user research outputs (video, long-form notes, short-form notes) and did a preliminary synthesis of each output before doing a wider synthesis and grouping/theming exercise. Due to time constraints, we conducted this session in 90 minutes. This demonstrates what can be achieved in a short amount of time with a dedicated synthesis process.&lt;/p&gt;
+&lt;p&gt;This workshop led to the creation of the resource &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open source&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also check out our &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;session at FOSDEM 2022&lt;/a&gt; and watch the 20-minute video about the synthesis resource as well as some clips from the synthesis workshop.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis at FOSDEM22</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-at-fosdem22/</link>
+      <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-at-fosdem22/</guid>
+      <description>After creating the third resource in our user testing series about the synthesis process and running a small workshop session to test the content with real OSS tool teams, our talk about research synthesis was accepted by the Open Source Design devroom at FOSDEM 2022.
+During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.</description>
+      <content>&lt;p&gt;After creating the &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;third resource in our user testing series&lt;/a&gt; about the synthesis process and &lt;a href=&#34;https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;running a small workshop session&lt;/a&gt; to test the content with real OSS tool teams, our talk about research synthesis was accepted by the &lt;a href=&#34;https://fosdem.org/2022/schedule/track/open_source_design/&#34;&gt;Open Source Design devroom&lt;/a&gt; at &lt;a href=&#34;https://fosdem.org/2022/&#34;&gt;FOSDEM 2022&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During the 20-minute talk, we took our audience through the process of creating resources for the USABLE.tools project and why we focussed on creating the first three resources around the user testing process before delving into the synthesis resource in detail.&lt;/p&gt;
+&lt;p&gt;We explained why synthesis is an important phase not only for designers in OSS tool building, but the wider OSS tool team. As we discovered through many of our initial interviews with OSS tool team members, it can be difficult to understand the value design brings to an OSS tool, as well as where design improvements and insights come from. Along with these challenges, an additional challenge of developers in OSS is finding time to participate in user testing. However, a good synthesis session condenses this information. This also gives the designers and developers in OSS tool teams time to collaborate and understand each others&amp;rsquo; perspectives and roles in making the best OSS tool possible.&lt;/p&gt;
+&lt;p&gt;You can view the &lt;a href=&#34;https://fosdem.org/2022/schedule/event/osd_synthesising_user_testing_insights_with_oss_tool_teams/&#34;&gt;video of the session that is self-hosted by FOSDEM here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you to the team at &lt;a href=&#34;https://opensourcedesign.net/&#34;&gt;Open Source Design&lt;/a&gt; for inviting us to present at FOSDEM 2022!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>A Dev&#39;s guide to synthesis - Resource #3</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-synthesis-resource-3/</link>
+      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-synthesis-resource-3/</guid>
+      <description>Resource #3: Synthesis for open source
+The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Resource #3: Synthesis for open source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The third resource in our user testing series is all about the synthesis process. After conducting a series of user tests, it&amp;rsquo;s necessary to put together and reorganize the data that came out of them - that&amp;rsquo;s synthesis. During a user test, you might get a few &amp;ldquo;Aha!&amp;rdquo; moments, but there also will be insights that you need to piece together. Through synthesis, you&amp;rsquo;ll be considering themes, connections, triggers, and what&amp;rsquo;s missing. It&amp;rsquo;s important to make sense of a user test both on an individual level, and as a team. This synthesis resource specifically helps teams work together to find a common understanding that serves as the foundation of future work.&lt;/p&gt;
+&lt;p&gt;In this resource, we documented the setup process, how to do affinity diagramming, and facilitating synthesis. We had a lot of fun connecting the information to our experiences working in open source, and included several real life examples. After a synthesis process, the next steps for your team are prioritization and sharing out. We mentioned these briefly, but look forward to expanding this content in the future.&lt;/p&gt;
+&lt;p&gt;We highlighted this resource during the community events:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/&#34;&gt;A dev’s guide to synthesis - workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/&#34;&gt;A dev’s guide to synthesis at FOSDEM22&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Developer  Designer Collaboration in open source</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/developer-designer-collaboration/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/developer-designer-collaboration/</guid>
+      <description>Collaboration processes came up in our initial research interviews with tool team members. Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.
+For our fourth resource and community event with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the Sustaining Open Source Design podcast (SOS Design).</description>
+      <content>&lt;p&gt;Collaboration processes came up in our initial research interviews with tool team members.  Without prior experience of collaboration between design and development, OSS tool teams found it difficult to understand what good collaboration means and looks like.&lt;/p&gt;
+&lt;p&gt;For our fourth resource and community event with the OSS community we wanted to facilitate (and participate in) an honest and clear conversation between designers and developers with various experience in OSS. This conversation was held on the &lt;a href=&#34;https://sosdesign.sustainoss.org/&#34;&gt;Sustaining Open Source Design podcast (SOS Design)&lt;/a&gt;. This podcast is a sibling podcast to the &lt;a href=&#34;https://podcast.sustainoss.org/&#34;&gt;Sustain OSS podcast&lt;/a&gt; where hosts and guests discuss what it means to keep OSS thriving and sustainable.&lt;/p&gt;
+&lt;p&gt;For the conversation about how designers and developers collaborate on OSS tools, we invited &lt;a href=&#34;https://twitter.com/yrb1rd&#34;&gt;Sadie&lt;/a&gt; and &lt;a href=&#34;https://luwuxu.com/&#34;&gt;Lucie&lt;/a&gt; of &lt;a href=&#34;https://geti2p.net/en/&#34;&gt;I2P (Invisible Internet Project)&lt;/a&gt;, and &lt;a href=&#34;https://saptaks.website/&#34;&gt;Saptak&lt;/a&gt;, a Human Rights Concerned Web Developer, working as a contractor with Freedom of the Press Foundation. We discussed questions like:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Where does the designer-developer handoff (or better yet, collaboration) begin in your opinion?&lt;/li&gt;
+&lt;li&gt;We&amp;rsquo;ve used the word &amp;lsquo;hand-off&amp;rsquo; but does that narrative need to change? Should hand-off be more like a &amp;lsquo;hands together&amp;rsquo;?&lt;/li&gt;
+&lt;li&gt;Do you have an example of when designer-developer collaboration has worked really well? What does the easiest design spec you&amp;rsquo;ve worked from look like? Which collaboration method with designers do you prefer as you work through implementation?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We also have a &lt;a href=&#34;https://github.com/simplysecure/designer-developer-collaboration-in-OSS/blob/main/In-conversation-with-designers-and-developers-in-OSS-for-SOS-podcast.md&#34;&gt;transcript of the podcast episode here in an open github repository&lt;/a&gt; and the &lt;a href=&#34;https://github.com/simplysecure/designer-developer-collaboration-in-OSS&#34;&gt;repository readme also has a detailed list of questions&lt;/a&gt; on the topic of developer and designer collaboration in OSS (some of which we covered and some we didn&amp;rsquo;t).&lt;/p&gt;
+&lt;p&gt;If you would like to join us for a future part of the conversation on designer and developer collaboration in OSS you can &lt;a href=&#34;https://discourse.sustainoss.org/t/design-ux-working-group/348&#34;&gt;contact the SOS Design podcast here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can listen to the &lt;a href=&#34;https://sosdesign.sustainoss.org/18&#34;&gt;SOS Design podcast episode &amp;lsquo;Collaboration Between Designers and Developers&amp;rsquo; here on the podcast&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Resource #2 of our user testing series</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-usertesting-resource-2/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-usertesting-resource-2/</guid>
+      <description>What is this guide? This guide focuses on informal, DIY, beginner user testing in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.
+Who is it for? We wrote this guide with small (2-20 active contributors or maintainers), open source teams in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!</description>
+      <content>&lt;h4 id=&#34;what-is-this-guide&#34;&gt;What is this guide?&lt;/h4&gt;
+&lt;p&gt;This guide focuses on informal, DIY, beginner &lt;em&gt;&lt;strong&gt;user testing&lt;/strong&gt;&lt;/em&gt; in a process that’s not rigorous but extremely valuable. As a short and practical guide, it helps teams get started, but shouldn’t be used to shift into a career of user research.&lt;/p&gt;
+&lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
+&lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sprblm.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sprblm/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Imakefoss Twitter takeover</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/imakefoss-twitter-takeover/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/imakefoss-twitter-takeover/</guid>
+      <description>From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the IMakeFOSS Twitter account to share the first USABLE resource &amp;ldquo;User testing can be fun&amp;rdquo;.
+Founded by Jason Evangelho and Jochen Spang, IMakeFOSS is a Twitter account and website that gives a voice to open source projects around the world by letting contributors takeover the Tweeting on a weekly basis. Tweets are archived not only on Twitter, but the well-organized website.</description>
+      <content>&lt;p&gt;From December 6th to 10th 2021, Kelsey, Eriol, and Hex took over the &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;IMakeFOSS Twitter account&lt;/a&gt; to share the first USABLE resource &lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;&amp;ldquo;User testing can be fun&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Founded by &lt;a href=&#34;https://twitter.com/KillYourFM&#34;&gt;Jason Evangelho&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/josp0001&#34;&gt;Jochen Spang&lt;/a&gt;, IMakeFOSS is a &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;Twitter account&lt;/a&gt; and &lt;a href=&#34;https://imakefoss.org/&#34;&gt;website&lt;/a&gt; that gives a voice to open source projects around the world by letting contributors takeover the Tweeting on a weekly basis. Tweets are archived not only on &lt;a href=&#34;https://twitter.com/imakefoss&#34;&gt;Twitter&lt;/a&gt;, but the well-organized &lt;a href=&#34;https://imakefoss.org/&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was a really great experience interacting with the community and sharing the UX side of OSS development. Behind the scenes, Kelsey and Eriol prepped the &lt;a href=&#34;https://imakefoss.org/tweets/eriolandkelsey/&#34;&gt;Tweets and images&lt;/a&gt;, responded to comments, and overall had a blast!&lt;/p&gt;
+&lt;p&gt;In preparation for the takeover, Eriol and Kelsey (camouflaged as Fox and Skunk) participated in an &lt;a href=&#34;https://imakefoss.org/curators/eriolfoxandkelseysmith/&#34;&gt;interview to introduce&lt;/a&gt; themselves to the community.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re thankful that to UX designers got the chance to share our message about user testing. Thanks, IMakeFOSS!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun - poster version</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/usertesting-can-be-fun-poster/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/usertesting-can-be-fun-poster/</guid>
+      <description>We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.
+The poster version doesn&amp;rsquo;t require an internet connection to play (like the &amp;lsquo;User testing can be fun: An FAQ interactive guide&amp;rsquo;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.</description>
+      <content>&lt;p&gt;We wanted to make sure that folks who prefer a &amp;lsquo;static&amp;rsquo; resource for the &amp;lsquo;User testing can be fun: An FAQ for small open source teams&amp;rsquo; can have access to the insights and advice too, which is why we made a poster for download and sharing as a digital resource or printing to put up in a workspace.&lt;/p&gt;
+&lt;p&gt;The poster version doesn&amp;rsquo;t require an internet connection to play (like the &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/posts/user-testing-can-be-fun/&#34;&gt;&amp;lsquo;User testing can be fun: An FAQ interactive guide&lt;/a&gt;&amp;rsquo;) as we recognise that not everyone globally has access to a stable connection all of the time and might just want a &amp;lsquo;static&amp;rsquo; version of the FAQ tips and advice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;You can download the high res .pdf hosted on our github repository here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whereas you can fork, clone, edit, play and submit improvements via issues and PRs to the game&amp;rsquo;s repository of code (&lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;like the interactive guide has here&lt;/a&gt;), the poster version can be iterated on and collaborated on in a similar way using an open &lt;a href=&#34;https://penpot.app/&#34;&gt;&amp;lsquo;PenPot&amp;rsquo;&lt;/a&gt; file. Simply upload a &amp;lsquo;finished&amp;rsquo; version of your remixed poster via a pull request to our &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;repository for the &amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; poster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find our poster in a &lt;a href=&#34;https://design.penpot.app/#/view/5ac34dd0-8da2-11ec-a2fe-9eafb5cb1e0f?page-id=5ac34dd1-8da2-11ec-a2fe-9eafb5cb1e0f&amp;amp;section=interactions&amp;amp;index=0&amp;amp;share-id=7163d870-8da2-11ec-a2fe-9eafb5cb1e0f&#34;&gt;PenPot &amp;lsquo;shared prototype&amp;rsquo; here&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>User testing can be fun</title>
+      <link>https://sprblm.github.io/devs-guide-to/posts/updates/user-testing-can-be-fun/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sprblm.github.io/devs-guide-to/posts/updates/user-testing-can-be-fun/</guid>
+      <description>Play the guide on itch.io here
+USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.
+USABLE is a collaboration between Superbloom Design, formerly Simply Secure, Okthanks and Internews looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://usable.itch.io/user-testing-can-be-fun-a-guide-for-oss-developers-and-tool-teams-on-how-to-user&#34;&gt;Play the guide on itch.io here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;USABLE resources focus on supporting maintainers of OSS, developer contributors and OSS tool teams to better understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;USABLE is a collaboration between &lt;a href=&#34;https://superbloom.design/&#34;&gt;Superbloom Design, formerly Simply Secure&lt;/a&gt;, &lt;a href=&#34;https://okthanks.com/&#34;&gt;Okthanks&lt;/a&gt; and &lt;a href=&#34;https://internews.org/&#34;&gt;Internews&lt;/a&gt; looking to build resources for OSS tool teams to help them understand design practices and how that can help them create more user centered tools.&lt;/p&gt;
+&lt;p&gt;This guide and FAQ focuses on user testing and how &amp;lsquo;user testing can be fun&amp;rsquo;.  We built this as an interactive clickable &amp;lsquo;game&amp;rsquo; (created in &lt;a href=&#34;https://www.motoslave.net/sugarcube/&#34;&gt;SugarCube&lt;/a&gt; using &lt;a href=&#34;https://twinery.org/&#34;&gt;Twine&lt;/a&gt; thanks Twine!) so you can follow through with our coder squirrel Hex as they learn all about user testing.&lt;/p&gt;
+&lt;p&gt;Want to &amp;lsquo;fork&amp;rsquo; the Twine HTML code for this game and make your own additions and changes? or found a bug you want to log? You can find the code and an issue tracker on this &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can also find the &amp;lsquo;static&amp;rsquo; poster version of &lt;a href=&#34;https://github.com/simplysecure/usable-user-testing-can-be-fun-poster&#34;&gt;&amp;lsquo;Usertesting can be fun: An FAQ for small open source teams&amp;rsquo; here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
