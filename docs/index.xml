@@ -130,7 +130,7 @@ Who is it for? We wrote this guide with small (2-20 active contributors or maint
 &lt;h4 id=&#34;who-is-it-for&#34;&gt;Who is it for?&lt;/h4&gt;
 &lt;p&gt;We wrote this guide with &lt;em&gt;&lt;strong&gt;small&lt;/strong&gt;&lt;/em&gt; (2-20 active contributors or maintainers), &lt;em&gt;&lt;strong&gt;open source teams&lt;/strong&gt;&lt;/em&gt; in mind. Even if you don’t have a dedicated designer or researcher on your team, user testing can be achievable (and fun!).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/&#34;&gt;Find the full guide here on this microsite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sprblm/devs-guide-to&#34;&gt;Find the repository for this microsite and the page for the guide within here&lt;/a&gt;. The repository for the microsite + guide is all open source and therefore we are happy to recieve pull requests of improvements and issues/bug being raised for ideas or additional content.&lt;/p&gt;
 </content>
     </item>
     
@@ -365,7 +365,7 @@ Who is it for? 🖇️ We wrote this guide with small (2-20 active contributors 
 &lt;h3 id=&#34;how-to-use-this-guide-&#34;&gt;How to use this guide 🦮&lt;/h3&gt;
 &lt;p&gt;This guide breaks down the user testing process into three phases: planning, recruiting, testing. Each phase has detailed instructions and considerations, as well as example templates. It’s best to read through the entire guide before getting started so that you’re familiar with the whole process. After user testing, the next step is organizing and analyzing what you learned. See the companion resource, &lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Synthesis for open-source&lt;/a&gt;, to learn more about research synthesis.&lt;/p&gt;
 &lt;p&gt;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/number-plan2.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/number-plan2.png&#34; alt=&#34;The flow of starting user testing in 4 steps: Plan, Recruit, Test, Learn.&#34; title=&#34;The flow of starting user testing&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-you-need-&#34;&gt;What You Need 📝&lt;/h3&gt;
 &lt;p&gt;You don’t need a lot of resources to do user testing. Support from your team is helpful, but at first you may need to conduct user tests by yourself in order to convince others of the benefits. Openness, humility, and curiosity are important qualities to embrace.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Specifically, it’s good to have:&lt;/strong&gt;&lt;/p&gt;
@@ -661,7 +661,7 @@ a.markdown-btn {
   
 
 
-&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/92&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;a href=&#34;https://github.com/sprblm/devs-guide-to/discussions/92&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/five-whys/&#34;&gt;Move on to The Five Whys&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -773,7 +773,7 @@ a.markdown-btn {
   
 
 
-&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/93&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;a href=&#34;https://github.com/sprblm/devs-guide-to/discussions/93&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/&#34;&gt;Move on to Synthesis for open-source&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -801,7 +801,7 @@ What 🔎 Deciding what to test depends on your team’s agreed upon roadmap. If
 &lt;p&gt;&lt;strong&gt;Feeling anxious?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Typically features or parts of a tool that are in development are a great choice because they’re already the focus. However, your team may be apprehensive because user testing might uncover critical errors or misunderstandings. If testing reveals that something can be done better, that doesn’t mean you have to stall development. It means that you now have more information for future improvements.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/design-dev-comic.png&#34; alt=&#34;A short 3 panel comic about how development and design of a feature can be done at the same time and user insight can be used to make improvements rather than hold up development work &#34; title=&#34;A short comic about how development and design of a feature can happen&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Don’t try to test every part of your software - that’s overwhelming for you and the participant. Instead, choose a small task that you’re curious about or that isn’t working so well.&lt;/p&gt;
 &lt;p&gt;Examples:&lt;/p&gt;
 &lt;ul&gt;
@@ -947,7 +947,7 @@ a.markdown-btn {
   
 
 
-&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/90&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;a href=&#34;https://github.com/sprblm/devs-guide-to/discussions/90&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/recruiting-testers/&#34;&gt;Move on to Recruiting testers&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -1283,7 +1283,7 @@ a.markdown-btn {
   
 
 
-&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/91&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;a href=&#34;https://github.com/sprblm/devs-guide-to/discussions/91&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/&#34;&gt;Move on to &amp;ldquo;Conducting a user test”&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
@@ -1391,8 +1391,8 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;It’s important to work synchronously, either together in a room or an online call. As always, without seeing your collaborators&amp;rsquo; faces it can be hard to communicate complex and inferred information. In addition to video/audio, you will need a space where you’ll write together and then read together is vitally important. If you’re working face to face, you can write on sticky notes and stick them on a wall. If you’re working virtually, there are whiteboard tools like Miro.com, Mural.com, Google Jamboard, or even Google Sheets. There are also open source virtual whiteboards, but they are less user friendly than the commercial proprietary tools. PenPot is the most user friendly OSS tool that we currently know of. Whichever tool you use, each person’s sticky notes should be visible to and moveable by everyone.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;In-line text tools like Google Docs and collaborative writing programs don’t offer a good way to move notes freely on a canvas, and therefore we don’t recommend using those for synthesis (though it can be done if you are persistent!).&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here’s how you might set up your in-person or virtual space:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/virtual-whiteboard.png&#34; alt=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34; title=&#34;an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/in-person-whiteboard.png&#34; alt=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34; title=&#34;The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.&#34;&gt;&lt;/p&gt;
 &lt;style&gt;
   blockquote.pullquote p:first-of-type::before {
         
@@ -1475,7 +1475,7 @@ Why do synthesis? 🤷 Synthesis helps teams and individuals understand what use
 &lt;p&gt;All the sticky notes should be on the collaborative whiteboard where you’re working. It looks pretty chaotic and messy, but don’t worry, that’s completely normal. By organizing and grouping data together, we can start to see the structure of a problem or insight.&lt;/p&gt;
 &lt;p&gt;You are going to look for commonalities between the problems, comments, insights and observations. Every person will read a sticky note and move it close to other related sticky notes. It doesn’t matter where you start as long as you don’t spend too much time in detailed discussion about a single sticky note. You can always move sticky notes if you find later there’s a better grouping.&lt;/p&gt;
 &lt;p&gt;Label each theme cluster to make it easier to identify. These can be a description of the users’ actions, like ‘sign-up registration’, or a more abstract theme such as ‘Fairness’ and ‘Equality’. By the end, you’ll have a collection of sticky notes arranged in a hub and spoke pattern, with the hubs being your theme labels.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/simplysecure/devs-guide-to/main/static/cluster-nodes2.png&#34; alt=&#34;an illustration of how synthesis clustering can look like &amp;amp;lsquo;hub and spoke&amp;amp;rsquo; nodes&#34; title=&#34;an illustration of how synthesis clustering can look like &#39;hub and spoke&#39; nodes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sprblm/devs-guide-to/main/static/cluster-nodes2.png&#34; alt=&#34;an illustration of how synthesis clustering can look like &amp;amp;lsquo;hub and spoke&amp;amp;rsquo; nodes&#34; title=&#34;an illustration of how synthesis clustering can look like &#39;hub and spoke&#39; nodes&#34;&gt;&lt;/p&gt;
 &lt;p&gt;After you’ve moved each sticky note into a cluster, you can start a slower and more detailed second round of review. Pay attention to any big cluster groups. Can these be broken down into smaller clusters by being more specific with how you name the theme? Similarly, review very small groups of 1-3 sticky notes - they might fit into other groups. It can be difficult to not expand into thinking of solutions or implementation when synthesising but this is not (yet) the time for that.&lt;/p&gt;
 &lt;p&gt;You can also change the theme title to a descriptive statement. This is part of storytelling and important for communicating back to the wider OSS community and also can inform how you write issues or tasks from a user point of view.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; &lt;em&gt;Remember to be careful when factual information collected from user research becomes your own interpretation. You want to avoid making any assumptions. If you find yourself making a lot of assumptions, that&amp;rsquo;s a sign you need to re-test these elements with users to get clarification.&lt;/em&gt;&lt;/p&gt;
@@ -1680,7 +1680,7 @@ a.markdown-btn {
   
 
 
-&lt;a href=&#34;https://github.com/simplysecure/devs-guide-to/discussions/94&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
+&lt;a href=&#34;https://github.com/sprblm/devs-guide-to/discussions/94&#34;   target=&#34;_blank&#34; rel=&#34;noreferrer&#34; class=&#34;markdown-btn&#34;&gt;Tell us about it&lt;/a&gt; on our GitHub discussions!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://simplysecure.github.io/devs-guide-to/&#34;&gt;Go back to the homepage?&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
