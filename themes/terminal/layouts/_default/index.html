@@ -4,7 +4,7 @@
       {{ .Content }}
     </div>
   {{ end }}
-  <div class="posts">
+  {{/*  <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
     {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
 
@@ -60,6 +60,6 @@
         {{ end }}
       </div>
     {{ end }}
-    {{ partial "pagination.html" . }}
+    {{ partial "pagination.html" . }}  */}}
   </div>
 {{ end }}
