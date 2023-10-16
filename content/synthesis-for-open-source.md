@@ -25,7 +25,7 @@ Synthesis can be applied similarly to both Open Source Software and non-open sou
 
 ### Keep in mind… 🧠
 
-Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game [‘User testing can be fun’!](https://github.com/simplysecure/usable-user-testing-can-be-fun)
+Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game [‘User testing can be fun’!](https://github.com/sprblm/usable-user-testing-can-be-fun)
 
 ### What is ‘synthesis’ not? 🙅‍♀️
 
@@ -64,7 +64,7 @@ Finally, the goal is **not** to act on what any single user requests, but to use
 
 So that all the important stories, actions, and comments are still fresh in your mind, it’s best to do some synthesis as soon as possible. We recommend that you briefly capture and organize notes right after the test (if not immediately, hopefully within 48 hours). Then work on the cumulative synthesis once all user tests are completed (within 2 weeks).
 
-After each test, the facilitators and observers can fill out a [debrief template](https://docs.google.com/document/d/1Lw8Bu0mjSWn5ej1fSyDFXi-xnDMixUfYt-1Ddbm1siA/edit) (individually or through group discussion). This helps everyone think about all aspects of the user test, not just about what the users said and did, but any body language, inferred meaning and interpretations.
+After each test, the facilitators and observers can fill out a [debrief template in Google Doc format](https://docs.google.com/document/d/16XKz1WDgbfzQGZhUOatDdcHL-NoIKwTzBiztp_E3H3Y/edit?usp=drive_link) or [debrief template in PDF format](https://drive.google.com/file/d/1oPHVHKLKgTBNVVL3Tq-WoQcirRQteU7e/view?usp=drive_link) (individually or through group discussion). This helps everyone think about all aspects of the user test, not just about what the users said and did, but any body language, inferred meaning and interpretations.
 
 ### Make it a party 🎉
 
@@ -277,4 +277,4 @@ We all will bring perspectives and biases into the work we do. We can always wor
 Did you use the framework and examples in this page? {{< button href="https://github.com/sprblm/devs-guide-to/discussions/94" >}}Tell us about it{{< /button >}} on our GitHub discussions!
 
 
-[Go back to the homepage?](https://simplysecure.github.io/devs-guide-to/)
+[Go back to the homepage?](https://sprblm.github.io/devs-guide-to/synthesis)
