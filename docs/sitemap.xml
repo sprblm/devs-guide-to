@@ -2,69 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://simplysecure.github.io/devs-guide-to/updates/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <loc>https://sprblm.github.io/devs-guide-to/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/getting-used-to-user-testing-at-the-uxforum/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/getting-used-to-user-testing-at-the-uxforum/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/getting-used-to-user-testing-at-the-uxforum/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/usable-resources-at-mozfest22/</loc>
     <lastmod>2021-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/usable-resources-at-mozfest22/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/usable-resources-at-mozfest22/</loc>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-workshop/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-workshop/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/synthesis-for-open-source-workshop/</loc>
+    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/synthesis-for-open-source-at-fosdem22/</loc>
     <lastmod>2021-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/synthesis-for-open-source-at-fosdem22/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/synthesis-for-open-source-at-fosdem22/</loc>
+    <lastmod>2021-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/devs-guide-to-synthesis-resource-3/</loc>
     <lastmod>2021-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/developer-designer-collaboration/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-synthesis-resource-3/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/devs-guide-to-synthesis-resource-3/</loc>
+    <lastmod>2021-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/developer-designer-collaboration/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/developer-designer-collaboration/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/developer-designer-collaboration/</loc>
+    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/devs-guide-to-usertesting-resource-2/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/devs-guide-to-usertesting-resource-2/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/devs-guide-to-usertesting-resource-2/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/imakefoss-twitter-takeover/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/imakefoss-twitter-takeover/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/imakefoss-twitter-takeover/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/usertesting-can-be-fun-poster/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/posts/user-testing-can-be-fun/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/usertesting-can-be-fun-poster/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/usertesting-can-be-fun-poster/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/updates/user-testing-can-be-fun/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/about/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/posts/user-testing-can-be-fun/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/updates/user-testing-can-be-fun/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/about/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/news/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>https://sprblm.github.io/devs-guide-to/a-dev-guide-to-usertesting/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/a-dev-guide-to-usertesting/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/a-dev-guide-to-usertesting/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/categories/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/categories/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/conducting-a-user-test/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/conducting-a-user-test/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/faqs/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/conducting-a-user-test/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/five-whys/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/faqs/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/planning-and-operations/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/faqs/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/prioritisation/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/five-whys/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/recruiting-testers/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/synthesis-for-open-source/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/planning-and-operations/</loc>
   </url><url>
-    <loc>https://simplysecure.github.io/devs-guide-to/tags/</loc>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/planning-and-operations/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/prioritization/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/recruiting-testers/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/user-testing/recruiting-testers/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/synthesis-for-open-source/</loc>
+  </url><url>
+    <loc>https://sprblm.github.io/devs-guide-to/tags/</loc>
   </url>
 </urlset>
