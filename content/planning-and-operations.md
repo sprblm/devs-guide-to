@@ -51,9 +51,9 @@ Who are you going to recruit to be a tester? It’s best to find people who are 
 
 - People who are ***power users***. These are users that know every aspect of your tool and have been using it or something similar for years.
 - People who are ***new users*** of your tool or have never used the feature or part of the tool you're testing.
-- People who are ***high risk users***. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: [High-Risk User Research](https://simplysecure.org/blog/design-spot-high-risk-research/), [USABLE Personas](https://usable.tools/personas/))
+- People who are ***high risk users***. Regardless of the nature of your tool, it’s always good to test with people who are at risk if security and privacy is connected to their safety. (Resources for conducting high-risk user research: [High-Risk User Research](https://superbloom.design/learning/resources/design-spot-high-risk-research/), [USABLE Personas](https://usable.tools/personas/))
 - People who consider themselves ***‘techy’*** and people who consider themselves ***‘not techy’***.
-- People with ***[malicious intentions](https://simplysecure.org/designunderpressure/#stress-cases)*** (or people that can pretend to have malicious intentions).
+- People with ***[malicious intentions](https://superbloom.design/learning/resources/what-are-stress-cases/)*** (or people that can pretend to have malicious intentions).
 - People who are ***distracted*** as they use the tool. Think about people with children, jobs where they are ‘on call’, etc.
 
 A note on compensation: In an ideal world, you’d [compensate people](https://medium.com/mixed-methods/guidelines-for-paying-ux-research-participants-f6eca2dc9cc3) for their time, expertise, and feedback. However, we understand that this is a lean user testing process. Can you offer them something other than money, such as swag, account upgrades, etc? If you can’t offer anything, try to keep the tests on the shorter side and of course, offer your thanks.
